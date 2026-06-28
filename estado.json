@@ -1,0 +1,68 @@
+{
+    "saldo_anterior": 9986.34,
+    "saldos_virtuais": {
+        "brl": 8498.303030303196,
+        "btc": 0.0,
+        "eth": 0.0,
+        "sol": 2.018951222138473,
+        "ltc": 3.3818917772986463
+    },
+    "historico_trades": [
+        {
+            "timestamp": "2026-06-28T21:11:22.780636+00:00",
+            "ticker": "solbrl",
+            "acao": "COMPRAR",
+            "quantidade": 1500.0,
+            "preco_estimado": 371.25
+        },
+        {
+            "timestamp": "2026-06-28T21:20:49.326011+00:00",
+            "ticker": "solbrl",
+            "acao": "VENDER",
+            "quantidade": 2.02020202,
+            "preco_estimado": 370.42
+        },
+        {
+            "timestamp": "2026-06-28T21:37:25.805036+00:00",
+            "ticker": "solbrl",
+            "acao": "VENDER",
+            "quantidade": 2.0202020204040405,
+            "preco_estimado": 371.24
+        },
+        {
+            "timestamp": "2026-06-28T21:40:38.823187+00:00",
+            "ticker": "solbrl",
+            "acao": "COMPRAR",
+            "quantidade": 750.0,
+            "preco_estimado": 371.48
+        },
+        {
+            "timestamp": "2026-06-28T21:40:38.823187+00:00",
+            "ticker": "ltcbrl",
+            "acao": "COMPRAR",
+            "quantidade": 250.0,
+            "preco_estimado": 222.7
+        },
+        {
+            "timestamp": "2026-06-28T21:48:29.229255+00:00",
+            "ticker": "ltcbrl",
+            "acao": "COMPRAR",
+            "quantidade": 250.0,
+            "preco_estimado": 222.13
+        },
+        {
+            "timestamp": "2026-06-28T21:56:50.585702+00:00",
+            "ticker": "ltcbrl",
+            "acao": "COMPRAR",
+            "quantidade": 250.0,
+            "preco_estimado": 220.49
+        }
+    ],
+    "licoes_aprendidas": "Mercado segue majoritariamente baixista. BTC e ETH sem sinais de reversão. SOL mantém-se estável, justificando a manutenção da posição. LTC apresenta o melhor setup de acumulação entre os ativos monitorados, com suporte em Fibonacci e MACD melhorando. Caixa BRL preservado acima de 85% continua como prioridade. Evitar exposição a ativos com RSI abaixo de 30 e MACD negativo.",
+    "ultima_execucao": "2026-06-28T21:56:50.585702+00:00",
+    "precos_medios_reais": {
+        "btc": 312000.0,
+        "eth": 8200.0,
+        "sol": 370.0
+    }
+}

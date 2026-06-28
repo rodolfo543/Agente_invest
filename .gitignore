@@ -1,0 +1,21 @@
+# Credenciais Privadas
+.env
+
+# Python Caches e Bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Arquivos Temporários e Gráficos
+charts/
+*.png
+*.tmp
+
+# Arquivos de Sistema
+.DS_Store
+Thumbs.db
