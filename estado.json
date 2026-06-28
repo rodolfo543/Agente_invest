@@ -1,11 +1,12 @@
 {
-    "saldo_anterior": 9987.33,
+    "saldo_anterior": 9993.43,
     "saldos_virtuais": {
-        "brl": 8248.303030303196,
+        "brl": 7798.303030303196,
         "btc": 0.0,
         "eth": 0.0,
         "sol": 2.018951222138473,
-        "ltc": 4.517790727728016
+        "ltc": 5.647274779413206,
+        "uni": 13.149243918474687
     },
     "historico_trades": [
         {
@@ -63,10 +64,24 @@
             "acao": "COMPRAR",
             "quantidade": 250.0,
             "preco_estimado": 220.09
+        },
+        {
+            "timestamp": "2026-06-28T23:14:02.254436+00:00",
+            "ticker": "unibrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 15.21
+        },
+        {
+            "timestamp": "2026-06-28T23:14:02.254455+00:00",
+            "ticker": "ltcbrl",
+            "acao": "COMPRAR",
+            "quantidade": 250.0,
+            "preco_estimado": 221.34
         }
     ],
-    "licoes_aprendidas": "Mercado geral mantém viés baixista, com maioria dos ativos apresentando RSI baixo e MACD negativo. LTC confirma melhor setup de acumulação com histograma MACD positivo e proximidade do suporte Fibonacci. Caixa BRL preservado em 84.98% garante segurança. Exposição mantida em SOL e LTC. Estratégia de compras fracionadas em LTC continua válida para aproveitar possível reversão.",
-    "ultima_execucao": "2026-06-28T22:21:24.539495+00:00",
+    "licoes_aprendidas": "Mercado segue predominantemente baixista, com maioria dos ativos em tendência de queda, RSI sobrevendido e MACD negativo. LTC e UNI se destacam como pontos fora da curva: LTC mantém histograma MACD positivo e suporte de Fibonacci, justificando a continuidade da acumulação fracionada. UNI apresenta força relativa rara, com MACD crescente e rompimento de resistências, tornando-se o único ativo com sinal de compra claro fora da estratégia já existente. Caixa BRL ainda robusto (82.6% do saldo inicial) garante segurança para novas oportunidades. Exposição mantida em SOL e LTC, com pequena adição em UNI para diversificação controlada. Evitar compras impulsivas em ativos sobrevendidos sem confirmação de reversão.",
+    "ultima_execucao": "2026-06-28T23:14:02.254460+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
