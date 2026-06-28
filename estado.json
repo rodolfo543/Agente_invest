@@ -1,11 +1,11 @@
 {
-    "saldo_anterior": 9986.34,
+    "saldo_anterior": 9987.33,
     "saldos_virtuais": {
-        "brl": 8498.303030303196,
+        "brl": 8248.303030303196,
         "btc": 0.0,
         "eth": 0.0,
         "sol": 2.018951222138473,
-        "ltc": 3.3818917772986463
+        "ltc": 4.517790727728016
     },
     "historico_trades": [
         {
@@ -56,10 +56,17 @@
             "acao": "COMPRAR",
             "quantidade": 250.0,
             "preco_estimado": 220.49
+        },
+        {
+            "timestamp": "2026-06-28T22:21:24.539479+00:00",
+            "ticker": "ltcbrl",
+            "acao": "COMPRAR",
+            "quantidade": 250.0,
+            "preco_estimado": 220.09
         }
     ],
-    "licoes_aprendidas": "Mercado segue majoritariamente baixista. BTC e ETH sem sinais de reversão. SOL mantém-se estável, justificando a manutenção da posição. LTC apresenta o melhor setup de acumulação entre os ativos monitorados, com suporte em Fibonacci e MACD melhorando. Caixa BRL preservado acima de 85% continua como prioridade. Evitar exposição a ativos com RSI abaixo de 30 e MACD negativo.",
-    "ultima_execucao": "2026-06-28T21:56:50.585702+00:00",
+    "licoes_aprendidas": "Mercado geral mantém viés baixista, com maioria dos ativos apresentando RSI baixo e MACD negativo. LTC confirma melhor setup de acumulação com histograma MACD positivo e proximidade do suporte Fibonacci. Caixa BRL preservado em 84.98% garante segurança. Exposição mantida em SOL e LTC. Estratégia de compras fracionadas em LTC continua válida para aproveitar possível reversão.",
+    "ultima_execucao": "2026-06-28T22:21:24.539495+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
