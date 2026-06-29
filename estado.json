@@ -1,11 +1,11 @@
 {
-    "saldo_anterior": 10059.19,
+    "saldo_anterior": 10080.06,
     "saldos_virtuais": {
-        "brl": 7745.123030303195,
+        "brl": 7897.5170574379,
         "btc": 0.0,
         "eth": 0.0,
-        "sol": 1.018951222138473,
-        "ltc": 6.769810812819879,
+        "sol": 0.0,
+        "ltc": 7.875858682571682,
         "uni": 26.16668729259601
     },
     "historico_trades": [
@@ -99,10 +99,24 @@
             "acao": "COMPRAR",
             "quantidade": 200.0,
             "preco_estimado": 15.364
+        },
+        {
+            "timestamp": "2026-06-29T21:25:37.382118+00:00",
+            "ticker": "solbrl",
+            "acao": "VENDER",
+            "quantidade": 1.018951222138473,
+            "preco_estimado": 394.91
+        },
+        {
+            "timestamp": "2026-06-29T21:25:37.382134+00:00",
+            "ticker": "ltcbrl",
+            "acao": "COMPRAR",
+            "quantidade": 250.0,
+            "preco_estimado": 226.03
         }
     ],
-    "licoes_aprendidas": "Mercado mostra sinais mistos: SOL e UNI se destacam positivamente, com SOL atingindo resistência e UNI mantendo tendência de alta. LTC continua com bom perfil de acumulação. Maioria dos ativos permanece sobrevendida, mas sem força de reversão clara. Decisão de realizar lucros parciais em SOL (após forte alta) e manter acumulação gradual em LTC e UNI, preservando caixa robusto (>70%) para oportunidades futuras. Evitar compras em ativos com dados inconsistentes (SHIB) ou alta volatilidade sem confirmação (CHZ).",
-    "ultima_execucao": "2026-06-29T17:19:42.668121+00:00",
+    "licoes_aprendidas": "SOL atingiu resistência do Bollinger e realizamos lucro integral. LTC mantém bom perfil de acumulação gradual com histograma MACD positivo. Maioria dos ativos permanece sobrevendida (RSI < 40), mas sem confirmação técnica para reversão (MACDs ainda negativos ou fracos). Caixa robusto mantido para oportunidades futuras. Evitar ativos com dados inconsistentes (SHIB) ou quedas abruptas sem estabilização (SNX, SAND).",
+    "ultima_execucao": "2026-06-29T21:25:37.382138+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
