@@ -1,12 +1,12 @@
 {
-    "saldo_anterior": 9993.43,
+    "saldo_anterior": 10059.19,
     "saldos_virtuais": {
-        "brl": 7798.303030303196,
+        "brl": 7745.123030303195,
         "btc": 0.0,
         "eth": 0.0,
-        "sol": 2.018951222138473,
-        "ltc": 5.647274779413206,
-        "uni": 13.149243918474687
+        "sol": 1.018951222138473,
+        "ltc": 6.769810812819879,
+        "uni": 26.16668729259601
     },
     "historico_trades": [
         {
@@ -78,10 +78,31 @@
             "acao": "COMPRAR",
             "quantidade": 250.0,
             "preco_estimado": 221.34
+        },
+        {
+            "timestamp": "2026-06-29T17:19:42.668100+00:00",
+            "ticker": "solbrl",
+            "acao": "VENDER",
+            "quantidade": 1.0,
+            "preco_estimado": 396.82
+        },
+        {
+            "timestamp": "2026-06-29T17:19:42.668114+00:00",
+            "ticker": "ltcbrl",
+            "acao": "COMPRAR",
+            "quantidade": 250.0,
+            "preco_estimado": 222.71
+        },
+        {
+            "timestamp": "2026-06-29T17:19:42.668118+00:00",
+            "ticker": "unibrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 15.364
         }
     ],
-    "licoes_aprendidas": "Mercado segue predominantemente baixista, com maioria dos ativos em tendência de queda, RSI sobrevendido e MACD negativo. LTC e UNI se destacam como pontos fora da curva: LTC mantém histograma MACD positivo e suporte de Fibonacci, justificando a continuidade da acumulação fracionada. UNI apresenta força relativa rara, com MACD crescente e rompimento de resistências, tornando-se o único ativo com sinal de compra claro fora da estratégia já existente. Caixa BRL ainda robusto (82.6% do saldo inicial) garante segurança para novas oportunidades. Exposição mantida em SOL e LTC, com pequena adição em UNI para diversificação controlada. Evitar compras impulsivas em ativos sobrevendidos sem confirmação de reversão.",
-    "ultima_execucao": "2026-06-28T23:14:02.254460+00:00",
+    "licoes_aprendidas": "Mercado mostra sinais mistos: SOL e UNI se destacam positivamente, com SOL atingindo resistência e UNI mantendo tendência de alta. LTC continua com bom perfil de acumulação. Maioria dos ativos permanece sobrevendida, mas sem força de reversão clara. Decisão de realizar lucros parciais em SOL (após forte alta) e manter acumulação gradual em LTC e UNI, preservando caixa robusto (>70%) para oportunidades futuras. Evitar compras em ativos com dados inconsistentes (SHIB) ou alta volatilidade sem confirmação (CHZ).",
+    "ultima_execucao": "2026-06-29T17:19:42.668121+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
