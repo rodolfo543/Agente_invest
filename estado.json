@@ -1,12 +1,15 @@
 {
-    "saldo_anterior": 10080.06,
+    "saldo_anterior": 10006.02,
     "saldos_virtuais": {
-        "brl": 7897.5170574379,
-        "btc": 0.0,
-        "eth": 0.0,
+        "brl": 6747.5170574379,
+        "btc": 0.0008108169467228401,
+        "eth": 0.024161884627000908,
         "sol": 0.0,
-        "ltc": 7.875858682571682,
-        "uni": 26.16668729259601
+        "ltc": 9.016265579752597,
+        "uni": 26.16668729259601,
+        "dot": 34.778576396939485,
+        "bnb": 0.06964515792039559,
+        "ada": 132.53810470510274
     },
     "historico_trades": [
         {
@@ -113,10 +116,52 @@
             "acao": "COMPRAR",
             "quantidade": 250.0,
             "preco_estimado": 226.03
+        },
+        {
+            "timestamp": "2026-06-30T21:26:57.479696+00:00",
+            "ticker": "btcbrl",
+            "acao": "COMPRAR",
+            "quantidade": 250.0,
+            "preco_estimado": 308331.0
+        },
+        {
+            "timestamp": "2026-06-30T21:26:57.479713+00:00",
+            "ticker": "ethbrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 8277.5
+        },
+        {
+            "timestamp": "2026-06-30T21:26:57.479716+00:00",
+            "ticker": "dotbrl",
+            "acao": "COMPRAR",
+            "quantidade": 150.0,
+            "preco_estimado": 4.313
+        },
+        {
+            "timestamp": "2026-06-30T21:26:57.479719+00:00",
+            "ticker": "bnbbrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 2871.7
+        },
+        {
+            "timestamp": "2026-06-30T21:26:57.479721+00:00",
+            "ticker": "adabrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 0.7545
+        },
+        {
+            "timestamp": "2026-06-30T21:26:57.479723+00:00",
+            "ticker": "ltcbrl",
+            "acao": "COMPRAR",
+            "quantidade": 250.0,
+            "preco_estimado": 219.22
         }
     ],
-    "licoes_aprendidas": "SOL atingiu resistência do Bollinger e realizamos lucro integral. LTC mantém bom perfil de acumulação gradual com histograma MACD positivo. Maioria dos ativos permanece sobrevendida (RSI < 40), mas sem confirmação técnica para reversão (MACDs ainda negativos ou fracos). Caixa robusto mantido para oportunidades futuras. Evitar ativos com dados inconsistentes (SHIB) ou quedas abruptas sem estabilização (SNX, SAND).",
-    "ultima_execucao": "2026-06-29T21:25:37.382138+00:00",
+    "licoes_aprendidas": "Mercado amplamente sobrevendido (RSI < 40) com histogramas MACD começando a reverter em ETH, ADA, LTC e UNI. BTC testa suporte chave Fibonacci e Bollinger inferior, oportunidade de acumulação. Caixa ainda robusto (R$7897), alocado em compras fracionadas (BTC, ETH, DOT, BNB, ADA, LTC) totalizando R$1150. Manter UNI em observação no suporte Fibonacci 0.5. Evitar ativos com dados inconsistentes (SHIB) ou quedas abruptas sem estabilização (SAND, SNX). Preservação de capital mantida com R$6747 em caixa após compras.",
+    "ultima_execucao": "2026-06-30T21:26:57.479727+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
