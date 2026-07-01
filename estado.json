@@ -1,15 +1,15 @@
 {
-    "saldo_anterior": 10006.02,
+    "saldo_anterior": 10079.8,
     "saldos_virtuais": {
-        "brl": 6747.5170574379,
-        "btc": 0.0008108169467228401,
-        "eth": 0.024161884627000908,
+        "brl": 5797.5170574379,
+        "btc": 0.0015978293531864157,
+        "eth": 0.04759343520986073,
         "sol": 0.0,
-        "ltc": 9.016265579752597,
+        "ltc": 10.133833751411068,
         "uni": 26.16668729259601,
-        "dot": 34.778576396939485,
+        "dot": 68.95492636276313,
         "bnb": 0.06964515792039559,
-        "ada": 132.53810470510274
+        "ada": 255.02708069726344
     },
     "historico_trades": [
         {
@@ -158,10 +158,45 @@
             "acao": "COMPRAR",
             "quantidade": 250.0,
             "preco_estimado": 219.22
+        },
+        {
+            "timestamp": "2026-07-01T21:26:45.279191+00:00",
+            "ticker": "btcbrl",
+            "acao": "COMPRAR",
+            "quantidade": 250.0,
+            "preco_estimado": 317657.0
+        },
+        {
+            "timestamp": "2026-07-01T21:26:45.279205+00:00",
+            "ticker": "ethbrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 8535.5
+        },
+        {
+            "timestamp": "2026-07-01T21:26:45.279209+00:00",
+            "ticker": "ltcbrl",
+            "acao": "COMPRAR",
+            "quantidade": 250.0,
+            "preco_estimado": 223.7
+        },
+        {
+            "timestamp": "2026-07-01T21:26:45.279211+00:00",
+            "ticker": "dotbrl",
+            "acao": "COMPRAR",
+            "quantidade": 150.0,
+            "preco_estimado": 4.389
+        },
+        {
+            "timestamp": "2026-07-01T21:26:45.279213+00:00",
+            "ticker": "adabrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 0.8164
         }
     ],
-    "licoes_aprendidas": "Mercado amplamente sobrevendido (RSI < 40) com histogramas MACD começando a reverter em ETH, ADA, LTC e UNI. BTC testa suporte chave Fibonacci e Bollinger inferior, oportunidade de acumulação. Caixa ainda robusto (R$7897), alocado em compras fracionadas (BTC, ETH, DOT, BNB, ADA, LTC) totalizando R$1150. Manter UNI em observação no suporte Fibonacci 0.5. Evitar ativos com dados inconsistentes (SHIB) ou quedas abruptas sem estabilização (SAND, SNX). Preservação de capital mantida com R$6747 em caixa após compras.",
-    "ultima_execucao": "2026-06-30T21:26:57.479727+00:00",
+    "licoes_aprendidas": "Mercado mostra recuperação seletiva: BTC, ETH e ADA com histogramas MACD positivos e RSI saindo de sobrevenda. SOL em sobrecompra (RSI 62.8, acima Bollinger superior), requer cautela. DOT e CHZ sobrevendidos (RSI <33) com potencial de swing, mas DOT é preferido por menor volatilidade e saldo existente. Manter caixa BRL (R$6747) alocado em compras fracionadas para preservação de capital.",
+    "ultima_execucao": "2026-07-01T21:26:45.279217+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
