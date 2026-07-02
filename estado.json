@@ -1,15 +1,17 @@
 {
-    "saldo_anterior": 10079.8,
+    "saldo_anterior": 10207.83,
     "saldos_virtuais": {
-        "brl": 5797.5170574379,
+        "brl": 4764.8670574379,
         "btc": 0.0015978293531864157,
-        "eth": 0.04759343520986073,
+        "eth": 0.07565526102449553,
         "sol": 0.0,
         "ltc": 10.133833751411068,
-        "uni": 26.16668729259601,
-        "dot": 68.95492636276313,
+        "uni": 16.16668729259601,
+        "dot": 136.55294348759412,
         "bnb": 0.06964515792039559,
-        "ada": 255.02708069726344
+        "ada": 551.9744616213636,
+        "chz": 2120.4410517387614,
+        "link": 4.89272696137192
     },
     "historico_trades": [
         {
@@ -193,10 +195,52 @@
             "acao": "COMPRAR",
             "quantidade": 100.0,
             "preco_estimado": 0.8164
+        },
+        {
+            "timestamp": "2026-07-02T16:21:28.913765+00:00",
+            "ticker": "ethbrl",
+            "acao": "COMPRAR",
+            "quantidade": 250.0,
+            "preco_estimado": 8908.9
+        },
+        {
+            "timestamp": "2026-07-02T16:21:28.913781+00:00",
+            "ticker": "chzbrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 0.09432
+        },
+        {
+            "timestamp": "2026-07-02T16:21:28.913784+00:00",
+            "ticker": "linkbrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 40.877
+        },
+        {
+            "timestamp": "2026-07-02T16:21:28.913786+00:00",
+            "ticker": "adabrl",
+            "acao": "COMPRAR",
+            "quantidade": 250.0,
+            "preco_estimado": 0.8419
+        },
+        {
+            "timestamp": "2026-07-02T16:21:28.913789+00:00",
+            "ticker": "unibrl",
+            "acao": "VENDER",
+            "quantidade": 10.0,
+            "preco_estimado": 16.735
+        },
+        {
+            "timestamp": "2026-07-02T16:21:28.913791+00:00",
+            "ticker": "dotbrl",
+            "acao": "COMPRAR",
+            "quantidade": 300.0,
+            "preco_estimado": 4.438
         }
     ],
-    "licoes_aprendidas": "Mercado mostra recuperação seletiva: BTC, ETH e ADA com histogramas MACD positivos e RSI saindo de sobrevenda. SOL em sobrecompra (RSI 62.8, acima Bollinger superior), requer cautela. DOT e CHZ sobrevendidos (RSI <33) com potencial de swing, mas DOT é preferido por menor volatilidade e saldo existente. Manter caixa BRL (R$6747) alocado em compras fracionadas para preservação de capital.",
-    "ultima_execucao": "2026-07-01T21:26:45.279217+00:00",
+    "licoes_aprendidas": "Altcoins com forte recuperação (ETH, ADA, LINK, UNI) apresentam sinais de sobrecompra local em UNI, exigindo realização parcial. DOT e CHZ surgem como oportunidades de swing sobrevendidas com MACD positivo. SOL e SHIB devem ser evitados por sobrecompra e dados inconsistentes. Estratégia de compras fracionadas em ativos selecionados mantém a preservação de capital com BRL reserva de caixa. Monitorar UNI para possível venda adicional se continuar esticado.",
+    "ultima_execucao": "2026-07-02T16:21:28.913794+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
