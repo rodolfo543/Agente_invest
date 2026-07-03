@@ -1,57 +1,22 @@
 {
-    "saldo_anterior": 10371.99,
+    "saldo_anterior": 10620.0,
     "saldos_virtuais": {
-        "brl": 1137.2919050054352,
+        "brl": 287.2919050054352,
         "btc": 0.00236560960833515,
-        "eth": 0.15281762499546384,
+        "eth": 0.1743061340152655,
         "sol": 0.0,
-        "ltc": 12.321133982471189,
+        "ltc": 13.159708405951273,
         "uni": 0.0,
         "dot": 203.14417670334754,
         "bnb": 0.1536082141756433,
-        "ada": 1343.8898246986341,
+        "ada": 1604.062579407761,
         "chz": 5854.645568130403,
-        "link": 10.95112996633981,
+        "link": 13.324059585247312,
         "sand": 689.9168650177654,
-        "xrp": 34.013605442176875,
+        "xrp": 50.69417258145961,
         "snx": 161.89088554314392
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-06-28T21:20:49.326011+00:00",
-            "ticker": "solbrl",
-            "acao": "VENDER",
-            "quantidade": 2.02020202,
-            "preco_estimado": 370.42
-        },
-        {
-            "timestamp": "2026-06-28T21:37:25.805036+00:00",
-            "ticker": "solbrl",
-            "acao": "VENDER",
-            "quantidade": 2.0202020204040405,
-            "preco_estimado": 371.24
-        },
-        {
-            "timestamp": "2026-06-28T21:40:38.823187+00:00",
-            "ticker": "solbrl",
-            "acao": "COMPRAR",
-            "quantidade": 750.0,
-            "preco_estimado": 371.48
-        },
-        {
-            "timestamp": "2026-06-28T21:40:38.823187+00:00",
-            "ticker": "ltcbrl",
-            "acao": "COMPRAR",
-            "quantidade": 250.0,
-            "preco_estimado": 222.7
-        },
-        {
-            "timestamp": "2026-06-28T21:48:29.229255+00:00",
-            "ticker": "ltcbrl",
-            "acao": "COMPRAR",
-            "quantidade": 250.0,
-            "preco_estimado": 222.13
-        },
         {
             "timestamp": "2026-06-28T21:56:50.585702+00:00",
             "ticker": "ltcbrl",
@@ -366,10 +331,45 @@
             "acao": "COMPRAR",
             "quantidade": 250.0,
             "preco_estimado": 41.265
+        },
+        {
+            "timestamp": "2026-07-03T21:03:48.656220+00:00",
+            "ticker": "ethbrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 9307.3
+        },
+        {
+            "timestamp": "2026-07-03T21:03:48.656235+00:00",
+            "ticker": "xrpbrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 5.995
+        },
+        {
+            "timestamp": "2026-07-03T21:03:48.656238+00:00",
+            "ticker": "ltcbrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 238.5
+        },
+        {
+            "timestamp": "2026-07-03T21:03:48.656241+00:00",
+            "ticker": "adabrl",
+            "acao": "COMPRAR",
+            "quantidade": 250.0,
+            "preco_estimado": 0.9609
+        },
+        {
+            "timestamp": "2026-07-03T21:03:48.656243+00:00",
+            "ticker": "linkbrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 42.142
         }
     ],
-    "licoes_aprendidas": "ETH confirma reversão altista robusta com todos indicadores alinhados (Nível 1). ADA, LTC e LINK seguem com acúmulos seguros por MACD positivo e RSI saudável. SAND mostra força especulativa com volume. SOL e UNI sobrecomprados pedem realização futura. CHZ e DOT ainda indefinidos, exigem paciência. Preservação de capital mantida com caixa BRL ainda suficiente para compras fracionadas em ativos de tendência confirmada.",
-    "ultima_execucao": "2026-07-03T16:08:27.964612+00:00",
+    "licoes_aprendidas": "ADA apresenta o sinal mais forte de reversão altista com rompimento de Bollinger e Fibo 1.0, elevado a Nível 1. ETH, LTC, LINK e XRP seguem acumulações seguras com MACD e RSI alinhados. BTC, BNB e DOT permanecem indefinidos, exigindo paciência. SOL e UNI entram em zona de alerta para realização futura. Preservação de capital mantida com BRL suficiente para compras estratégicas nos ativos de tendência confirmada.",
+    "ultima_execucao": "2026-07-03T21:03:48.656249+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
