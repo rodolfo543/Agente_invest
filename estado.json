@@ -1,16 +1,16 @@
 {
-    "saldo_anterior": 10207.37,
+    "saldo_anterior": 10362.88,
     "saldos_virtuais": {
-        "brl": 3937.291905005435,
+        "brl": 3237.291905005435,
         "btc": 0.0015978293531864157,
-        "eth": 0.10358416520601108,
+        "eth": 0.12533724598607654,
         "sol": 0.0,
         "ltc": 11.231239484258616,
         "uni": 0.0,
-        "dot": 170.43593422624332,
+        "dot": 203.14417670334754,
         "bnb": 0.06964515792039559,
-        "ada": 847.064168892374,
-        "chz": 4317.7603222287635,
+        "ada": 1071.0534174084453,
+        "chz": 5854.645568130403,
         "link": 4.89272696137192
     },
     "historico_trades": [
@@ -279,10 +279,38 @@
             "acao": "COMPRAR",
             "quantidade": 250.0,
             "preco_estimado": 227.81
+        },
+        {
+            "timestamp": "2026-07-03T12:07:06.947045+00:00",
+            "ticker": "ethbrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 9194.1
+        },
+        {
+            "timestamp": "2026-07-03T12:07:06.947058+00:00",
+            "ticker": "chzbrl",
+            "acao": "COMPRAR",
+            "quantidade": 150.0,
+            "preco_estimado": 0.0976
+        },
+        {
+            "timestamp": "2026-07-03T12:07:06.947061+00:00",
+            "ticker": "dotbrl",
+            "acao": "COMPRAR",
+            "quantidade": 150.0,
+            "preco_estimado": 4.586
+        },
+        {
+            "timestamp": "2026-07-03T12:07:06.947063+00:00",
+            "ticker": "adabrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 0.8929
         }
     ],
-    "licoes_aprendidas": "UNI atingiu extensão de Fibonacci 1.0 e Bollinger superior, sinalizando realização total de lucros. ETH, ADA e DOT mostram recuperação sustentada com MACD positivo e suporte em Fibonacci, ideais para acúmulo. CHZ em sobrevenda extrema oferece swing de alto risco. Preservação de capital mantida com BRL em caixa para compras fracionadas. LTC e LINK seguem em zona neutra de acumulação. SOL sobrecomprado deve ser evitado para compra.",
-    "ultima_execucao": "2026-07-02T21:04:11.703909+00:00",
+    "licoes_aprendidas": "ETH, ADA e DOT confirmam recuperação com MACD positivo e volume, ideais para acúmulo. CHZ mostra reversão de sobrevenda, mas exige cautela. SOL e UNI sobrecomprados sinalizam realização de lucros, porém sem saldo para agir. BTC e LTC seguem em consolidação neutra. Preservação de capital mantida com BRL remanescente após compras fracionadas.",
+    "ultima_execucao": "2026-07-03T12:07:06.947067+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
