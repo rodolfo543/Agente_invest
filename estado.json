@@ -1,26 +1,22 @@
 {
-    "saldo_anterior": 10362.88,
+    "saldo_anterior": 10371.99,
     "saldos_virtuais": {
-        "brl": 3237.291905005435,
-        "btc": 0.0015978293531864157,
-        "eth": 0.12533724598607654,
+        "brl": 1137.2919050054352,
+        "btc": 0.00236560960833515,
+        "eth": 0.15281762499546384,
         "sol": 0.0,
-        "ltc": 11.231239484258616,
+        "ltc": 12.321133982471189,
         "uni": 0.0,
         "dot": 203.14417670334754,
-        "bnb": 0.06964515792039559,
-        "ada": 1071.0534174084453,
+        "bnb": 0.1536082141756433,
+        "ada": 1343.8898246986341,
         "chz": 5854.645568130403,
-        "link": 4.89272696137192
+        "link": 10.95112996633981,
+        "sand": 689.9168650177654,
+        "xrp": 34.013605442176875,
+        "snx": 161.89088554314392
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-06-28T21:11:22.780636+00:00",
-            "ticker": "solbrl",
-            "acao": "COMPRAR",
-            "quantidade": 1500.0,
-            "preco_estimado": 371.25
-        },
         {
             "timestamp": "2026-06-28T21:20:49.326011+00:00",
             "ticker": "solbrl",
@@ -307,10 +303,73 @@
             "acao": "COMPRAR",
             "quantidade": 200.0,
             "preco_estimado": 0.8929
+        },
+        {
+            "timestamp": "2026-07-03T16:08:27.964574+00:00",
+            "ticker": "btcbrl",
+            "acao": "COMPRAR",
+            "quantidade": 250.0,
+            "preco_estimado": 325614.0
+        },
+        {
+            "timestamp": "2026-07-03T16:08:27.964589+00:00",
+            "ticker": "ethbrl",
+            "acao": "COMPRAR",
+            "quantidade": 250.0,
+            "preco_estimado": 9097.4
+        },
+        {
+            "timestamp": "2026-07-03T16:08:27.964592+00:00",
+            "ticker": "adabrl",
+            "acao": "COMPRAR",
+            "quantidade": 250.0,
+            "preco_estimado": 0.9163
+        },
+        {
+            "timestamp": "2026-07-03T16:08:27.964595+00:00",
+            "ticker": "sandbrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 0.28989
+        },
+        {
+            "timestamp": "2026-07-03T16:08:27.964597+00:00",
+            "ticker": "bnbbrl",
+            "acao": "COMPRAR",
+            "quantidade": 250.0,
+            "preco_estimado": 2977.5
+        },
+        {
+            "timestamp": "2026-07-03T16:08:27.964599+00:00",
+            "ticker": "xrpbrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 5.88
+        },
+        {
+            "timestamp": "2026-07-03T16:08:27.964601+00:00",
+            "ticker": "ltcbrl",
+            "acao": "COMPRAR",
+            "quantidade": 250.0,
+            "preco_estimado": 229.38
+        },
+        {
+            "timestamp": "2026-07-03T16:08:27.964604+00:00",
+            "ticker": "snxbrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 1.2354
+        },
+        {
+            "timestamp": "2026-07-03T16:08:27.964606+00:00",
+            "ticker": "linkbrl",
+            "acao": "COMPRAR",
+            "quantidade": 250.0,
+            "preco_estimado": 41.265
         }
     ],
-    "licoes_aprendidas": "ETH, ADA e DOT confirmam recuperação com MACD positivo e volume, ideais para acúmulo. CHZ mostra reversão de sobrevenda, mas exige cautela. SOL e UNI sobrecomprados sinalizam realização de lucros, porém sem saldo para agir. BTC e LTC seguem em consolidação neutra. Preservação de capital mantida com BRL remanescente após compras fracionadas.",
-    "ultima_execucao": "2026-07-03T12:07:06.947067+00:00",
+    "licoes_aprendidas": "ETH confirma reversão altista robusta com todos indicadores alinhados (Nível 1). ADA, LTC e LINK seguem com acúmulos seguros por MACD positivo e RSI saudável. SAND mostra força especulativa com volume. SOL e UNI sobrecomprados pedem realização futura. CHZ e DOT ainda indefinidos, exigem paciência. Preservação de capital mantida com caixa BRL ainda suficiente para compras fracionadas em ativos de tendência confirmada.",
+    "ultima_execucao": "2026-07-03T16:08:27.964612+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
