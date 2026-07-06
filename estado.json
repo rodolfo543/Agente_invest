@@ -1,43 +1,22 @@
 {
-    "saldo_anterior": 10620.0,
+    "saldo_anterior": 10597.77,
     "saldos_virtuais": {
-        "brl": 287.2919050054352,
+        "brl": 557.3641630914497,
         "btc": 0.00236560960833515,
-        "eth": 0.1743061340152655,
+        "eth": 0.1955879370096152,
         "sol": 0.0,
         "ltc": 13.159708405951273,
         "uni": 0.0,
         "dot": 203.14417670334754,
         "bnb": 0.1536082141756433,
         "ada": 1604.062579407761,
-        "chz": 5854.645568130403,
-        "link": 13.324059585247312,
+        "chz": 0.0,
+        "link": 15.395684798841389,
         "sand": 689.9168650177654,
         "xrp": 50.69417258145961,
         "snx": 161.89088554314392
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-06-28T21:56:50.585702+00:00",
-            "ticker": "ltcbrl",
-            "acao": "COMPRAR",
-            "quantidade": 250.0,
-            "preco_estimado": 220.49
-        },
-        {
-            "timestamp": "2026-06-28T22:21:24.539479+00:00",
-            "ticker": "ltcbrl",
-            "acao": "COMPRAR",
-            "quantidade": 250.0,
-            "preco_estimado": 220.09
-        },
-        {
-            "timestamp": "2026-06-28T23:14:02.254436+00:00",
-            "ticker": "unibrl",
-            "acao": "COMPRAR",
-            "quantidade": 200.0,
-            "preco_estimado": 15.21
-        },
         {
             "timestamp": "2026-06-28T23:14:02.254455+00:00",
             "ticker": "ltcbrl",
@@ -366,10 +345,31 @@
             "acao": "COMPRAR",
             "quantidade": 100.0,
             "preco_estimado": 42.142
+        },
+        {
+            "timestamp": "2026-07-06T17:23:34.482991+00:00",
+            "ticker": "ethbrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 9397.7
+        },
+        {
+            "timestamp": "2026-07-06T17:23:34.483007+00:00",
+            "ticker": "linkbrl",
+            "acao": "COMPRAR",
+            "quantidade": 87.29,
+            "preco_estimado": 42.136
+        },
+        {
+            "timestamp": "2026-07-06T17:23:34.483010+00:00",
+            "ticker": "chzbrl",
+            "acao": "VENDER",
+            "quantidade": 5854.645568130403,
+            "preco_estimado": 0.0952
         }
     ],
-    "licoes_aprendidas": "ADA apresenta o sinal mais forte de reversão altista com rompimento de Bollinger e Fibo 1.0, elevado a Nível 1. ETH, LTC, LINK e XRP seguem acumulações seguras com MACD e RSI alinhados. BTC, BNB e DOT permanecem indefinidos, exigindo paciência. SOL e UNI entram em zona de alerta para realização futura. Preservação de capital mantida com BRL suficiente para compras estratégicas nos ativos de tendência confirmada.",
-    "ultima_execucao": "2026-07-03T21:03:48.656249+00:00",
+    "licoes_aprendidas": "ETH e LINK mantêm tendências de alta consistentes com MACD, RSI e rompimentos de Fibonacci, justificando acumulação. CHZ entra em colapso técnico com RSI em sobrevenda e preço perfurando suportes, exigindo venda total para preservação de capital. ADA sofre correção brusca, mas ainda mantém estrutura de alta no médio prazo. BTC, DOT e BNB seguem indefinidos, reforçando a paciência. Capital BRL direcionado para ETH (R$200) e LINK (saldo remanescente) conforme priorização técnica.",
+    "ultima_execucao": "2026-07-06T17:23:34.483017+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
