@@ -1,64 +1,22 @@
 {
-    "saldo_anterior": 10318.32,
+    "saldo_anterior": 10077.14,
     "saldos_virtuais": {
-        "brl": 1129.4964128408187,
+        "brl": 1570.4864128408187,
         "btc": 0.004465940632735186,
         "eth": 0.2167271280127755,
-        "sol": 0.0,
+        "sol": 0.2496754219514631,
         "ltc": 13.159708405951273,
         "uni": 0.0,
-        "dot": 103.14417670334754,
-        "bnb": 0.20314586278858915,
-        "ada": 704.062579407761,
+        "dot": 53.14417670334754,
+        "bnb": 0.23727555562135366,
+        "ada": 504.06257940776095,
         "chz": 0.0,
-        "link": 17.926924483851057,
+        "link": 12.926924483851057,
         "sand": 0.0,
-        "xrp": 40.69417258145961,
+        "xrp": 30.69417258145961,
         "snx": 0.0
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-07-01T21:26:45.279205+00:00",
-            "ticker": "ethbrl",
-            "acao": "COMPRAR",
-            "quantidade": 200.0,
-            "preco_estimado": 8535.5
-        },
-        {
-            "timestamp": "2026-07-01T21:26:45.279209+00:00",
-            "ticker": "ltcbrl",
-            "acao": "COMPRAR",
-            "quantidade": 250.0,
-            "preco_estimado": 223.7
-        },
-        {
-            "timestamp": "2026-07-01T21:26:45.279211+00:00",
-            "ticker": "dotbrl",
-            "acao": "COMPRAR",
-            "quantidade": 150.0,
-            "preco_estimado": 4.389
-        },
-        {
-            "timestamp": "2026-07-01T21:26:45.279213+00:00",
-            "ticker": "adabrl",
-            "acao": "COMPRAR",
-            "quantidade": 100.0,
-            "preco_estimado": 0.8164
-        },
-        {
-            "timestamp": "2026-07-02T16:21:28.913765+00:00",
-            "ticker": "ethbrl",
-            "acao": "COMPRAR",
-            "quantidade": 250.0,
-            "preco_estimado": 8908.9
-        },
-        {
-            "timestamp": "2026-07-02T16:21:28.913781+00:00",
-            "ticker": "chzbrl",
-            "acao": "COMPRAR",
-            "quantidade": 200.0,
-            "preco_estimado": 0.09432
-        },
         {
             "timestamp": "2026-07-02T16:21:28.913784+00:00",
             "ticker": "linkbrl",
@@ -366,10 +324,52 @@
             "acao": "COMPRAR",
             "quantidade": 150.0,
             "preco_estimado": 3028.0
+        },
+        {
+            "timestamp": "2026-07-08T16:16:09.098993+00:00",
+            "ticker": "solbrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 400.52
+        },
+        {
+            "timestamp": "2026-07-08T16:16:09.099008+00:00",
+            "ticker": "dotbrl",
+            "acao": "VENDER",
+            "quantidade": 50.0,
+            "preco_estimado": 4.284
+        },
+        {
+            "timestamp": "2026-07-08T16:16:09.099011+00:00",
+            "ticker": "bnbbrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 2930.0
+        },
+        {
+            "timestamp": "2026-07-08T16:16:09.099014+00:00",
+            "ticker": "adabrl",
+            "acao": "VENDER",
+            "quantidade": 200.0,
+            "preco_estimado": 0.869
+        },
+        {
+            "timestamp": "2026-07-08T16:16:09.099016+00:00",
+            "ticker": "xrpbrl",
+            "acao": "VENDER",
+            "quantidade": 10.0,
+            "preco_estimado": 5.607
+        },
+        {
+            "timestamp": "2026-07-08T16:16:09.099018+00:00",
+            "ticker": "linkbrl",
+            "acao": "VENDER",
+            "quantidade": 5.0,
+            "preco_estimado": 39.384
         }
     ],
-    "licoes_aprendidas": "BTC mantém tendência altista de longo prazo com suporte em Fibonacci 0.618; acumulações fracionadas seguem prudentes. ETH mostra resiliência acima das médias, mas topo de canal exige cautela. ADA e DOT enfrentam correções mais agressivas, exigindo vendas parciais para proteger lucros. Altcoins de menor capitalização (CHZ, SAND, SNX) continuam frágeis e devem ser evitadas ou reduzidas. Caixa BRL segue limitado, priorizando apenas pequenas compras em BTC e BNB. Estratégia Swing Trade validada com uso combinado de RSI, MACD e níveis de Fibonacci para tomada de decisão.",
-    "ultima_execucao": "2026-07-07T21:40:02.619980+00:00",
+    "licoes_aprendidas": "Mercado em correção generalizada: BTC e ETH mantêm estrutura, mas altcoins sofrem quedas mais acentuadas. RSI baixo em DOT, ADA, XRP e LINK indica sobrevenda em alguns casos, porém a quebra de suportes (ex.: DOT abaixo Fibonacci 0) exige vendas parciais. SOL e BNB surgem como oportunidades de acumulação próximas a suportes Fibonacci com MACD positivo. A preservação de caixa BRL segue crítica; vendas em DOT, ADA, XRP e LINK visam levantar capital para futuras recompras em níveis mais favoráveis. Estratégia Swing Trade reforça disciplina de não aportar em ativos sem clara reversão técnica.",
+    "ultima_execucao": "2026-07-08T16:16:09.099025+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
