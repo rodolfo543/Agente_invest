@@ -1,50 +1,22 @@
 {
-    "saldo_anterior": 10204.07,
+    "saldo_anterior": 10206.51,
     "saldos_virtuais": {
-        "brl": 2044.5874128408193,
+        "brl": 1959.8517045853137,
         "btc": 0.006767516814056162,
-        "eth": 0.32166255107782643,
+        "eth": 0.34339601191413,
         "sol": 0.4990955202229818,
         "ltc": 8.159708405951273,
         "uni": 0.0,
-        "dot": 8.14417670334754,
+        "dot": 0.0,
         "bnb": 0.18727555562135367,
-        "ada": 54.06257940776095,
+        "ada": 0.0,
         "chz": 0.0,
         "link": 5.926924483851057,
         "sand": 0.0,
-        "xrp": 5.694172581459611,
+        "xrp": 0.0,
         "snx": 0.0
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-07-03T21:03:48.656220+00:00",
-            "ticker": "ethbrl",
-            "acao": "COMPRAR",
-            "quantidade": 200.0,
-            "preco_estimado": 9307.3
-        },
-        {
-            "timestamp": "2026-07-03T21:03:48.656235+00:00",
-            "ticker": "xrpbrl",
-            "acao": "COMPRAR",
-            "quantidade": 100.0,
-            "preco_estimado": 5.995
-        },
-        {
-            "timestamp": "2026-07-03T21:03:48.656238+00:00",
-            "ticker": "ltcbrl",
-            "acao": "COMPRAR",
-            "quantidade": 200.0,
-            "preco_estimado": 238.5
-        },
-        {
-            "timestamp": "2026-07-03T21:03:48.656241+00:00",
-            "ticker": "adabrl",
-            "acao": "COMPRAR",
-            "quantidade": 250.0,
-            "preco_estimado": 0.9609
-        },
         {
             "timestamp": "2026-07-03T21:03:48.656243+00:00",
             "ticker": "linkbrl",
@@ -366,10 +338,38 @@
             "acao": "VENDER",
             "quantidade": 5.0,
             "preco_estimado": 4.523
+        },
+        {
+            "timestamp": "2026-07-10T21:05:02.732447+00:00",
+            "ticker": "ethbrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 9202.4
+        },
+        {
+            "timestamp": "2026-07-10T21:05:02.732464+00:00",
+            "ticker": "dotbrl",
+            "acao": "VENDER",
+            "quantidade": 8.14417670334754,
+            "preco_estimado": 4.501
+        },
+        {
+            "timestamp": "2026-07-10T21:05:02.732467+00:00",
+            "ticker": "adabrl",
+            "acao": "VENDER",
+            "quantidade": 54.06257940776095,
+            "preco_estimado": 0.8566
+        },
+        {
+            "timestamp": "2026-07-10T21:05:02.732469+00:00",
+            "ticker": "xrpbrl",
+            "acao": "VENDER",
+            "quantidade": 5.694172581459611,
+            "preco_estimado": 5.672
         }
     ],
-    "licoes_aprendidas": "BTC e ETH mantêm recuperação técnica consistente com MACD positivo e suportes Fibonacci, reforçando estratégia de acumulação. Altcoins menores (ADA, DOT, XRP) continuam frágeis, abaixo das médias e com RSI deteriorado; vendas parciais são corretas para preservar capital. UNI e CHZ mostram extremos (sobrecompra/sobrevenda) que exigem cautela. Caixa atual (R$ 2408) permite compras fracionadas em BTC e ETH sem risco excessivo. A disciplina de concentração em ativos líderes e redução de perdedoras segue como pilar da preservação de capital.",
-    "ultima_execucao": "2026-07-10T16:38:48.472027+00:00",
+    "licoes_aprendidas": "ETH confirma recuperação técnica robusta com cruzamento MACD positivo e rompimento de Fibonacci, merecendo acumulação. BTC está em consolidação saudável, sem sinais de venda. Altcoins menores (ADA, DOT, XRP) continuam frágeis, abaixo das médias e com RSI baixo, justificando saída total para preservar capital. O caixa atual (R$ 2044) permite compra fracionada em ETH e reforça a estratégia de concentração em ativos de maior qualidade técnica. A disciplina de cortar posições deterioradas protege o portfólio de oscilações negativas maiores.",
+    "ultima_execucao": "2026-07-10T21:05:02.732476+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
