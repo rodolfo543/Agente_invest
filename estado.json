@@ -1,12 +1,12 @@
 {
-    "saldo_anterior": 10079.49,
+    "saldo_anterior": 10061.69,
     "saldos_virtuais": {
-        "brl": 4517.282870118333,
+        "brl": 4267.282870118333,
         "btc": 0.006767516814056162,
         "eth": 0.34339601191413,
         "sol": 0.0,
         "ltc": 0.0,
-        "uni": 0.0,
+        "uni": 5.545696539485359,
         "dot": 0.0,
         "bnb": 0.0,
         "ada": 0.0,
@@ -14,23 +14,10 @@
         "link": 5.926924483851057,
         "sand": 0.0,
         "xrp": 0.0,
-        "snx": 0.0
+        "snx": 0.0,
+        "pol": 355.7790374991106
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-07-06T17:23:34.483010+00:00",
-            "ticker": "chzbrl",
-            "acao": "VENDER",
-            "quantidade": 5854.645568130403,
-            "preco_estimado": 0.0952
-        },
-        {
-            "timestamp": "2026-07-06T21:27:56.281109+00:00",
-            "ticker": "btcbrl",
-            "acao": "COMPRAR",
-            "quantidade": 250.0,
-            "preco_estimado": 335056.0
-        },
         {
             "timestamp": "2026-07-06T21:27:56.281125+00:00",
             "ticker": "ethbrl",
@@ -366,10 +353,24 @@
             "acao": "VENDER",
             "quantidade": 0.18727555562135367,
             "preco_estimado": 2925.5
+        },
+        {
+            "timestamp": "2026-07-13T20:55:56.817891+00:00",
+            "ticker": "polbrl",
+            "acao": "COMPRAR",
+            "quantidade": 150.0,
+            "preco_estimado": 0.42161
+        },
+        {
+            "timestamp": "2026-07-13T20:55:56.817909+00:00",
+            "ticker": "unibrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 18.032
         }
     ],
-    "licoes_aprendidas": "Mercado em correção generalizada com BTC perdendo suportes de curto prazo e altcoins mostrando fragilidade (SOL, LTC, BNB abaixo de níveis técnicos chave). Preservação de capital em BRL deve ser prioridade, vendendo ativos com deterioração técnica e mantendo apenas posições consolidadas (BTC, ETH, LINK) que ainda possuem suporte fundamental. UNI e POL mostram força relativa mas não temos posição; monitorar para próximas sessões.",
-    "ultima_execucao": "2026-07-13T16:56:31.470601+00:00",
+    "licoes_aprendidas": "Mercado segue em correção generalizada. BTC e ETH mantêm alguma resiliência técnica e devem ser mantidos. Altcoins como POL e UNI mostram força relativa com RSI elevado e MACD positivo, justificando entradas controladas. LINK permanece em zona neutra, mantendo posição. A prioridade segue sendo preservação de capital, com caixa BRL ainda robusto (R$ 4267 após compras), mantendo reserva para emergências.",
+    "ultima_execucao": "2026-07-13T20:55:56.817916+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
