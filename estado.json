@@ -1,9 +1,9 @@
 {
-    "saldo_anterior": 10280.03,
+    "saldo_anterior": 10086.72,
     "saldos_virtuais": {
-        "brl": 17.28287011833345,
+        "brl": 0.0028701183334476355,
         "btc": 0.006767516814056162,
-        "eth": 0.48811209299272806,
+        "eth": 0.4899544872523052,
         "sol": 0.0,
         "ltc": 0.0,
         "uni": 48.36740961816648,
@@ -18,13 +18,6 @@
         "pol": 2580.4456397351614
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-07-09T17:02:51.807418+00:00",
-            "ticker": "ethbrl",
-            "acao": "COMPRAR",
-            "quantidade": 250.0,
-            "preco_estimado": 8975.0
-        },
         {
             "timestamp": "2026-07-09T17:02:51.807421+00:00",
             "ticker": "ltcbrl",
@@ -367,10 +360,17 @@
             "acao": "COMPRAR",
             "quantidade": 150.0,
             "preco_estimado": 18.571
+        },
+        {
+            "timestamp": "2026-07-17T15:56:14.958391+00:00",
+            "ticker": "ethbrl",
+            "acao": "COMPRAR",
+            "quantidade": 17.28,
+            "preco_estimado": 9379.1
         }
     ],
-    "licoes_aprendidas": "ETH, LINK, POL e UNI mantêm tendência altista com correções saudáveis (RSI entre 59-66, MACD positivo). Seguimos acumulando frações de R$150-250 em cada um para aproveitar o swing trade. BTC lateraliza como reserva de valor (RSI 50). Altcoins menores (ADA, DOT, CHZ, SAND) seguem em tendência baixista e evitamos exposição. Mantemos caixa BRL remanescente (~R$817) e consumimos parcialmente para novas compras, preservando capital.",
-    "ultima_execucao": "2026-07-16T20:55:45.693330+00:00",
+    "licoes_aprendidas": "O mercado teve uma correção geral (-1.9% a -5.1%) com RSI baixando. ETH permanece com a melhor estrutura (acima de SMAs e MACD positivo), justificando a última compra com o BRL remanescente. LINK e UNI corrigem mas ainda têm MACD positivo, mantemos. POL atinge resistência Fibonacci 1.0. BTC lateraliza. Altcoins como DOT, ADA, CHZ, SAND, SHIB seguem em tendência baixista, confirmando a estratégia de evitá-las. Preservamos capital ao usar apenas o BRL residual para acumular ETH. Seguimos em swing trade focando na tendência altista de ETH, LINK e POL, e aguardando sinal para reduzir UNI se correção continuar.",
+    "ultima_execucao": "2026-07-17T15:56:14.958412+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
