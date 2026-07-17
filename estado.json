@@ -1,9 +1,9 @@
 {
-    "saldo_anterior": 10190.68,
+    "saldo_anterior": 10174.63,
     "saldos_virtuais": {
-        "brl": 0.0028701183334476355,
+        "brl": 0.0,
         "btc": 0.006767516814056162,
-        "eth": 0.4899544872523052,
+        "eth": 0.4899547908014986,
         "sol": 0.0,
         "ltc": 0.0,
         "uni": 48.36740961816648,
@@ -18,13 +18,6 @@
         "pol": 2580.4456397351614
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-07-09T17:02:51.807421+00:00",
-            "ticker": "ltcbrl",
-            "acao": "VENDER",
-            "quantidade": 5.0,
-            "preco_estimado": 225.94
-        },
         {
             "timestamp": "2026-07-09T17:02:51.807423+00:00",
             "ticker": "dotbrl",
@@ -367,10 +360,17 @@
             "acao": "COMPRAR",
             "quantidade": 17.28,
             "preco_estimado": 9379.1
+        },
+        {
+            "timestamp": "2026-07-17T23:18:40.846523+00:00",
+            "ticker": "ethbrl",
+            "acao": "COMPRAR",
+            "quantidade": 0.0028701183334476355,
+            "preco_estimado": 9455.2
         }
     ],
-    "licoes_aprendidas": "ETH e POL mantêm as melhores estruturas de alta (SMA 10 > 20, MACD positivo, RSI saudável). LINK e UNI corrigem mas seguem com viés altista. BTC lateralizado. O BRL virtual está zerado, impossibilitando novas compras, reforçando a disciplina de preservação de capital. Altcoins de baixa capitalização (CHZ, SAND, SHIB) seguem em tendência baixista e devem ser evitadas. Continuar monitorando suportes Fibonacci para ajustes futuros.",
-    "ultima_execucao": "2026-07-17T20:52:37.349553+00:00",
+    "licoes_aprendidas": "POL e UNI mantêm fortes sinais altistas (MACD positivo, SMA alinhada). ETH segue saudável para acumulação mesmo com pequena correção. BTC lateralizado sem gatilho. BRL virtual zerado limita novas compras, reforçando disciplina de caixa. Ativos de baixa capitalização (CHZ, SAND, SHIB) permanecem em tendência baixista e devem ser evitados. Continuar monitorando LINK para oportunidades futuras.",
+    "ultima_execucao": "2026-07-17T23:18:40.846542+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
