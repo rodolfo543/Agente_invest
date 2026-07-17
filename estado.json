@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 10086.72,
+    "saldo_anterior": 10190.68,
     "saldos_virtuais": {
         "brl": 0.0028701183334476355,
         "btc": 0.006767516814056162,
@@ -369,8 +369,8 @@
             "preco_estimado": 9379.1
         }
     ],
-    "licoes_aprendidas": "O mercado teve uma correção geral (-1.9% a -5.1%) com RSI baixando. ETH permanece com a melhor estrutura (acima de SMAs e MACD positivo), justificando a última compra com o BRL remanescente. LINK e UNI corrigem mas ainda têm MACD positivo, mantemos. POL atinge resistência Fibonacci 1.0. BTC lateraliza. Altcoins como DOT, ADA, CHZ, SAND, SHIB seguem em tendência baixista, confirmando a estratégia de evitá-las. Preservamos capital ao usar apenas o BRL residual para acumular ETH. Seguimos em swing trade focando na tendência altista de ETH, LINK e POL, e aguardando sinal para reduzir UNI se correção continuar.",
-    "ultima_execucao": "2026-07-17T15:56:14.958412+00:00",
+    "licoes_aprendidas": "ETH e POL mantêm as melhores estruturas de alta (SMA 10 > 20, MACD positivo, RSI saudável). LINK e UNI corrigem mas seguem com viés altista. BTC lateralizado. O BRL virtual está zerado, impossibilitando novas compras, reforçando a disciplina de preservação de capital. Altcoins de baixa capitalização (CHZ, SAND, SHIB) seguem em tendência baixista e devem ser evitadas. Continuar monitorando suportes Fibonacci para ajustes futuros.",
+    "ultima_execucao": "2026-07-17T20:52:37.349553+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
