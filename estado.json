@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 10174.63,
+    "saldo_anterior": 10317.11,
     "saldos_virtuais": {
         "brl": 0.0,
         "btc": 0.006767516814056162,
@@ -369,8 +369,8 @@
             "preco_estimado": 9455.2
         }
     ],
-    "licoes_aprendidas": "POL e UNI mantêm fortes sinais altistas (MACD positivo, SMA alinhada). ETH segue saudável para acumulação mesmo com pequena correção. BTC lateralizado sem gatilho. BRL virtual zerado limita novas compras, reforçando disciplina de caixa. Ativos de baixa capitalização (CHZ, SAND, SHIB) permanecem em tendência baixista e devem ser evitados. Continuar monitorando LINK para oportunidades futuras.",
-    "ultima_execucao": "2026-07-17T23:18:40.846542+00:00",
+    "licoes_aprendidas": "ETH mantém força altista, liderando recuperação. LINK acompanha com MACD positivo. POL e UNI seguem estáveis. BTC lateralizado. Ativos de baixa capitalização permanecem sem força. Caixa BRL zerado restringe novas compras; disciplina de preservação de capital foi mantida. Aguardar vendas estratégicas para recompor BRL.",
+    "ultima_execucao": "2026-07-20T16:09:36.082435+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
