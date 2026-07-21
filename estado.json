@@ -1,58 +1,23 @@
 {
-    "saldo_anterior": 10461.42,
+    "saldo_anterior": 10421.52,
     "saldos_virtuais": {
-        "brl": 1920.19,
-        "btc": 0.007503163609431592,
-        "eth": 0.33995479080149865,
+        "brl": 2677.4300000000003,
+        "btc": 0.008242891744547374,
+        "eth": 0.28995479080149866,
         "sol": 0.0,
         "ltc": 0.0,
-        "uni": 33.36740961816648,
+        "uni": 28.367409618166477,
         "dot": 0.0,
         "bnb": 0.0,
         "ada": 0.0,
         "chz": 0.0,
-        "link": 26.43776888837267,
+        "link": 21.43776888837267,
         "sand": 0.0,
         "xrp": 0.0,
         "snx": 0.0,
-        "pol": 2080.4456397351614
+        "pol": 1580.4456397351614
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-07-09T21:22:23.345231+00:00",
-            "ticker": "dotbrl",
-            "acao": "VENDER",
-            "quantidade": 10.0,
-            "preco_estimado": 4.255
-        },
-        {
-            "timestamp": "2026-07-09T21:22:23.345232+00:00",
-            "ticker": "xrpbrl",
-            "acao": "VENDER",
-            "quantidade": 10.0,
-            "preco_estimado": 5.651
-        },
-        {
-            "timestamp": "2026-07-09T21:22:23.345233+00:00",
-            "ticker": "bnbbrl",
-            "acao": "VENDER",
-            "quantidade": 0.05,
-            "preco_estimado": 2940.0
-        },
-        {
-            "timestamp": "2026-07-10T16:38:48.471996+00:00",
-            "ticker": "btcbrl",
-            "acao": "COMPRAR",
-            "quantidade": 250.0,
-            "preco_estimado": 328334.0
-        },
-        {
-            "timestamp": "2026-07-10T16:38:48.472014+00:00",
-            "ticker": "ethbrl",
-            "acao": "COMPRAR",
-            "quantidade": 250.0,
-            "preco_estimado": 9201.9
-        },
         {
             "timestamp": "2026-07-10T16:38:48.472016+00:00",
             "ticker": "xrpbrl",
@@ -367,10 +332,45 @@
             "acao": "VENDER",
             "quantidade": 5.0,
             "preco_estimado": 44.288
+        },
+        {
+            "timestamp": "2026-07-21T21:06:40.475240+00:00",
+            "ticker": "btcbrl",
+            "acao": "COMPRAR",
+            "quantidade": 250.0,
+            "preco_estimado": 337962.0
+        },
+        {
+            "timestamp": "2026-07-21T21:06:40.475255+00:00",
+            "ticker": "ethbrl",
+            "acao": "VENDER",
+            "quantidade": 0.05,
+            "preco_estimado": 9783.0
+        },
+        {
+            "timestamp": "2026-07-21T21:06:40.475257+00:00",
+            "ticker": "polbrl",
+            "acao": "VENDER",
+            "quantidade": 500.0,
+            "preco_estimado": 0.40866
+        },
+        {
+            "timestamp": "2026-07-21T21:06:40.475259+00:00",
+            "ticker": "linkbrl",
+            "acao": "VENDER",
+            "quantidade": 5.0,
+            "preco_estimado": 43.913
+        },
+        {
+            "timestamp": "2026-07-21T21:06:40.475261+00:00",
+            "ticker": "unibrl",
+            "acao": "VENDER",
+            "quantidade": 5.0,
+            "preco_estimado": 18.839
         }
     ],
-    "licoes_aprendidas": "BTC mantém tendência altista sólida com acumulação segura. ETH, LINK e UNI atingem níveis críticos de Fibonacci e sobrecompra, exigindo realizações parciais para preservar capital. Mercado altista seletivo: ativos principais fortes, enquanto altcoins menores como POL e DOT permanecem laterais. Caixa BRL mantido para oportunidades futuras de correção.",
-    "ultima_execucao": "2026-07-21T16:05:14.562300+00:00",
+    "licoes_aprendidas": "BTC mantém acumulação consistente com fortes sinais de continuidade altista. ETH e LINK estão em níveis técnicos de realização (Fibonacci e Bollinger). Altcoins menores como POL e UNI perdem momentum e mostram sinais de topo no curto prazo. Mercado amplo exibe rotação de capital para ativos mais seguros. Caixa BRL mantido, usando as vendas parciais para reforçar a reserva de oportunidades.",
+    "ultima_execucao": "2026-07-21T21:06:40.475266+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
