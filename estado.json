@@ -1,51 +1,23 @@
 {
-    "saldo_anterior": 10358.49,
+    "saldo_anterior": 10461.42,
     "saldos_virtuais": {
-        "brl": 1363.42,
-        "btc": 0.006767516814056162,
-        "eth": 0.38995479080149864,
+        "brl": 1920.19,
+        "btc": 0.007503163609431592,
+        "eth": 0.33995479080149865,
         "sol": 0.0,
         "ltc": 0.0,
-        "uni": 38.36740961816648,
+        "uni": 33.36740961816648,
         "dot": 0.0,
         "bnb": 0.0,
         "ada": 0.0,
         "chz": 0.0,
-        "link": 31.43776888837267,
+        "link": 26.43776888837267,
         "sand": 0.0,
         "xrp": 0.0,
         "snx": 0.0,
         "pol": 2080.4456397351614
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-07-09T17:02:51.807430+00:00",
-            "ticker": "xrpbrl",
-            "acao": "VENDER",
-            "quantidade": 10.0,
-            "preco_estimado": 5.618
-        },
-        {
-            "timestamp": "2026-07-09T21:22:23.345211+00:00",
-            "ticker": "btcbrl",
-            "acao": "COMPRAR",
-            "quantidade": 250.0,
-            "preco_estimado": 326002.0
-        },
-        {
-            "timestamp": "2026-07-09T21:22:23.345227+00:00",
-            "ticker": "ethbrl",
-            "acao": "COMPRAR",
-            "quantidade": 250.0,
-            "preco_estimado": 9010.5
-        },
-        {
-            "timestamp": "2026-07-09T21:22:23.345229+00:00",
-            "ticker": "adabrl",
-            "acao": "VENDER",
-            "quantidade": 50.0,
-            "preco_estimado": 0.8625
-        },
         {
             "timestamp": "2026-07-09T21:22:23.345231+00:00",
             "ticker": "dotbrl",
@@ -367,10 +339,38 @@
             "acao": "VENDER",
             "quantidade": 10.0,
             "preco_estimado": 18.476
+        },
+        {
+            "timestamp": "2026-07-21T16:05:14.562268+00:00",
+            "ticker": "btcbrl",
+            "acao": "COMPRAR",
+            "quantidade": 250.0,
+            "preco_estimado": 339837.0
+        },
+        {
+            "timestamp": "2026-07-21T16:05:14.562286+00:00",
+            "ticker": "ethbrl",
+            "acao": "VENDER",
+            "quantidade": 0.05,
+            "preco_estimado": 9841.7
+        },
+        {
+            "timestamp": "2026-07-21T16:05:14.562290+00:00",
+            "ticker": "unibrl",
+            "acao": "VENDER",
+            "quantidade": 5.0,
+            "preco_estimado": 18.649
+        },
+        {
+            "timestamp": "2026-07-21T16:05:14.562293+00:00",
+            "ticker": "linkbrl",
+            "acao": "VENDER",
+            "quantidade": 5.0,
+            "preco_estimado": 44.288
         }
     ],
-    "licoes_aprendidas": "ETH e LINK permanecem fortes, mas ETH atinge níveis críticos de Fibonacci. Realizações parciais em ETH, POL e UNI são prudentes. Mercado lateralizado; preservação de capital em BRL se mantém essencial. Aguardar correções para reentrada em ativos fortes.",
-    "ultima_execucao": "2026-07-20T21:10:57.205722+00:00",
+    "licoes_aprendidas": "BTC mantém tendência altista sólida com acumulação segura. ETH, LINK e UNI atingem níveis críticos de Fibonacci e sobrecompra, exigindo realizações parciais para preservar capital. Mercado altista seletivo: ativos principais fortes, enquanto altcoins menores como POL e DOT permanecem laterais. Caixa BRL mantido para oportunidades futuras de correção.",
+    "ultima_execucao": "2026-07-21T16:05:14.562300+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
