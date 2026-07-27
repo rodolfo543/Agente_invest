@@ -1,44 +1,23 @@
 {
-    "saldo_anterior": 10202.52,
+    "saldo_anterior": 10397.02,
     "saldos_virtuais": {
-        "brl": 3184.7449791828117,
+        "brl": 3620.2939471002132,
         "btc": 0.010522651231373588,
         "eth": 0.25995479080149864,
         "sol": 0.0,
         "ltc": 0.8279859242392879,
-        "uni": 5.0,
+        "uni": 0.0,
         "dot": 0.0,
         "bnb": 0.0,
         "ada": 0.0,
         "chz": 0.0,
-        "link": 16.43776888837267,
+        "link": 11.43776888837267,
         "sand": 0.0,
         "xrp": 0.0,
         "snx": 0.0,
-        "pol": 300.4456397351614
+        "pol": 0.0
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-07-13T20:55:56.817909+00:00",
-            "ticker": "unibrl",
-            "acao": "COMPRAR",
-            "quantidade": 100.0,
-            "preco_estimado": 18.032
-        },
-        {
-            "timestamp": "2026-07-14T15:58:29.318916+00:00",
-            "ticker": "ethbrl",
-            "acao": "COMPRAR",
-            "quantidade": 200.0,
-            "preco_estimado": 9568.9
-        },
-        {
-            "timestamp": "2026-07-14T15:58:29.318930+00:00",
-            "ticker": "polbrl",
-            "acao": "COMPRAR",
-            "quantidade": 100.0,
-            "preco_estimado": 0.43099
-        },
         {
             "timestamp": "2026-07-14T15:58:29.318933+00:00",
             "ticker": "linkbrl",
@@ -367,10 +346,31 @@
             "acao": "VENDER",
             "quantidade": 280.0,
             "preco_estimado": 0.38757
+        },
+        {
+            "timestamp": "2026-07-27T16:39:56.621460+00:00",
+            "ticker": "unibrl",
+            "acao": "VENDER",
+            "quantidade": 5.0,
+            "preco_estimado": 19.738
+        },
+        {
+            "timestamp": "2026-07-27T16:39:56.621475+00:00",
+            "ticker": "linkbrl",
+            "acao": "VENDER",
+            "quantidade": 5.0,
+            "preco_estimado": 44.184
+        },
+        {
+            "timestamp": "2026-07-27T16:39:56.621478+00:00",
+            "ticker": "polbrl",
+            "acao": "VENDER",
+            "quantidade": 300.4456397351614,
+            "preco_estimado": 0.38589
         }
     ],
-    "licoes_aprendidas": "BTC mantém suporte Fibonacci 0.618, permitindo acumulação segura. UNI chegou ao topo Fibonacci e Bollinger, momento de realizar lucro. POL continua frágil abaixo das médias. Altcoins menores (CHZ, SAND, DOT) permanecem em tendência de baixa, sem setups de compra. Estratégia de caixa BRL reserva segue priorizada.",
-    "ultima_execucao": "2026-07-24T21:02:58.134450+00:00",
+    "licoes_aprendidas": "UNI atingiu topo de Bollinger e resistência Fibonacci, lucro parcial realizado. LINK realizou correção após alta forte. POL rompeu suporte Bollinger inferior e fibra, justificando saída total. BTC e ETH em consolidação saudável. Continuamos com caixa BRL protegido e posições reduzidas para suportar volatilidade.",
+    "ultima_execucao": "2026-07-27T16:39:56.621484+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
