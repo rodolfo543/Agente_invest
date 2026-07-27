@@ -1,7 +1,7 @@
 {
-    "saldo_anterior": 10397.02,
+    "saldo_anterior": 10418.72,
     "saldos_virtuais": {
-        "brl": 3620.2939471002132,
+        "brl": 3708.6759471002133,
         "btc": 0.010522651231373588,
         "eth": 0.25995479080149864,
         "sol": 0.0,
@@ -11,20 +11,13 @@
         "bnb": 0.0,
         "ada": 0.0,
         "chz": 0.0,
-        "link": 11.43776888837267,
+        "link": 9.43776888837267,
         "sand": 0.0,
         "xrp": 0.0,
         "snx": 0.0,
         "pol": 0.0
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-07-14T15:58:29.318933+00:00",
-            "ticker": "linkbrl",
-            "acao": "COMPRAR",
-            "quantidade": 100.0,
-            "preco_estimado": 42.548
-        },
         {
             "timestamp": "2026-07-14T15:58:29.318935+00:00",
             "ticker": "unibrl",
@@ -367,10 +360,17 @@
             "acao": "VENDER",
             "quantidade": 300.4456397351614,
             "preco_estimado": 0.38589
+        },
+        {
+            "timestamp": "2026-07-27T21:08:29.289895+00:00",
+            "ticker": "linkbrl",
+            "acao": "VENDER",
+            "quantidade": 2.0,
+            "preco_estimado": 44.191
         }
     ],
-    "licoes_aprendidas": "UNI atingiu topo de Bollinger e resistência Fibonacci, lucro parcial realizado. LINK realizou correção após alta forte. POL rompeu suporte Bollinger inferior e fibra, justificando saída total. BTC e ETH em consolidação saudável. Continuamos com caixa BRL protegido e posições reduzidas para suportar volatilidade.",
-    "ultima_execucao": "2026-07-27T16:39:56.621484+00:00",
+    "licoes_aprendidas": "ETH mostra força, mas cautela por sobrecompra. LINK atinge região de resistência, garantindo lucro parcial. Altcoins menores (DOT, CHZ, POL) em forte correção, sem sinal de entrada. Preservação de caixa BRL continua sendo prioridade.",
+    "ultima_execucao": "2026-07-27T21:08:29.289914+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
