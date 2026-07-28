@@ -1,8 +1,8 @@
 {
-    "saldo_anterior": 10418.72,
+    "saldo_anterior": 10309.27,
     "saldos_virtuais": {
-        "brl": 3708.6759471002133,
-        "btc": 0.010522651231373588,
+        "brl": 4363.009947100213,
+        "btc": 0.008522651231373588,
         "eth": 0.25995479080149864,
         "sol": 0.0,
         "ltc": 0.8279859242392879,
@@ -18,13 +18,6 @@
         "pol": 0.0
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-07-14T15:58:29.318935+00:00",
-            "ticker": "unibrl",
-            "acao": "COMPRAR",
-            "quantidade": 100.0,
-            "preco_estimado": 18.952
-        },
         {
             "timestamp": "2026-07-14T20:59:06.170030+00:00",
             "ticker": "ethbrl",
@@ -367,10 +360,17 @@
             "acao": "VENDER",
             "quantidade": 2.0,
             "preco_estimado": 44.191
+        },
+        {
+            "timestamp": "2026-07-28T16:21:34.804134+00:00",
+            "ticker": "btcbrl",
+            "acao": "VENDER",
+            "quantidade": 0.002,
+            "preco_estimado": 327167.0
         }
     ],
-    "licoes_aprendidas": "ETH mostra força, mas cautela por sobrecompra. LINK atinge região de resistência, garantindo lucro parcial. Altcoins menores (DOT, CHZ, POL) em forte correção, sem sinal de entrada. Preservação de caixa BRL continua sendo prioridade.",
-    "ultima_execucao": "2026-07-27T21:08:29.289914+00:00",
+    "licoes_aprendidas": "Mercado geralmente corrigindo: BTC perde suporte Fibonacci 0.618 e SMA 20, sugerindo realização parcial. ETH mantém-se resiliente acima das médias, mas com momentum fraco. Altcoins de baixa capitalização (POL, CHZ, SAND) em forte desvalorização, sem sinais de fundo. Preservação de capital BRL permanece essencial. Mantenho caixa elevado para oportunidades melhores.",
+    "ultima_execucao": "2026-07-28T16:21:34.804158+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
