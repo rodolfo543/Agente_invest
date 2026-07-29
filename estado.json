@@ -1,37 +1,23 @@
 {
-    "saldo_anterior": 10321.91,
+    "saldo_anterior": 10235.51,
     "saldos_virtuais": {
-        "brl": 3963.009947100213,
+        "brl": 4549.8765910376105,
         "btc": 0.008522651231373588,
         "eth": 0.2853509712159643,
         "sol": 0.0,
-        "ltc": 0.8279859242392879,
+        "ltc": 0.0,
         "uni": 7.495877267502873,
         "dot": 0.0,
         "bnb": 0.0,
         "ada": 0.0,
         "chz": 0.0,
-        "link": 9.43776888837267,
+        "link": 0.0,
         "sand": 0.0,
         "xrp": 0.0,
         "snx": 0.0,
         "pol": 0.0
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-07-14T20:59:06.170050+00:00",
-            "ticker": "polbrl",
-            "acao": "COMPRAR",
-            "quantidade": 200.0,
-            "preco_estimado": 0.43129
-        },
-        {
-            "timestamp": "2026-07-14T20:59:06.170052+00:00",
-            "ticker": "unibrl",
-            "acao": "COMPRAR",
-            "quantidade": 150.0,
-            "preco_estimado": 18.818
-        },
         {
             "timestamp": "2026-07-15T16:04:20.590572+00:00",
             "ticker": "ethbrl",
@@ -367,10 +353,24 @@
             "acao": "COMPRAR",
             "quantidade": 150.0,
             "preco_estimado": 20.011
+        },
+        {
+            "timestamp": "2026-07-29T20:53:16.380919+00:00",
+            "ticker": "linkbrl",
+            "acao": "VENDER",
+            "quantidade": 9.43776888837267,
+            "preco_estimado": 42.102
+        },
+        {
+            "timestamp": "2026-07-29T20:53:16.380934+00:00",
+            "ticker": "ltcbrl",
+            "acao": "VENDER",
+            "quantidade": 0.8279859242392879,
+            "preco_estimado": 228.89
         }
     ],
-    "licoes_aprendidas": "Mercado misto: ETH e UNI mostram força com acumulação acima de níveis técnicos chave. BTC e SOL estão neutros ou fracos. Altcoins de baixo valor (POL, CHZ, SAND) continuam em tendência de baixa. Preservação de capital BRL segue essencial. Mantenho caixa para oportunidades com confirmação de reversão.",
-    "ultima_execucao": "2026-07-28T21:05:46.771582+00:00",
+    "licoes_aprendidas": "Mercado majoritariamente baixista com BTC, ETH e SOL perdendo força. LTC e LINK tiveram sell-offs, realizamos para preservar capital. UNI ainda se mantém acima das médias, mas precisa confirmar rompimento. Caixa BRL é rei neste momento. Continuamos protegendo o saldo em BRL para oportunidades de fundo mais claras (RSI <30 com divergência de alta ou toque em Fibonacci 0.618 de suporte).",
+    "ultima_execucao": "2026-07-29T20:53:16.380944+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
