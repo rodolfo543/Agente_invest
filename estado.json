@@ -1,8 +1,8 @@
 {
-    "saldo_anterior": 10306.97,
+    "saldo_anterior": 10168.16,
     "saldos_virtuais": {
-        "brl": 5497.992265416702,
-        "btc": 0.008522651231373588,
+        "brl": 4997.992265416702,
+        "btc": 0.010087679730542557,
         "eth": 0.2053509712159643,
         "sol": 0.0,
         "ltc": 0.0,
@@ -18,13 +18,6 @@
         "pol": 0.0
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-07-15T16:04:20.590589+00:00",
-            "ticker": "polbrl",
-            "acao": "COMPRAR",
-            "quantidade": 150.0,
-            "preco_estimado": 0.4278
-        },
         {
             "timestamp": "2026-07-15T16:04:20.590591+00:00",
             "ticker": "linkbrl",
@@ -367,10 +360,17 @@
             "acao": "VENDER",
             "quantidade": 0.08,
             "preco_estimado": 9764.5
+        },
+        {
+            "timestamp": "2026-07-31T16:16:56.686873+00:00",
+            "ticker": "btcbrl",
+            "acao": "COMPRAR",
+            "quantidade": 500.0,
+            "preco_estimado": 319483.0
         }
     ],
-    "licoes_aprendidas": "Mercado lateral com viés baixista em altcoins. ETH mostra exaustão e realizamos lucro parcial. UNI e SAND estão sobrecomprados/extremos, altcoins como POL e CHZ desabam. Seguimos preservando BRL e aguardando oportunidades em suportes de Fibonacci de 30d.",
-    "ultima_execucao": "2026-07-30T21:07:06.887412+00:00",
+    "licoes_aprendidas": "Mercado geral em baixa ou lateral. BTC oferece ponto de entrada técnica atrativa com RSI baixo e toque na banda de Bollinger inferior. Preservação de capital mantida com BRL ainda disponível após compra parcial. Altcoins sem posição ou sinais claros de reversão.",
+    "ultima_execucao": "2026-07-31T16:16:56.686892+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
