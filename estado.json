@@ -1,51 +1,23 @@
 {
-    "saldo_anterior": 10271.34,
+    "saldo_anterior": 10335.16,
     "saldos_virtuais": {
-        "brl": 2358.058602343538,
+        "brl": 1658.058602343538,
         "btc": 0.011647279849072167,
         "eth": 0.2053509712159643,
         "sol": 0.0,
         "ltc": 0.0,
         "uni": 0.0,
-        "dot": 111.13014182176695,
-        "bnb": 0.16544244622457416,
+        "dot": 134.40760923331257,
+        "bnb": 0.24762522071504095,
         "ada": 0.0,
-        "chz": 9090.936169178729,
+        "chz": 12130.44984699028,
         "link": 0.0,
-        "sand": 2794.309099846544,
+        "sand": 3488.367956037549,
         "xrp": 0.0,
         "snx": 0.0,
         "pol": 0.0
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-07-21T16:05:14.562286+00:00",
-            "ticker": "ethbrl",
-            "acao": "VENDER",
-            "quantidade": 0.05,
-            "preco_estimado": 9841.7
-        },
-        {
-            "timestamp": "2026-07-21T16:05:14.562290+00:00",
-            "ticker": "unibrl",
-            "acao": "VENDER",
-            "quantidade": 5.0,
-            "preco_estimado": 18.649
-        },
-        {
-            "timestamp": "2026-07-21T16:05:14.562293+00:00",
-            "ticker": "linkbrl",
-            "acao": "VENDER",
-            "quantidade": 5.0,
-            "preco_estimado": 44.288
-        },
-        {
-            "timestamp": "2026-07-21T21:06:40.475240+00:00",
-            "ticker": "btcbrl",
-            "acao": "COMPRAR",
-            "quantidade": 250.0,
-            "preco_estimado": 337962.0
-        },
         {
             "timestamp": "2026-07-21T21:06:40.475255+00:00",
             "ticker": "ethbrl",
@@ -367,10 +339,38 @@
             "acao": "COMPRAR",
             "quantidade": 250.0,
             "preco_estimado": 4.18
+        },
+        {
+            "timestamp": "2026-08-04T16:29:21.865885+00:00",
+            "ticker": "sandbrl",
+            "acao": "COMPRAR",
+            "quantidade": 150.0,
+            "preco_estimado": 0.21612
+        },
+        {
+            "timestamp": "2026-08-04T16:29:21.865900+00:00",
+            "ticker": "dotbrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 4.296
+        },
+        {
+            "timestamp": "2026-08-04T16:29:21.865903+00:00",
+            "ticker": "chzbrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 0.0658
+        },
+        {
+            "timestamp": "2026-08-04T16:29:21.865905+00:00",
+            "ticker": "bnbbrl",
+            "acao": "COMPRAR",
+            "quantidade": 250.0,
+            "preco_estimado": 3042.0
         }
     ],
-    "licoes_aprendidas": "Mercado em consolidação geral com alguns ativos sobrevendidos (CHZ, SAND) e sobrecomprados (ADA). BNB mostra força relativa. Redução de ativos fracos (SNX, POL, XRP) para aumentar caixa e reinvestir em reversões de sobrevenda (DOT, CHZ, SAND) e ativo de força (BNB). Preservação de capital mantida.",
-    "ultima_execucao": "2026-08-03T21:00:06.262714+00:00",
+    "licoes_aprendidas": "Mercado misto com sobrevenda em CHZ e SAND. BNB apresenta força relativa para acumular. DOT em viés de alta após correção. BTC e ETH consolidados exigem paciência. Oportunidades surgindo em ativos específicos com níveis de suporte extremos. Continuar preservando caixa para entradas escalonadas.",
+    "ultima_execucao": "2026-08-04T16:29:21.865912+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
