@@ -1,9 +1,9 @@
 {
-    "saldo_anterior": 10335.16,
+    "saldo_anterior": 10389.88,
     "saldos_virtuais": {
-        "brl": 1658.058602343538,
-        "btc": 0.011647279849072167,
-        "eth": 0.2053509712159643,
+        "brl": 1258.058602343538,
+        "btc": 0.012403012078028804,
+        "eth": 0.22090419954772503,
         "sol": 0.0,
         "ltc": 0.0,
         "uni": 0.0,
@@ -18,20 +18,6 @@
         "pol": 0.0
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-07-21T21:06:40.475255+00:00",
-            "ticker": "ethbrl",
-            "acao": "VENDER",
-            "quantidade": 0.05,
-            "preco_estimado": 9783.0
-        },
-        {
-            "timestamp": "2026-07-21T21:06:40.475257+00:00",
-            "ticker": "polbrl",
-            "acao": "VENDER",
-            "quantidade": 500.0,
-            "preco_estimado": 0.40866
-        },
         {
             "timestamp": "2026-07-21T21:06:40.475259+00:00",
             "ticker": "linkbrl",
@@ -367,10 +353,24 @@
             "acao": "COMPRAR",
             "quantidade": 250.0,
             "preco_estimado": 3042.0
+        },
+        {
+            "timestamp": "2026-08-04T21:10:03.633098+00:00",
+            "ticker": "btcbrl",
+            "acao": "COMPRAR",
+            "quantidade": 250.0,
+            "preco_estimado": 330805.0
+        },
+        {
+            "timestamp": "2026-08-04T21:10:03.633113+00:00",
+            "ticker": "ethbrl",
+            "acao": "COMPRAR",
+            "quantidade": 150.0,
+            "preco_estimado": 9644.3
         }
     ],
-    "licoes_aprendidas": "Mercado misto com sobrevenda em CHZ e SAND. BNB apresenta força relativa para acumular. DOT em viés de alta após correção. BTC e ETH consolidados exigem paciência. Oportunidades surgindo em ativos específicos com níveis de suporte extremos. Continuar preservando caixa para entradas escalonadas.",
-    "ultima_execucao": "2026-08-04T16:29:21.865912+00:00",
+    "licoes_aprendidas": "Mercado continua em fase de acumulação seletiva. BTC e ETH dão sinais de estabilização, enquanto altcoins menores como CHZ e SAND permanecem em sobrevenda, potencializando rebotes. DOT e BNB demonstram força com compras anteriores. Preservar caixa (R$ 1658) com entradas fracionadas (R$ 250 BTC + R$ 150 ETH). Manter caixa remanescente de R$ 1258 para possíveis correções ou novas oportunidades. Evitar FOMO em ativos sobrecomprados (ADA) e focar em acumular em suportes (ETH, BTC).",
+    "ultima_execucao": "2026-08-04T21:10:03.633120+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
