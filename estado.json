@@ -1,7 +1,7 @@
 {
-    "saldo_anterior": 10399.16,
+    "saldo_anterior": 10446.12,
     "saldos_virtuais": {
-        "brl": 1585.168602343538,
+        "brl": 1235.168602343538,
         "btc": 0.012403012078028804,
         "eth": 0.22090419954772503,
         "sol": 0.0,
@@ -10,28 +10,14 @@
         "dot": 84.40760923331257,
         "bnb": 0.14762522071504094,
         "ada": 0.0,
-        "chz": 13664.662795747567,
+        "chz": 15927.447529493229,
         "link": 0.0,
-        "sand": 3950.581961121903,
+        "sand": 4886.911549136885,
         "xrp": 0.0,
         "snx": 0.0,
         "pol": 0.0
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-07-23T16:12:04.352357+00:00",
-            "ticker": "linkbrl",
-            "acao": "VENDER",
-            "quantidade": 5.0,
-            "preco_estimado": 43.176
-        },
-        {
-            "timestamp": "2026-07-23T16:12:04.352359+00:00",
-            "ticker": "polbrl",
-            "acao": "VENDER",
-            "quantidade": 500.0,
-            "preco_estimado": 0.38891
-        },
         {
             "timestamp": "2026-07-23T21:03:01.385044+00:00",
             "ticker": "btcbrl",
@@ -367,10 +353,24 @@
             "acao": "VENDER",
             "quantidade": 50.0,
             "preco_estimado": 4.371
+        },
+        {
+            "timestamp": "2026-08-05T21:07:13.278124+00:00",
+            "ticker": "sandbrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 0.2136
+        },
+        {
+            "timestamp": "2026-08-05T21:07:13.278143+00:00",
+            "ticker": "chzbrl",
+            "acao": "COMPRAR",
+            "quantidade": 150.0,
+            "preco_estimado": 0.06629
         }
     ],
-    "licoes_aprendidas": "Mercado misto: BTC/ETH em consolidação. Altcoins como SAND e CHZ oferecem oportunidade de acumulação em sobrevenda. BNB e DOT atingiram níveis de resistência Fibonacci e Bollinger, sinalizando realização parcial de lucros. Caixa gerido com entradas fracionadas (R$100 em CHZ e SAND) para preservar capital restante (~R$ 1058). Evitar FOMO em ADA sobrecomprado. Manter rigor na execução de ordens limitadas para reduzir slippage em altcoins voláteis.",
-    "ultima_execucao": "2026-08-05T16:44:21.491164+00:00",
+    "licoes_aprendidas": "SAND e CHZ em sobrevenda clara (RSI <35) com suporte de Fibonacci e Bollinger Band inferior oferecendo oportunidade de acumulação com alta margem de segurança. BNB atingiu resistência técnica máxima de 30 dias, sinalizando possível realização em próximas sessões. DOT mantém recuperação consistente, mas resistência Fibonacci 0.618 exige cautela. Manter caixa BRL acima de 1200 para preservar capital em cenários de correção. Evitar FOMO em ADAs overbought.",
+    "ultima_execucao": "2026-08-05T21:07:13.278150+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
