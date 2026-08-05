@@ -1,51 +1,23 @@
 {
-    "saldo_anterior": 10389.88,
+    "saldo_anterior": 10399.16,
     "saldos_virtuais": {
-        "brl": 1258.058602343538,
+        "brl": 1585.168602343538,
         "btc": 0.012403012078028804,
         "eth": 0.22090419954772503,
         "sol": 0.0,
         "ltc": 0.0,
         "uni": 0.0,
-        "dot": 134.40760923331257,
-        "bnb": 0.24762522071504095,
+        "dot": 84.40760923331257,
+        "bnb": 0.14762522071504094,
         "ada": 0.0,
-        "chz": 12130.44984699028,
+        "chz": 13664.662795747567,
         "link": 0.0,
-        "sand": 3488.367956037549,
+        "sand": 3950.581961121903,
         "xrp": 0.0,
         "snx": 0.0,
         "pol": 0.0
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-07-21T21:06:40.475259+00:00",
-            "ticker": "linkbrl",
-            "acao": "VENDER",
-            "quantidade": 5.0,
-            "preco_estimado": 43.913
-        },
-        {
-            "timestamp": "2026-07-21T21:06:40.475261+00:00",
-            "ticker": "unibrl",
-            "acao": "VENDER",
-            "quantidade": 5.0,
-            "preco_estimado": 18.839
-        },
-        {
-            "timestamp": "2026-07-23T16:12:04.352338+00:00",
-            "ticker": "ethbrl",
-            "acao": "VENDER",
-            "quantidade": 0.03,
-            "preco_estimado": 9630.2
-        },
-        {
-            "timestamp": "2026-07-23T16:12:04.352353+00:00",
-            "ticker": "unibrl",
-            "acao": "VENDER",
-            "quantidade": 10.0,
-            "preco_estimado": 19.32
-        },
         {
             "timestamp": "2026-07-23T16:12:04.352357+00:00",
             "ticker": "linkbrl",
@@ -367,10 +339,38 @@
             "acao": "COMPRAR",
             "quantidade": 150.0,
             "preco_estimado": 9644.3
+        },
+        {
+            "timestamp": "2026-08-05T16:44:21.491135+00:00",
+            "ticker": "bnbbrl",
+            "acao": "VENDER",
+            "quantidade": 0.1,
+            "preco_estimado": 3085.6
+        },
+        {
+            "timestamp": "2026-08-05T16:44:21.491152+00:00",
+            "ticker": "sandbrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 0.21635
+        },
+        {
+            "timestamp": "2026-08-05T16:44:21.491155+00:00",
+            "ticker": "chzbrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 0.06518
+        },
+        {
+            "timestamp": "2026-08-05T16:44:21.491157+00:00",
+            "ticker": "dotbrl",
+            "acao": "VENDER",
+            "quantidade": 50.0,
+            "preco_estimado": 4.371
         }
     ],
-    "licoes_aprendidas": "Mercado continua em fase de acumulação seletiva. BTC e ETH dão sinais de estabilização, enquanto altcoins menores como CHZ e SAND permanecem em sobrevenda, potencializando rebotes. DOT e BNB demonstram força com compras anteriores. Preservar caixa (R$ 1658) com entradas fracionadas (R$ 250 BTC + R$ 150 ETH). Manter caixa remanescente de R$ 1258 para possíveis correções ou novas oportunidades. Evitar FOMO em ativos sobrecomprados (ADA) e focar em acumular em suportes (ETH, BTC).",
-    "ultima_execucao": "2026-08-04T21:10:03.633120+00:00",
+    "licoes_aprendidas": "Mercado misto: BTC/ETH em consolidação. Altcoins como SAND e CHZ oferecem oportunidade de acumulação em sobrevenda. BNB e DOT atingiram níveis de resistência Fibonacci e Bollinger, sinalizando realização parcial de lucros. Caixa gerido com entradas fracionadas (R$100 em CHZ e SAND) para preservar capital restante (~R$ 1058). Evitar FOMO em ADA sobrecomprado. Manter rigor na execução de ordens limitadas para reduzir slippage em altcoins voláteis.",
+    "ultima_execucao": "2026-08-05T16:44:21.491164+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
