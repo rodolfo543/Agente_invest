@@ -1,44 +1,23 @@
 {
-    "saldo_anterior": 10446.12,
+    "saldo_anterior": 10370.71,
     "saldos_virtuais": {
-        "brl": 1235.168602343538,
+        "brl": 1289.9337839511506,
         "btc": 0.012403012078028804,
         "eth": 0.22090419954772503,
         "sol": 0.0,
         "ltc": 0.0,
         "uni": 0.0,
-        "dot": 84.40760923331257,
+        "dot": 0.0,
         "bnb": 0.14762522071504094,
         "ada": 0.0,
-        "chz": 15927.447529493229,
+        "chz": 18185.123628228932,
         "link": 0.0,
-        "sand": 4886.911549136885,
+        "sand": 5597.340648312787,
         "xrp": 0.0,
         "snx": 0.0,
         "pol": 0.0
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-07-23T21:03:01.385044+00:00",
-            "ticker": "btcbrl",
-            "acao": "COMPRAR",
-            "quantidade": 250.0,
-            "preco_estimado": 332411.0
-        },
-        {
-            "timestamp": "2026-07-23T21:03:01.385063+00:00",
-            "ticker": "unibrl",
-            "acao": "VENDER",
-            "quantidade": 8.367409618166477,
-            "preco_estimado": 19.399
-        },
-        {
-            "timestamp": "2026-07-23T21:03:01.385069+00:00",
-            "ticker": "polbrl",
-            "acao": "VENDER",
-            "quantidade": 500.0,
-            "preco_estimado": 0.39213
-        },
         {
             "timestamp": "2026-07-23T21:03:01.385073+00:00",
             "ticker": "ltcbrl",
@@ -367,10 +346,31 @@
             "acao": "COMPRAR",
             "quantidade": 150.0,
             "preco_estimado": 0.06629
+        },
+        {
+            "timestamp": "2026-08-07T00:54:55.625792+00:00",
+            "ticker": "dotbrl",
+            "acao": "VENDER",
+            "quantidade": 84.40760923331257,
+            "preco_estimado": 4.203
+        },
+        {
+            "timestamp": "2026-08-07T00:54:55.625809+00:00",
+            "ticker": "chzbrl",
+            "acao": "COMPRAR",
+            "quantidade": 150.0,
+            "preco_estimado": 0.06644
+        },
+        {
+            "timestamp": "2026-08-07T00:54:55.625813+00:00",
+            "ticker": "sandbrl",
+            "acao": "COMPRAR",
+            "quantidade": 150.0,
+            "preco_estimado": 0.21114
         }
     ],
-    "licoes_aprendidas": "SAND e CHZ em sobrevenda clara (RSI <35) com suporte de Fibonacci e Bollinger Band inferior oferecendo oportunidade de acumulação com alta margem de segurança. BNB atingiu resistência técnica máxima de 30 dias, sinalizando possível realização em próximas sessões. DOT mantém recuperação consistente, mas resistência Fibonacci 0.618 exige cautela. Manter caixa BRL acima de 1200 para preservar capital em cenários de correção. Evitar FOMO em ADAs overbought.",
-    "ultima_execucao": "2026-08-05T21:07:13.278150+00:00",
+    "licoes_aprendidas": "DOT atingiu resistência Fib 0.618 com rejeição, momento de realizar lucro para preservar capital. CHZ e SAND permanecem sobrevendidos (RSI <33) e com histograma MACD positivo, indicando possível reversão de curto prazo. BNB atingiu topo do canal de Bollinger, exigindo atenção para realização parcial na próxima sessão. Mantenha caixa BRL saudável (saldo atual R$ 1235) para aproveitar correções. Evitar ADA por estar em sobrecompra extrema.",
+    "ultima_execucao": "2026-08-07T00:54:55.625820+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
