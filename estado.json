@@ -1,14 +1,14 @@
 {
-    "saldo_anterior": 11795.84,
+    "saldo_anterior": 12047.07,
     "saldos_virtuais": {
-        "brl": 8972.961606807688,
+        "brl": 9316.338795628702,
         "btc": 0.0,
         "eth": 0.0,
         "sol": 0.0,
         "ltc": 0.0,
         "uni": 0.0,
         "dot": 0.0,
-        "bnb": 0.09762522071504094,
+        "bnb": 0.0,
         "ada": 0.0,
         "chz": 18185.123628228932,
         "link": 0.0,
@@ -18,13 +18,6 @@
         "pol": 0.0
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-07-24T21:02:58.134444+00:00",
-            "ticker": "polbrl",
-            "acao": "VENDER",
-            "quantidade": 280.0,
-            "preco_estimado": 0.38757
-        },
         {
             "timestamp": "2026-07-27T16:39:56.621460+00:00",
             "ticker": "unibrl",
@@ -367,10 +360,17 @@
             "acao": "VENDER",
             "quantidade": 0.05,
             "preco_estimado": 3434.3
+        },
+        {
+            "timestamp": "2026-08-21T15:03:20.011422+00:00",
+            "ticker": "bnbbrl",
+            "acao": "VENDER",
+            "quantidade": 0.09762522071504094,
+            "preco_estimado": 3517.3
         }
     ],
-    "licoes_aprendidas": "Mercado em forte alta, vários ativos em sobrecompra extrema (BTC, ETH, BNB, XRP, LINK). Realizar lucros em BTC, ETH e BNB para preservar capital e aumentar caixa em BRL. Ficar atento a correções para recomprar. Manter CHZ e SAND por estarem em zona neutra. Evitar novas compras até ocorrer correção.",
-    "ultima_execucao": "2026-08-21T01:26:55.710304+00:00",
+    "licoes_aprendidas": "Mercado em forte alta generalizada, com vários ativos em sobrecompra extrema (BTC, ETH, SOL, BNB, XRP, LINK). Realizar lucros em BNB (posição existente) e manter caixa em BRL para aguardar correções. CHZ e SAND mantêm tendência saudável, mas sem novas compras no momento. Evitar novas compras até que haja correção ou sinais de reversão.",
+    "ultima_execucao": "2026-08-21T15:03:20.011440+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
