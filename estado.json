@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 12007.06,
+    "saldo_anterior": 12054.61,
     "saldos_virtuais": {
         "brl": 9316.338795628702,
         "btc": 0.0,
@@ -369,8 +369,8 @@
             "preco_estimado": 3517.3
         }
     ],
-    "licoes_aprendidas": "Mercado em forte alta generalizada, com vários ativos em sobrecompra extrema (BTC, ETH, SOL, LTC, ADA, LINK, BNB, XRP). Realizar lucros em BTC e ETH, e manter caixa em BRL para aguardar correções. CHZ e SAND mantêm tendência saudável, mas sem novas compras no momento. Evitar novas compras até que haja correção ou sinais de reversão.",
-    "ultima_execucao": "2026-08-21T20:13:10.452412+00:00",
+    "licoes_aprendidas": "Mercado em forte alta generalizada, com muitos ativos em sobrecompra extrema (BTC, SOL, POL, XRP, BNB). CHZ e SAND mantêm tendência saudável, com RSI abaixo de 65, indicando possível continuação. Manter caixa em BRL para aguardar correções ou oportunidades de reentrada. Evitar novas compras até que haja correção ou sinais de reversão.",
+    "ultima_execucao": "2026-08-22T12:23:55.411467+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
