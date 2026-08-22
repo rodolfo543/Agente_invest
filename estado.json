@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 12029.48,
+    "saldo_anterior": 12016.57,
     "saldos_virtuais": {
         "brl": 8816.338795628702,
         "btc": 0.0,
@@ -369,8 +369,8 @@
             "preco_estimado": 0.07594
         }
     ],
-    "licoes_aprendidas": "Mercado em alta generalizada, mas com muitos ativos em sobrecompra (BTC, SOL, POL, XRP, BNB). CHZ, SAND, SNX e UNI apresentam RSI mais saudável, indicando possível continuação. Manter caixa em BRL para oportunidades de correção. Evitar novas compras em ativos sobrecomprados.",
-    "ultima_execucao": "2026-08-22T14:50:27.780026+00:00",
+    "licoes_aprendidas": "Mercado em forte alta, mas muitos ativos estão extremamente sobrecomprados (RSI >80), indicando possível correção. A estratégia de swing trade deve priorizar a preservação de capital, evitando novas compras em ativos sobrecomprados e reduzindo posições que apresentam sinais de exaustão. Ativos como SAND, UNI, SNX e CHZ apresentam RSI mais saudável, mas sem sinais claros de entrada. Manter caixa em BRL para oportunidades de correção.",
+    "ultima_execucao": "2026-08-22T20:11:19.683951+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
