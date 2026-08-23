@@ -1,12 +1,12 @@
 {
-    "saldo_anterior": 11988.69,
+    "saldo_anterior": 12005.17,
     "saldos_virtuais": {
-        "brl": 8816.338795628702,
+        "brl": 8973.301714724912,
         "btc": 0.0,
         "eth": 0.0,
         "sol": 0.0,
         "ltc": 0.0,
-        "uni": 6.833090379008746,
+        "uni": 0.0,
         "dot": 0.0,
         "bnb": 0.0,
         "ada": 0.0,
@@ -18,13 +18,6 @@
         "pol": 0.0
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-07-28T16:21:34.804134+00:00",
-            "ticker": "btcbrl",
-            "acao": "VENDER",
-            "quantidade": 0.002,
-            "preco_estimado": 327167.0
-        },
         {
             "timestamp": "2026-07-28T21:05:46.771550+00:00",
             "ticker": "ethbrl",
@@ -367,10 +360,17 @@
             "acao": "COMPRAR",
             "quantidade": 100.0,
             "preco_estimado": 0.07594
+        },
+        {
+            "timestamp": "2026-08-23T14:49:01.297723+00:00",
+            "ticker": "unibrl",
+            "acao": "VENDER",
+            "quantidade": 6.833090379008746,
+            "preco_estimado": 22.971
         }
     ],
-    "licoes_aprendidas": "O mercado está em forte alta, mas a maioria dos ativos apresenta RSI acima de 70, com muitos acima de 80, indicando sobrecompra generalizada e alta probabilidade de correção. A estratégia deve priorizar a preservação de capital, evitando novas compras e reduzindo posições em ativos com sinais de exaustão. Manter caixa em BRL para aproveitar oportunidades de compra em correções, especialmente em ativos com RSI mais saudável como SAND, CHZ e SNX. Observar níveis de suporte de Fibonacci (0.382 a 0.618) para possíveis entradas após correção.",
-    "ultima_execucao": "2026-08-23T12:14:32.026685+00:00",
+    "licoes_aprendidas": "O mercado está em forte alta, mas com RSI extremamente sobrecomprado em muitos ativos (BTC, ETH, SOL, XRP, POL, etc.), indicando alta probabilidade de correção. Priorizar preservação de capital, evitando novas compras. Vender UNI para realizar lucro e manter posições em ativos com RSI mais saudável (SAND, CHZ, SNX). Observar suportes de Fibonacci para possíveis entradas após correção.",
+    "ultima_execucao": "2026-08-23T14:49:01.297746+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
