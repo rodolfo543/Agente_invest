@@ -1,7 +1,7 @@
 {
-    "saldo_anterior": 11978.75,
+    "saldo_anterior": 11921.17,
     "saldos_virtuais": {
-        "brl": 7973.301714724912,
+        "brl": 7473.301714724912,
         "btc": 0.0,
         "eth": 0.0,
         "sol": 0.0,
@@ -10,7 +10,7 @@
         "dot": 0.0,
         "bnb": 0.0,
         "ada": 0.0,
-        "chz": 26057.610236265427,
+        "chz": 32644.357700367655,
         "link": 0.0,
         "sand": 7496.467257464252,
         "xrp": 0.0,
@@ -18,13 +18,6 @@
         "pol": 0.0
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-07-29T20:53:16.380934+00:00",
-            "ticker": "ltcbrl",
-            "acao": "VENDER",
-            "quantidade": 0.8279859242392879,
-            "preco_estimado": 228.89
-        },
         {
             "timestamp": "2026-07-30T16:09:39.931640+00:00",
             "ticker": "unibrl",
@@ -367,10 +360,17 @@
             "acao": "COMPRAR",
             "quantidade": 200.0,
             "preco_estimado": 1.1961
+        },
+        {
+            "timestamp": "2026-08-24T15:25:41.034199+00:00",
+            "ticker": "chzbrl",
+            "acao": "COMPRAR",
+            "quantidade": 500.0,
+            "preco_estimado": 0.07591
         }
     ],
-    "licoes_aprendidas": "Mercado em forte alta, com muitos ativos sobrecomprados (BTC, ETH, SOL, BNB, XRP, POL, LINK). RSI acima de 80 sugere correção iminente. Ativos como CHZ, SAND e SNX apresentam RSI mais saudável e potencial de valorização. Priorizar preservação de capital, evitar novas compras em níveis elevados e aguardar correções para acumular em ativos de qualidade.",
-    "ultima_execucao": "2026-08-24T12:21:09.604582+00:00",
+    "licoes_aprendidas": "Mercado em forte alta com muitos ativos sobrecomprados (RSI > 80) e rompendo Bandas de Bollinger superiores. Isso indica exaustão e potencial correção. Ativos como CHZ e SAND estão com RSI mais saudável e podem ser acumulados. A estratégia deve priorizar a preservação de capital, reduzindo posições em ativos sobrecomprados e aguardando correções para recomprar. Ações defensivas: vender ou manter posições existentes, sem novas compras em níveis elevados.",
+    "ultima_execucao": "2026-08-24T15:25:41.034218+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
