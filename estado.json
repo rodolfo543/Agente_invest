@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 12035.02,
+    "saldo_anterior": 11978.75,
     "saldos_virtuais": {
         "brl": 7973.301714724912,
         "btc": 0.0,
@@ -369,8 +369,8 @@
             "preco_estimado": 1.1961
         }
     ],
-    "licoes_aprendidas": "O mercado continua em forte alta, com a maioria dos ativos apresentando RSI sobrecomprado (BTC, ETH, SOL, POL, XRP, BNB, LINK, ADA) e preços na resistência de Fibonacci 1.0. Isso indica alta probabilidade de correção em curto prazo. Priorizar preservação de capital, evitando novas compras em ativos sobrecomprados. Ativos como CHZ, SAND e SNX apresentam RSI mais saudável e tendência de alta, sendo candidatos a acumulação gradual. Manter caixa em BRL para aproveitar possíveis quedas.",
-    "ultima_execucao": "2026-08-23T20:11:04.625362+00:00",
+    "licoes_aprendidas": "Mercado em forte alta, com muitos ativos sobrecomprados (BTC, ETH, SOL, BNB, XRP, POL, LINK). RSI acima de 80 sugere correção iminente. Ativos como CHZ, SAND e SNX apresentam RSI mais saudável e potencial de valorização. Priorizar preservação de capital, evitar novas compras em níveis elevados e aguardar correções para acumular em ativos de qualidade.",
+    "ultima_execucao": "2026-08-24T12:21:09.604582+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
