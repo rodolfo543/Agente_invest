@@ -1,58 +1,23 @@
 {
-    "saldo_anterior": 11685.25,
+    "saldo_anterior": 11857.29,
     "saldos_virtuais": {
-        "brl": 3023.301714724912,
+        "brl": 1523.301714724912,
         "btc": 0.0,
         "eth": 0.0,
         "sol": 0.0,
         "ltc": 0.0,
-        "uni": 26.572620332056243,
-        "dot": 87.61862723460605,
+        "uni": 39.08252400579795,
+        "dot": 153.42253159959836,
         "bnb": 0.0,
-        "ada": 179.8399424512184,
-        "chz": 52990.43112416363,
+        "ada": 450.98961707160885,
+        "chz": 57025.94363425241,
         "link": 0.0,
         "sand": 12947.158084313814,
         "xrp": 0.0,
-        "snx": 711.5516927224782,
+        "snx": 967.524388968212,
         "pol": 0.0
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-08-03T21:00:06.262700+00:00",
-            "ticker": "chzbrl",
-            "acao": "COMPRAR",
-            "quantidade": 250.0,
-            "preco_estimado": 0.06571
-        },
-        {
-            "timestamp": "2026-08-03T21:00:06.262702+00:00",
-            "ticker": "bnbbrl",
-            "acao": "COMPRAR",
-            "quantidade": 300.0,
-            "preco_estimado": 3023.6
-        },
-        {
-            "timestamp": "2026-08-03T21:00:06.262703+00:00",
-            "ticker": "xrpbrl",
-            "acao": "VENDER",
-            "quantidade": 36.989088218975404,
-            "preco_estimado": 5.525
-        },
-        {
-            "timestamp": "2026-08-03T21:00:06.262705+00:00",
-            "ticker": "sandbrl",
-            "acao": "COMPRAR",
-            "quantidade": 200.0,
-            "preco_estimado": 0.21612
-        },
-        {
-            "timestamp": "2026-08-03T21:00:06.262707+00:00",
-            "ticker": "dotbrl",
-            "acao": "COMPRAR",
-            "quantidade": 250.0,
-            "preco_estimado": 4.18
-        },
         {
             "timestamp": "2026-08-04T16:29:21.865885+00:00",
             "ticker": "sandbrl",
@@ -367,10 +332,45 @@
             "acao": "COMPRAR",
             "quantidade": 200.0,
             "preco_estimado": 22.619
+        },
+        {
+            "timestamp": "2026-08-27T21:23:40.179548+00:00",
+            "ticker": "snxbrl",
+            "acao": "COMPRAR",
+            "quantidade": 300.0,
+            "preco_estimado": 1.172
+        },
+        {
+            "timestamp": "2026-08-27T21:23:40.179564+00:00",
+            "ticker": "chzbrl",
+            "acao": "COMPRAR",
+            "quantidade": 300.0,
+            "preco_estimado": 0.07434
+        },
+        {
+            "timestamp": "2026-08-27T21:23:40.179567+00:00",
+            "ticker": "dotbrl",
+            "acao": "COMPRAR",
+            "quantidade": 300.0,
+            "preco_estimado": 4.559
+        },
+        {
+            "timestamp": "2026-08-27T21:23:40.179570+00:00",
+            "ticker": "adabrl",
+            "acao": "COMPRAR",
+            "quantidade": 300.0,
+            "preco_estimado": 1.1064
+        },
+        {
+            "timestamp": "2026-08-27T21:23:40.179572+00:00",
+            "ticker": "unibrl",
+            "acao": "COMPRAR",
+            "quantidade": 300.0,
+            "preco_estimado": 23.981
         }
     ],
-    "licoes_aprendidas": "Ativos de grande capitalização (BTC, ETH, SOL, BNB, XRP) continuam com RSI sobrecomprado e preços em resistências de Fibonacci e bandas superiores de Bollinger, indicando risco iminente de correção. Devemos manter cautela e não abrir novas posições nesses ativos. Altcoins de média capitalização (CHZ, UNI, ADA, SNX) mostram RSI saudável entre 52-64, com MACD positivo e suportes relevantes em Fibonacci, oferecendo oportunidades de acumulação em pullbacks. Manter posições em DOT, SAND e LTC, aguardando confirmação de direção. Reserva em BRL mantida para aproveitar quedas e eventuais correções.",
-    "ultima_execucao": "2026-08-26T22:38:21.576423+00:00",
+    "licoes_aprendidas": "Grandes capitalizações (BTC, ETH, SOL, BNB) e alguns ativos como LINK e XRP estão extremamente sobrecomprados, com RSI acima de 74 e preços em resistências de Fibonacci ou bandas superiores de Bollinger. Isso indica risco iminente de correção. Manter cautela nessas posições e não abrir novas compras. Altcoins de média capitalização (SNX, CHZ, DOT, ADA, UNI) mostram RSI saudável entre 55-70, com MACD positivo e suportes relevantes em Fibonacci, oferecendo boas oportunidades de acumulação em pullbacks. Manter SAND e POL, aguardando confirmação de direção. Reserva em BRL mantida para aproveitar quedas e eventuais correções.",
+    "ultima_execucao": "2026-08-27T21:23:40.179580+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
