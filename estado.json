@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 11851.8,
+    "saldo_anterior": 11782.48,
     "saldos_virtuais": {
         "brl": 423.301714724912,
         "btc": 0.0,
@@ -369,8 +369,8 @@
             "preco_estimado": 0.55775
         }
     ],
-    "licoes_aprendidas": "Nesta rodada, observamos que ativos de grande capitalização (BTC, ETH, SOL, BNB) atingiram níveis de sobrecompra extrema, com RSI acima de 80 e preços próximos de resistências de Fibonacci, indicando alta probabilidade de correção. Altcoins como UNI, DOT, ADA, CHZ, SNX e POL apresentam RSI saudável entre 55-70, com MACD positivo e suportes relevantes, sugerindo oportunidades de acumulação. SAND e LTC estão neutros, exigindo cautela. Manter reserva em BRL é prudente para aproveitar eventuais quedas. Decidiu-se realizar pequenas compras em altcoins de média capitalização para capitalizar sobre o momentum positivo, enquanto se evita abrir novas posições em ativos sobrecomprados.",
-    "ultima_execucao": "2026-08-27T23:54:11.654902+00:00",
+    "licoes_aprendidas": "Grandes capitalizações (BTC, ETH, SOL, BNB, XRP) continuam em sobrecompra (RSI>70), com alta probabilidade de correção; portanto, evitar novas compras. Altcoins como SNX, ADA, DOT, CHZ, POL apresentam RSI saudável e oportunidades de acumulação, mas sem executar trades devido à baixa liquidez em BRL (caixa de apenas R$423). O sentimento geral do mercado está positivo, com MACD positivo para a maioria, mas a prudência recomenda manter posições atuais e aguardar correções para entrar com mais capital.",
+    "ultima_execucao": "2026-08-28T03:55:34.962347+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
