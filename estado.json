@@ -1,72 +1,23 @@
 {
-    "saldo_anterior": 11266.07,
+    "saldo_anterior": 11292.42,
     "saldos_virtuais": {
-        "brl": 423.301714724912,
+        "brl": 1582.399314724912,
         "btc": 0.0,
         "eth": 0.0,
         "sol": 0.0,
         "ltc": 0.0,
-        "uni": 49.472350287902515,
-        "dot": 186.26684953259596,
+        "uni": 43.472350287902515,
+        "dot": 166.26684953259596,
         "bnb": 0.0,
-        "ada": 631.8214434730555,
-        "chz": 59722.45165636378,
+        "ada": 551.8214434730555,
+        "chz": 54722.45165636378,
         "link": 0.0,
-        "sand": 12947.158084313814,
+        "sand": 11447.158084313814,
         "xrp": 0.0,
-        "snx": 1095.510737091079,
-        "pol": 268.9376961004034
+        "snx": 945.5107370910789,
+        "pol": 228.9376961004034
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-08-05T16:44:21.491135+00:00",
-            "ticker": "bnbbrl",
-            "acao": "VENDER",
-            "quantidade": 0.1,
-            "preco_estimado": 3085.6
-        },
-        {
-            "timestamp": "2026-08-05T16:44:21.491152+00:00",
-            "ticker": "sandbrl",
-            "acao": "COMPRAR",
-            "quantidade": 100.0,
-            "preco_estimado": 0.21635
-        },
-        {
-            "timestamp": "2026-08-05T16:44:21.491155+00:00",
-            "ticker": "chzbrl",
-            "acao": "COMPRAR",
-            "quantidade": 100.0,
-            "preco_estimado": 0.06518
-        },
-        {
-            "timestamp": "2026-08-05T16:44:21.491157+00:00",
-            "ticker": "dotbrl",
-            "acao": "VENDER",
-            "quantidade": 50.0,
-            "preco_estimado": 4.371
-        },
-        {
-            "timestamp": "2026-08-05T21:07:13.278124+00:00",
-            "ticker": "sandbrl",
-            "acao": "COMPRAR",
-            "quantidade": 200.0,
-            "preco_estimado": 0.2136
-        },
-        {
-            "timestamp": "2026-08-05T21:07:13.278143+00:00",
-            "ticker": "chzbrl",
-            "acao": "COMPRAR",
-            "quantidade": 150.0,
-            "preco_estimado": 0.06629
-        },
-        {
-            "timestamp": "2026-08-07T00:54:55.625792+00:00",
-            "ticker": "dotbrl",
-            "acao": "VENDER",
-            "quantidade": 84.40760923331257,
-            "preco_estimado": 4.203
-        },
         {
             "timestamp": "2026-08-07T00:54:55.625809+00:00",
             "ticker": "chzbrl",
@@ -367,10 +318,59 @@
             "acao": "COMPRAR",
             "quantidade": 150.0,
             "preco_estimado": 0.55775
+        },
+        {
+            "timestamp": "2026-08-28T23:39:49.384244+00:00",
+            "ticker": "unibrl",
+            "acao": "VENDER",
+            "quantidade": 6.0,
+            "preco_estimado": 23.069
+        },
+        {
+            "timestamp": "2026-08-28T23:39:49.384258+00:00",
+            "ticker": "sandbrl",
+            "acao": "VENDER",
+            "quantidade": 1500.0,
+            "preco_estimado": 0.20215
+        },
+        {
+            "timestamp": "2026-08-28T23:39:49.384261+00:00",
+            "ticker": "snxbrl",
+            "acao": "VENDER",
+            "quantidade": 150.0,
+            "preco_estimado": 1.1035
+        },
+        {
+            "timestamp": "2026-08-28T23:39:49.384264+00:00",
+            "ticker": "adabrl",
+            "acao": "VENDER",
+            "quantidade": 80.0,
+            "preco_estimado": 1.054
+        },
+        {
+            "timestamp": "2026-08-28T23:39:49.384269+00:00",
+            "ticker": "polbrl",
+            "acao": "VENDER",
+            "quantidade": 40.0,
+            "preco_estimado": 0.55959
+        },
+        {
+            "timestamp": "2026-08-28T23:39:49.384272+00:00",
+            "ticker": "chzbrl",
+            "acao": "VENDER",
+            "quantidade": 5000.0,
+            "preco_estimado": 0.07135
+        },
+        {
+            "timestamp": "2026-08-28T23:39:49.384274+00:00",
+            "ticker": "dotbrl",
+            "acao": "VENDER",
+            "quantidade": 20.0,
+            "preco_estimado": 4.424
         }
     ],
-    "licoes_aprendidas": "O mercado apresenta correção generalizada, com grandes capitalizações (BTC, ETH, SOL, BNB, XRP) saindo de sobrecompra, indicando cautela. Altcoins como CHZ, SNX, UNI, ADA, DOT e POL mostram RSI mais saudável, mas estão em queda, sugerindo oportunidade de acumulação a preços melhores. O caixa em BRL é limitado (R$423), portanto, manter posições e aguardar correções mais profundas para novas compras é a estratégia prudente. Acompanhar a continuidade do movimento e o comportamento das médias móveis é essencial.",
-    "ultima_execucao": "2026-08-28T21:35:44.803880+00:00",
+    "licoes_aprendidas": "Mercado em correção generalizada com grandes capitalizações (BTC, ETH, SOL, BNB) saindo de sobrecompra. A maioria dos altcoins (UNI, SAND, SNX, ADA, POL, CHZ, DOT) apresenta quedas significativas, com RSI em níveis neutros ou em sobrecompra, indicando perda de momentum. A estratégia de reduzir posições parcialmente em ativos com sinais de cansaço e proteger o capital é essencial. O caixa em BRL é limitado (R$423), portanto, manter reserva e aguardar correções mais profundas para novas compras é prudente. Acompanhar o comportamento das médias móveis e do MACD será crucial para identificar pontos de reentrada.",
+    "ultima_execucao": "2026-08-28T23:39:49.384281+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
