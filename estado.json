@@ -1,7 +1,7 @@
 {
-    "saldo_anterior": 11290.19,
+    "saldo_anterior": 11359.14,
     "saldos_virtuais": {
-        "brl": 1582.399314724912,
+        "brl": 2241.941314724912,
         "btc": 0.0,
         "eth": 0.0,
         "sol": 0.0,
@@ -9,43 +9,15 @@
         "uni": 43.472350287902515,
         "dot": 166.26684953259596,
         "bnb": 0.0,
-        "ada": 551.8214434730555,
+        "ada": 351.8214434730555,
         "chz": 54722.45165636378,
         "link": 0.0,
-        "sand": 11447.158084313814,
+        "sand": 10447.158084313814,
         "xrp": 0.0,
-        "snx": 945.5107370910789,
-        "pol": 228.9376961004034
+        "snx": 745.5107370910789,
+        "pol": 178.9376961004034
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-08-07T00:54:55.625809+00:00",
-            "ticker": "chzbrl",
-            "acao": "COMPRAR",
-            "quantidade": 150.0,
-            "preco_estimado": 0.06644
-        },
-        {
-            "timestamp": "2026-08-07T00:54:55.625813+00:00",
-            "ticker": "sandbrl",
-            "acao": "COMPRAR",
-            "quantidade": 150.0,
-            "preco_estimado": 0.21114
-        },
-        {
-            "timestamp": "2026-08-21T01:26:55.710278+00:00",
-            "ticker": "btcbrl",
-            "acao": "VENDER",
-            "quantidade": 0.012403012078028804,
-            "preco_estimado": 388417.0
-        },
-        {
-            "timestamp": "2026-08-21T01:26:55.710293+00:00",
-            "ticker": "ethbrl",
-            "acao": "VENDER",
-            "quantidade": 0.22090419954772503,
-            "preco_estimado": 12194.3
-        },
         {
             "timestamp": "2026-08-21T01:26:55.710297+00:00",
             "ticker": "bnbbrl",
@@ -367,10 +339,38 @@
             "acao": "VENDER",
             "quantidade": 20.0,
             "preco_estimado": 4.424
+        },
+        {
+            "timestamp": "2026-08-29T16:17:32.526734+00:00",
+            "ticker": "adabrl",
+            "acao": "VENDER",
+            "quantidade": 200.0,
+            "preco_estimado": 1.0469
+        },
+        {
+            "timestamp": "2026-08-29T16:17:32.526753+00:00",
+            "ticker": "polbrl",
+            "acao": "VENDER",
+            "quantidade": 50.0,
+            "preco_estimado": 0.54624
+        },
+        {
+            "timestamp": "2026-08-29T16:17:32.526755+00:00",
+            "ticker": "sandbrl",
+            "acao": "VENDER",
+            "quantidade": 1000.0,
+            "preco_estimado": 0.20215
+        },
+        {
+            "timestamp": "2026-08-29T16:17:32.526757+00:00",
+            "ticker": "snxbrl",
+            "acao": "VENDER",
+            "quantidade": 200.0,
+            "preco_estimado": 1.1035
         }
     ],
-    "licoes_aprendidas": "Mercado em correção generalizada após forte alta. Grandes capitalizações (BTC, ETH, SOL) mostram RSI sobrecomprado e sinais de cansaço. Altcoins em correção moderada, com RSI caindo para neutro. A estratégia de manter posições e não realizar novas compras é prudente devido ao caixa limitado (R$1582). Reduzir posições em ativos com sobrecompra extrema seria ideal, mas não há saldo em BTC, ETH ou SOL. Continuar monitorando suportes de Fibonacci e indicadores para identificar oportunidades de recompra.",
-    "ultima_execucao": "2026-08-29T02:33:55.411369+00:00",
+    "licoes_aprendidas": "Mercado mostrando sinais de exaustão em ativos de alta capitalização (BTC, ETH, SOL) com RSI sobrecomprado. Altcoins como ADA, SAND e SNX em correção, indicando necessidade de reduzir exposição. Caixa limitado (R$1582) impede novas compras; foco em proteger capital e aguardar melhores pontos de entrada. A diversificação e o gerenciamento de risco são essenciais em cenário de correção.",
+    "ultima_execucao": "2026-08-29T16:17:32.526766+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
