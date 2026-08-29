@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 11292.42,
+    "saldo_anterior": 11290.19,
     "saldos_virtuais": {
         "brl": 1582.399314724912,
         "btc": 0.0,
@@ -369,8 +369,8 @@
             "preco_estimado": 4.424
         }
     ],
-    "licoes_aprendidas": "Mercado em correção generalizada com grandes capitalizações (BTC, ETH, SOL, BNB) saindo de sobrecompra. A maioria dos altcoins (UNI, SAND, SNX, ADA, POL, CHZ, DOT) apresenta quedas significativas, com RSI em níveis neutros ou em sobrecompra, indicando perda de momentum. A estratégia de reduzir posições parcialmente em ativos com sinais de cansaço e proteger o capital é essencial. O caixa em BRL é limitado (R$423), portanto, manter reserva e aguardar correções mais profundas para novas compras é prudente. Acompanhar o comportamento das médias móveis e do MACD será crucial para identificar pontos de reentrada.",
-    "ultima_execucao": "2026-08-28T23:39:49.384281+00:00",
+    "licoes_aprendidas": "Mercado em correção generalizada após forte alta. Grandes capitalizações (BTC, ETH, SOL) mostram RSI sobrecomprado e sinais de cansaço. Altcoins em correção moderada, com RSI caindo para neutro. A estratégia de manter posições e não realizar novas compras é prudente devido ao caixa limitado (R$1582). Reduzir posições em ativos com sobrecompra extrema seria ideal, mas não há saldo em BTC, ETH ou SOL. Continuar monitorando suportes de Fibonacci e indicadores para identificar oportunidades de recompra.",
+    "ultima_execucao": "2026-08-29T02:33:55.411369+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
