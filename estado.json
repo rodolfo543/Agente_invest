@@ -1,65 +1,23 @@
 {
-    "saldo_anterior": 11490.3,
+    "saldo_anterior": 11387.58,
     "saldos_virtuais": {
-        "brl": 3029.725070125557,
+        "brl": 2262.675070125557,
         "btc": 0.0,
         "eth": 0.0,
         "sol": 0.0,
         "ltc": 0.0,
-        "uni": 9.674285291623676,
-        "dot": 302.07279957674524,
+        "uni": 6.674285291623676,
+        "dot": 335.72017508145586,
         "bnb": 0.0,
-        "ada": 874.3926190733581,
-        "chz": 61640.59557513939,
+        "ada": 1017.8509205270689,
+        "chz": 64461.86796898902,
         "link": 0.0,
-        "sand": 995.5201592832256,
+        "sand": 1963.1528459153799,
         "xrp": 0.0,
-        "snx": 1157.6741369811687,
+        "snx": 1296.665982792881,
         "pol": 8.9376961004034
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-08-25T15:15:20.225613+00:00",
-            "ticker": "sandbrl",
-            "acao": "COMPRAR",
-            "quantidade": 300.0,
-            "preco_estimado": 0.21937
-        },
-        {
-            "timestamp": "2026-08-25T15:15:20.225627+00:00",
-            "ticker": "chzbrl",
-            "acao": "COMPRAR",
-            "quantidade": 400.0,
-            "preco_estimado": 0.07347
-        },
-        {
-            "timestamp": "2026-08-25T15:15:20.225630+00:00",
-            "ticker": "dotbrl",
-            "acao": "COMPRAR",
-            "quantidade": 200.0,
-            "preco_estimado": 4.531
-        },
-        {
-            "timestamp": "2026-08-25T15:15:20.225632+00:00",
-            "ticker": "snxbrl",
-            "acao": "COMPRAR",
-            "quantidade": 150.0,
-            "preco_estimado": 1.1953
-        },
-        {
-            "timestamp": "2026-08-25T15:15:20.225635+00:00",
-            "ticker": "adabrl",
-            "acao": "COMPRAR",
-            "quantidade": 200.0,
-            "preco_estimado": 1.1121
-        },
-        {
-            "timestamp": "2026-08-25T20:16:57.666690+00:00",
-            "ticker": "chzbrl",
-            "acao": "COMPRAR",
-            "quantidade": 300.0,
-            "preco_estimado": 0.07336
-        },
         {
             "timestamp": "2026-08-25T20:16:57.666707+00:00",
             "ticker": "sandbrl",
@@ -367,10 +325,52 @@
             "acao": "COMPRAR",
             "quantidade": 200.0,
             "preco_estimado": 1.0918
+        },
+        {
+            "timestamp": "2026-08-30T22:13:55.951662+00:00",
+            "ticker": "dotbrl",
+            "acao": "COMPRAR",
+            "quantidade": 150.0,
+            "preco_estimado": 4.458
+        },
+        {
+            "timestamp": "2026-08-30T22:13:55.951681+00:00",
+            "ticker": "sandbrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 0.20669
+        },
+        {
+            "timestamp": "2026-08-30T22:13:55.951684+00:00",
+            "ticker": "chzbrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 0.07089
+        },
+        {
+            "timestamp": "2026-08-30T22:13:55.951687+00:00",
+            "ticker": "unibrl",
+            "acao": "VENDER",
+            "quantidade": 3.0,
+            "preco_estimado": 27.65
+        },
+        {
+            "timestamp": "2026-08-30T22:13:55.951689+00:00",
+            "ticker": "adabrl",
+            "acao": "COMPRAR",
+            "quantidade": 150.0,
+            "preco_estimado": 1.0456
+        },
+        {
+            "timestamp": "2026-08-30T22:13:55.951692+00:00",
+            "ticker": "snxbrl",
+            "acao": "COMPRAR",
+            "quantidade": 150.0,
+            "preco_estimado": 1.0792
         }
     ],
-    "licoes_aprendidas": "Mercado mostra clara divergência: BTC, ETH, SOL e UNI em sobrecompra extrema, exigindo cautela e realização de lucros. Altcoins como DOT, ADA, CHZ, SNX e SAND estão em suportes de Fibonacci, apresentando boas oportunidades de acumulação. A preservação de capital é prioridade, mantendo caixa em BRL para possíveis correções. Rebalancear carteira, vendendo parte de UNI e POL para aproveitar ganhos e realocar em ativos com maior potencial de valorização.",
-    "ultima_execucao": "2026-08-30T15:36:10.495344+00:00",
+    "licoes_aprendidas": "Mercado mostra clara divergência: BTC, ETH, SOL, UNI e LINK em sobrecompra, exigindo cautela e realização de lucros. Altcoins como DOT, ADA, CHZ, SNX e SAND estão em suportes de Fibonacci, apresentando boas oportunidades de acumulação. A preservação de capital é prioridade, mantendo caixa em BRL para possíveis correções. Rebalancear carteira, vendendo parte de UNI e POL para aproveitar ganhos e realocar em ativos com maior potencial de valorização.",
+    "ultima_execucao": "2026-08-30T22:13:55.951700+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
