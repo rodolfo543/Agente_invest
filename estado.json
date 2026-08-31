@@ -1,7 +1,7 @@
 {
-    "saldo_anterior": 11387.58,
+    "saldo_anterior": 11200.22,
     "saldos_virtuais": {
-        "brl": 2262.675070125557,
+        "brl": 1962.6750701255569,
         "btc": 0.0,
         "eth": 0.0,
         "sol": 0.0,
@@ -12,19 +12,12 @@
         "ada": 1017.8509205270689,
         "chz": 64461.86796898902,
         "link": 0.0,
-        "sand": 1963.1528459153799,
+        "sand": 3475.097206362915,
         "xrp": 0.0,
         "snx": 1296.665982792881,
         "pol": 8.9376961004034
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-08-25T20:16:57.666707+00:00",
-            "ticker": "sandbrl",
-            "acao": "COMPRAR",
-            "quantidade": 300.0,
-            "preco_estimado": 0.21937
-        },
         {
             "timestamp": "2026-08-25T20:16:57.666710+00:00",
             "ticker": "snxbrl",
@@ -367,10 +360,17 @@
             "acao": "COMPRAR",
             "quantidade": 150.0,
             "preco_estimado": 1.0792
+        },
+        {
+            "timestamp": "2026-08-31T18:20:17.908744+00:00",
+            "ticker": "sandbrl",
+            "acao": "COMPRAR",
+            "quantidade": 300.0,
+            "preco_estimado": 0.19842
         }
     ],
-    "licoes_aprendidas": "Mercado mostra clara divergência: BTC, ETH, SOL, UNI e LINK em sobrecompra, exigindo cautela e realização de lucros. Altcoins como DOT, ADA, CHZ, SNX e SAND estão em suportes de Fibonacci, apresentando boas oportunidades de acumulação. A preservação de capital é prioridade, mantendo caixa em BRL para possíveis correções. Rebalancear carteira, vendendo parte de UNI e POL para aproveitar ganhos e realocar em ativos com maior potencial de valorização.",
-    "ultima_execucao": "2026-08-30T22:13:55.951700+00:00",
+    "licoes_aprendidas": "Mercado em correção, com altcoins como SAND em suporte de Fibonacci e RSI abaixo de 40, oferecendo oportunidades de compra. Grandes criptos (BTC, ETH, SOL, UNI) em sobrecompra, exigindo cautela. Preservar capital, mantendo reserva em BRL. Reduzir exposição em ativos sobrecomprados e acumular em suportes fortes.",
+    "ultima_execucao": "2026-08-31T18:20:17.908766+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
