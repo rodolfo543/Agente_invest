@@ -1,37 +1,23 @@
 {
-    "saldo_anterior": 11200.22,
+    "saldo_anterior": 11201.14,
     "saldos_virtuais": {
-        "brl": 1962.6750701255569,
+        "brl": 1843.8490701255569,
         "btc": 0.0,
         "eth": 0.0,
         "sol": 0.0,
         "ltc": 0.0,
-        "uni": 6.674285291623676,
+        "uni": 3.6742852916236757,
         "dot": 335.72017508145586,
         "bnb": 0.0,
         "ada": 1017.8509205270689,
         "chz": 64461.86796898902,
         "link": 0.0,
-        "sand": 3475.097206362915,
+        "sand": 4483.060113327939,
         "xrp": 0.0,
         "snx": 1296.665982792881,
         "pol": 8.9376961004034
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-08-25T20:16:57.666710+00:00",
-            "ticker": "snxbrl",
-            "acao": "COMPRAR",
-            "quantidade": 200.0,
-            "preco_estimado": 1.1953
-        },
-        {
-            "timestamp": "2026-08-26T22:38:21.576401+00:00",
-            "ticker": "chzbrl",
-            "acao": "COMPRAR",
-            "quantidade": 200.0,
-            "preco_estimado": 0.07286
-        },
         {
             "timestamp": "2026-08-26T22:38:21.576416+00:00",
             "ticker": "unibrl",
@@ -367,10 +353,24 @@
             "acao": "COMPRAR",
             "quantidade": 300.0,
             "preco_estimado": 0.19842
+        },
+        {
+            "timestamp": "2026-09-01T00:17:38.572916+00:00",
+            "ticker": "sandbrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 0.19842
+        },
+        {
+            "timestamp": "2026-09-01T00:17:38.572932+00:00",
+            "ticker": "unibrl",
+            "acao": "VENDER",
+            "quantidade": 3.0,
+            "preco_estimado": 27.058
         }
     ],
-    "licoes_aprendidas": "Mercado em correção, com altcoins como SAND em suporte de Fibonacci e RSI abaixo de 40, oferecendo oportunidades de compra. Grandes criptos (BTC, ETH, SOL, UNI) em sobrecompra, exigindo cautela. Preservar capital, mantendo reserva em BRL. Reduzir exposição em ativos sobrecomprados e acumular em suportes fortes.",
-    "ultima_execucao": "2026-08-31T18:20:17.908766+00:00",
+    "licoes_aprendidas": "Mercado dividido: grandes criptos (BTC, ETH, SOL, UNI) sobrecompradas, sinalizando correção. Altcoins menores como SAND e POL estão em suportes, oferecendo oportunidades se houver reversão. Manter reserva em BRL é prudente. Reduzir exposição em sobrecomprados e acumular apenas em suportes fortes com stop.",
+    "ultima_execucao": "2026-09-01T00:17:38.572939+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
