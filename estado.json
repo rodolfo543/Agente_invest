@@ -1,15 +1,15 @@
 {
-    "saldo_anterior": 11290.08,
+    "saldo_anterior": 11100.22,
     "saldos_virtuais": {
-        "brl": 2832.248989375418,
+        "brl": 2232.248989375418,
         "btc": 0.0,
         "eth": 0.0,
         "sol": 0.0,
         "ltc": 0.0,
         "uni": 0.0,
-        "dot": 335.72017508145586,
+        "dot": 405.06830268201065,
         "bnb": 0.0,
-        "ada": 1017.8509205270689,
+        "ada": 1317.9109325294694,
         "chz": 64461.86796898902,
         "link": 0.0,
         "sand": 0.0,
@@ -18,20 +18,6 @@
         "pol": 8.9376961004034
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-08-27T21:23:40.179564+00:00",
-            "ticker": "chzbrl",
-            "acao": "COMPRAR",
-            "quantidade": 300.0,
-            "preco_estimado": 0.07434
-        },
-        {
-            "timestamp": "2026-08-27T21:23:40.179567+00:00",
-            "ticker": "dotbrl",
-            "acao": "COMPRAR",
-            "quantidade": 300.0,
-            "preco_estimado": 4.559
-        },
         {
             "timestamp": "2026-08-27T21:23:40.179570+00:00",
             "ticker": "adabrl",
@@ -367,10 +353,24 @@
             "acao": "VENDER",
             "quantidade": 4483.060113327939,
             "preco_estimado": 0.19623
+        },
+        {
+            "timestamp": "2026-09-02T15:27:22.965956+00:00",
+            "ticker": "dotbrl",
+            "acao": "COMPRAR",
+            "quantidade": 300.0,
+            "preco_estimado": 4.326
+        },
+        {
+            "timestamp": "2026-09-02T15:27:22.965975+00:00",
+            "ticker": "adabrl",
+            "acao": "COMPRAR",
+            "quantidade": 300.0,
+            "preco_estimado": 0.9998
         }
     ],
-    "licoes_aprendidas": "O mercado está mostrando divergência: grandes criptos (BTC, ETH, SOL) com RSI elevado e potencial de correção, enquanto algumas altcoins (UNI) atingiram sobrecompra extrema e devem ser vendidas. SAND está em tendência de baixa clara, exigindo corte de perdas. POL mostra sinais de recuperação, mas ainda frágil. Manter reserva em BRL para oportunidades futuras.",
-    "ultima_execucao": "2026-09-01T15:40:10.448966+00:00",
+    "licoes_aprendidas": "Mercado em correção ampla, com altas criptos caindo e RSI em níveis saudáveis, mas sem confirmação de reversão. UNI sobrecompra extrema (RSI 76.9) é um alerta para vender. DOT e ADA estão em suportes técnicos relevantes, oferecendo oportunidades de acumulação. Manter reserva de caixa para eventuais correções mais profundas.",
+    "ultima_execucao": "2026-09-02T15:27:22.965982+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
