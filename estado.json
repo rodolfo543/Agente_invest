@@ -1,65 +1,23 @@
 {
-    "saldo_anterior": 11100.22,
+    "saldo_anterior": 11489.01,
     "saldos_virtuais": {
-        "brl": 2232.248989375418,
+        "brl": 382.2489893754182,
         "btc": 0.0,
-        "eth": 0.0,
+        "eth": 0.0315059861373661,
         "sol": 0.0,
-        "ltc": 0.0,
+        "ltc": 1.1505273250239694,
         "uni": 0.0,
-        "dot": 405.06830268201065,
+        "dot": 449.16973597859277,
         "bnb": 0.0,
-        "ada": 1317.9109325294694,
+        "ada": 1588.9136425565696,
         "chz": 64461.86796898902,
-        "link": 0.0,
+        "link": 5.850299201016281,
         "sand": 0.0,
         "xrp": 0.0,
         "snx": 1296.665982792881,
-        "pol": 8.9376961004034
+        "pol": 624.7518023488639
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-08-27T21:23:40.179570+00:00",
-            "ticker": "adabrl",
-            "acao": "COMPRAR",
-            "quantidade": 300.0,
-            "preco_estimado": 1.1064
-        },
-        {
-            "timestamp": "2026-08-27T21:23:40.179572+00:00",
-            "ticker": "unibrl",
-            "acao": "COMPRAR",
-            "quantidade": 300.0,
-            "preco_estimado": 23.981
-        },
-        {
-            "timestamp": "2026-08-27T23:54:11.654853+00:00",
-            "ticker": "unibrl",
-            "acao": "COMPRAR",
-            "quantidade": 250.0,
-            "preco_estimado": 24.062
-        },
-        {
-            "timestamp": "2026-08-27T23:54:11.654883+00:00",
-            "ticker": "dotbrl",
-            "acao": "COMPRAR",
-            "quantidade": 150.0,
-            "preco_estimado": 4.567
-        },
-        {
-            "timestamp": "2026-08-27T23:54:11.654887+00:00",
-            "ticker": "adabrl",
-            "acao": "COMPRAR",
-            "quantidade": 200.0,
-            "preco_estimado": 1.106
-        },
-        {
-            "timestamp": "2026-08-27T23:54:11.654889+00:00",
-            "ticker": "chzbrl",
-            "acao": "COMPRAR",
-            "quantidade": 200.0,
-            "preco_estimado": 0.07417
-        },
         {
             "timestamp": "2026-08-27T23:54:11.654892+00:00",
             "ticker": "snxbrl",
@@ -367,10 +325,52 @@
             "acao": "COMPRAR",
             "quantidade": 300.0,
             "preco_estimado": 0.9998
+        },
+        {
+            "timestamp": "2026-09-03T15:21:57.567980+00:00",
+            "ticker": "ethbrl",
+            "acao": "COMPRAR",
+            "quantidade": 400.0,
+            "preco_estimado": 12696.0
+        },
+        {
+            "timestamp": "2026-09-03T15:21:57.567997+00:00",
+            "ticker": "linkbrl",
+            "acao": "COMPRAR",
+            "quantidade": 350.0,
+            "preco_estimado": 59.826
+        },
+        {
+            "timestamp": "2026-09-03T15:21:57.568000+00:00",
+            "ticker": "polbrl",
+            "acao": "COMPRAR",
+            "quantidade": 300.0,
+            "preco_estimado": 0.48716
+        },
+        {
+            "timestamp": "2026-09-03T15:21:57.568007+00:00",
+            "ticker": "adabrl",
+            "acao": "COMPRAR",
+            "quantidade": 300.0,
+            "preco_estimado": 1.107
+        },
+        {
+            "timestamp": "2026-09-03T15:21:57.568009+00:00",
+            "ticker": "dotbrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 4.535
+        },
+        {
+            "timestamp": "2026-09-03T15:21:57.568011+00:00",
+            "ticker": "ltcbrl",
+            "acao": "COMPRAR",
+            "quantidade": 300.0,
+            "preco_estimado": 260.75
         }
     ],
-    "licoes_aprendidas": "Mercado em correção ampla, com altas criptos caindo e RSI em níveis saudáveis, mas sem confirmação de reversão. UNI sobrecompra extrema (RSI 76.9) é um alerta para vender. DOT e ADA estão em suportes técnicos relevantes, oferecendo oportunidades de acumulação. Manter reserva de caixa para eventuais correções mais profundas.",
-    "ultima_execucao": "2026-09-02T15:27:22.965982+00:00",
+    "licoes_aprendidas": "Mercado em recuperação, com BTC e ETH próximos de máximas e RSI em níveis elevados, indicando possível sobrecompra. POL, ADA, DOT e LTC estão em tendência de alta e apresentam oportunidades de compra. UNI está em sobrecompra extrema, alerta para venda. Manter reserva de caixa para correções. ",
+    "ultima_execucao": "2026-09-03T15:21:57.568018+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
