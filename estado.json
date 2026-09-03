@@ -1,7 +1,7 @@
 {
-    "saldo_anterior": 11489.01,
+    "saldo_anterior": 11582.11,
     "saldos_virtuais": {
-        "brl": 382.2489893754182,
+        "brl": 82.2489893754182,
         "btc": 0.0,
         "eth": 0.0315059861373661,
         "sol": 0.0,
@@ -9,36 +9,15 @@
         "uni": 0.0,
         "dot": 449.16973597859277,
         "bnb": 0.0,
-        "ada": 1588.9136425565696,
+        "ada": 1676.6714310602993,
         "chz": 64461.86796898902,
-        "link": 5.850299201016281,
+        "link": 7.518550706613264,
         "sand": 0.0,
-        "xrp": 0.0,
+        "xrp": 13.397642015005358,
         "snx": 1296.665982792881,
         "pol": 624.7518023488639
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-08-27T23:54:11.654892+00:00",
-            "ticker": "snxbrl",
-            "acao": "COMPRAR",
-            "quantidade": 150.0,
-            "preco_estimado": 1.172
-        },
-        {
-            "timestamp": "2026-08-27T23:54:11.654894+00:00",
-            "ticker": "polbrl",
-            "acao": "COMPRAR",
-            "quantidade": 150.0,
-            "preco_estimado": 0.55775
-        },
-        {
-            "timestamp": "2026-08-28T23:39:49.384244+00:00",
-            "ticker": "unibrl",
-            "acao": "VENDER",
-            "quantidade": 6.0,
-            "preco_estimado": 23.069
-        },
         {
             "timestamp": "2026-08-28T23:39:49.384258+00:00",
             "ticker": "sandbrl",
@@ -367,10 +346,31 @@
             "acao": "COMPRAR",
             "quantidade": 300.0,
             "preco_estimado": 260.75
+        },
+        {
+            "timestamp": "2026-09-03T17:59:29.244953+00:00",
+            "ticker": "linkbrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 59.943
+        },
+        {
+            "timestamp": "2026-09-03T17:59:29.244967+00:00",
+            "ticker": "adabrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 1.1395
+        },
+        {
+            "timestamp": "2026-09-03T17:59:29.244969+00:00",
+            "ticker": "xrpbrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 7.464
         }
     ],
-    "licoes_aprendidas": "Mercado em recuperação, com BTC e ETH próximos de máximas e RSI em níveis elevados, indicando possível sobrecompra. POL, ADA, DOT e LTC estão em tendência de alta e apresentam oportunidades de compra. UNI está em sobrecompra extrema, alerta para venda. Manter reserva de caixa para correções. ",
-    "ultima_execucao": "2026-09-03T15:21:57.568018+00:00",
+    "licoes_aprendidas": "Mercado em alta generalizada, com BTC e ETH próximos de máximas e RSI elevado, indicando possível sobrecompra. Ativos como ADA, XRP e LINK apresentam forte momentum e podem ser acumulados em pequenas quantidades. UNI está em sobrecompra extrema, alerta para venda. Manter reserva de caixa para correções e aguardar melhores pontos de entrada.",
+    "ultima_execucao": "2026-09-03T17:59:29.244974+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
