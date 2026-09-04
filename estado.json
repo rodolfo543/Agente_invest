@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 11684.55,
+    "saldo_anterior": 11163.99,
     "saldos_virtuais": {
         "brl": 97.45848989375418,
         "btc": 0.0,
@@ -369,8 +369,8 @@
             "preco_estimado": 0.48593
         }
     ],
-    "licoes_aprendidas": "Mercado em alta generalizada, mas com sinais de sobrecompra em vários ativos (BTC, UNI, BNB). RSI elevado e MACD com histogramas negativos indicam possível correção. Ativos com forte momentum (ADA, XRP, LINK, DOT) podem ser acumulados em pequenas quantidades, respeitando a preservação de capital. Manter reserva em BRL para oportunidades de compra em correções. POL mostra fraqueza e deve ser reduzido.",
-    "ultima_execucao": "2026-09-03T22:00:21.403670+00:00",
+    "licoes_aprendidas": "O mercado está em correção geral, com maioria dos ativos em leve queda. MACD negativos na maioria indicam momentum baixista. RSI não está extremo, mas a tendência é indefinida. Decisão de manter a maioria dos ativos, evitando novas compras e não vendendo para não realizar perdas. UNI está sobrecomprado (RSI 77.85) e pode ser uma oportunidade de venda se houver posição. A reserva em BRL é baixa, mas suficiente para novas oportunidades.",
+    "ultima_execucao": "2026-09-04T15:17:00.809760+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
