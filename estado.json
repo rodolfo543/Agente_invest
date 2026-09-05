@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 11338.65,
+    "saldo_anterior": 11792.15,
     "saldos_virtuais": {
         "brl": 0.0,
         "btc": 0.0,
@@ -369,8 +369,8 @@
             "preco_estimado": 0.47473
         }
     ],
-    "licoes_aprendidas": "Mercado em leve correção, maioria dos ativos com MACD negativo, indicando perda de momentum. RSI da maioria ainda em zona neutra, mas UNI sobrecomprado pode corrigir. POL e CHZ mostram suportes relevantes, oportunidade de acumulação. BTC, ETH, SOL e BNB apresentam tendências neutras. Recomendo manter posições e reforçar suportes apenas em ativos com bons fundamentos técnicos e desconto em relação às médias.",
-    "ultima_execucao": "2026-09-04T21:56:39.773276+00:00",
+    "licoes_aprendidas": "Mercado em alta geral, com diversos ativos acima das médias móveis e RSI em zona de sobrecompra (BNB, UNI). Atenção a possíveis correções. A falta de saldo em BRL impede novas compras, mas recomenda-se manter posições em ativos com tendência saudável (DOT, LINK, ADA, XRP, SOL) e reduzir ou vender ativos sobrecomprados (BNB, UNI) se houver posição. Monitorar MACD para sinais de perda de momentum.",
+    "ultima_execucao": "2026-09-05T21:56:32.489233+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
