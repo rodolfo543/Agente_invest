@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 11940.64,
+    "saldo_anterior": 12037.4,
     "saldos_virtuais": {
         "brl": 0.0,
         "btc": 0.0,
@@ -369,8 +369,8 @@
             "preco_estimado": 0.47473
         }
     ],
-    "licoes_aprendidas": "Mercado majoritariamente em alta, com vários ativos acima das médias móveis e RSI em zona de sobrecompra (UNI, BNB, LINK). A falta de saldo em BRL impede novas compras, mas é recomendado manter posições em ativos com tendência saudável (DOT, LINK, ADA, XRP, SOL) e monitorar possíveis correções em ativos sobrecomprados. O MACD mostra sinais de perda de momentum em alguns ativos, sugerindo cautela.",
-    "ultima_execucao": "2026-09-06T14:41:07.048161+00:00",
+    "licoes_aprendidas": "Mercado majoritariamente em alta, com ativos como DOT, UNI e LTC mostrando forte momentum. RSI de UNI (84.35) e BNB (70.46) sinalizam sobrecompra, indicando risco de correção. A falta de saldo em BRL limita novas compras, mas as posições existentes estão bem distribuídas. Acompanhar de perto DOT e SNX que apresentam tendências fortes. Manter disciplina de preservação de capital, aguardando oportunidades de reentrada em ativos com melhor relação risco/retorno.",
+    "ultima_execucao": "2026-09-06T17:14:22.945337+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
