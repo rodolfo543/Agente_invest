@@ -1,58 +1,23 @@
 {
-    "saldo_anterior": 12037.4,
+    "saldo_anterior": 12149.59,
     "saldos_virtuais": {
-        "brl": 0.0,
+        "brl": 0.9217200000000076,
         "btc": 0.0,
         "eth": 0.0315059861373661,
         "sol": 0.0,
-        "ltc": 1.1505273250239694,
+        "ltc": 0.6505273250239694,
         "uni": 0.0,
-        "dot": 449.16973597859277,
+        "dot": 478.7205634017606,
         "bnb": 0.0,
         "ada": 1700.2234648316141,
         "chz": 64461.86796898902,
-        "link": 7.518550706613264,
+        "link": 4.518550706613264,
         "sand": 0.0,
-        "xrp": 20.721210590238382,
-        "snx": 1296.665982792881,
+        "xrp": 34.29341471618844,
+        "snx": 1375.3232364779083,
         "pol": 630.0442631028802
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-08-28T23:39:49.384272+00:00",
-            "ticker": "chzbrl",
-            "acao": "VENDER",
-            "quantidade": 5000.0,
-            "preco_estimado": 0.07135
-        },
-        {
-            "timestamp": "2026-08-28T23:39:49.384274+00:00",
-            "ticker": "dotbrl",
-            "acao": "VENDER",
-            "quantidade": 20.0,
-            "preco_estimado": 4.424
-        },
-        {
-            "timestamp": "2026-08-29T16:17:32.526734+00:00",
-            "ticker": "adabrl",
-            "acao": "VENDER",
-            "quantidade": 200.0,
-            "preco_estimado": 1.0469
-        },
-        {
-            "timestamp": "2026-08-29T16:17:32.526753+00:00",
-            "ticker": "polbrl",
-            "acao": "VENDER",
-            "quantidade": 50.0,
-            "preco_estimado": 0.54624
-        },
-        {
-            "timestamp": "2026-08-29T16:17:32.526755+00:00",
-            "ticker": "sandbrl",
-            "acao": "VENDER",
-            "quantidade": 1000.0,
-            "preco_estimado": 0.20215
-        },
         {
             "timestamp": "2026-08-29T16:17:32.526757+00:00",
             "ticker": "snxbrl",
@@ -367,10 +332,45 @@
             "acao": "COMPRAR",
             "quantidade": 97.45848989375418,
             "preco_estimado": 0.47473
+        },
+        {
+            "timestamp": "2026-09-06T21:50:10.343129+00:00",
+            "ticker": "linkbrl",
+            "acao": "VENDER",
+            "quantidade": 3.0,
+            "preco_estimado": 66.914
+        },
+        {
+            "timestamp": "2026-09-06T21:50:10.343146+00:00",
+            "ticker": "dotbrl",
+            "acao": "COMPRAR",
+            "quantidade": 150.0,
+            "preco_estimado": 5.076
+        },
+        {
+            "timestamp": "2026-09-06T21:50:10.343149+00:00",
+            "ticker": "ltcbrl",
+            "acao": "VENDER",
+            "quantidade": 0.5,
+            "preco_estimado": 282.86
+        },
+        {
+            "timestamp": "2026-09-06T21:50:10.343152+00:00",
+            "ticker": "xrpbrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 7.368
+        },
+        {
+            "timestamp": "2026-09-06T21:50:10.343154+00:00",
+            "ticker": "snxbrl",
+            "acao": "COMPRAR",
+            "quantidade": 91.25028000000002,
+            "preco_estimado": 1.1601
         }
     ],
-    "licoes_aprendidas": "Mercado majoritariamente em alta, com ativos como DOT, UNI e LTC mostrando forte momentum. RSI de UNI (84.35) e BNB (70.46) sinalizam sobrecompra, indicando risco de correção. A falta de saldo em BRL limita novas compras, mas as posições existentes estão bem distribuídas. Acompanhar de perto DOT e SNX que apresentam tendências fortes. Manter disciplina de preservação de capital, aguardando oportunidades de reentrada em ativos com melhor relação risco/retorno.",
-    "ultima_execucao": "2026-09-06T17:14:22.945337+00:00",
+    "licoes_aprendidas": "Mercado majoritariamente em alta, com ativos como DOT, LINK e UNI mostrando forte momentum. RSI de UNI (83.79) e LINK (73.33) sinalizam sobrecompra, indicando risco de correção. O saldo em BRL está zerado, impossibilitando novas compras. As posições em ETH, DOT, XRP, SNX e ADA têm tendências saudáveis e podem ser acumuladas em futuras correções. Manter disciplina de preservação de capital, aguardando oportunidades de reentrada em ativos com melhor relação risco/retorno.",
+    "ultima_execucao": "2026-09-06T21:50:10.343162+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
