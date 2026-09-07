@@ -1,7 +1,7 @@
 {
-    "saldo_anterior": 12473.85,
+    "saldo_anterior": 12449.79,
     "saldos_virtuais": {
-        "brl": 3012.994900277054,
+        "brl": 2512.994900277054,
         "btc": 0.0,
         "eth": 0.0315059861373661,
         "sol": 0.0,
@@ -10,28 +10,14 @@
         "dot": 0.0,
         "bnb": 0.0,
         "ada": 1700.2234648316141,
-        "chz": 65813.40196006889,
+        "chz": 69887.27485523456,
         "link": 0.0,
         "sand": 0.0,
         "xrp": 34.29341471618844,
-        "snx": 1461.649203328737,
+        "snx": 1634.3011370303946,
         "pol": 630.0442631028802
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-08-29T22:06:24.482419+00:00",
-            "ticker": "unibrl",
-            "acao": "COMPRAR",
-            "quantidade": 150.0,
-            "preco_estimado": 24.186
-        },
-        {
-            "timestamp": "2026-08-29T22:06:24.482436+00:00",
-            "ticker": "snxbrl",
-            "acao": "COMPRAR",
-            "quantidade": 100.0,
-            "preco_estimado": 1.0918
-        },
         {
             "timestamp": "2026-08-29T22:06:24.482440+00:00",
             "ticker": "chzbrl",
@@ -367,10 +353,24 @@
             "acao": "COMPRAR",
             "quantidade": 100.0,
             "preco_estimado": 1.1584
+        },
+        {
+            "timestamp": "2026-09-07T22:24:42.509746+00:00",
+            "ticker": "chzbrl",
+            "acao": "COMPRAR",
+            "quantidade": 300.0,
+            "preco_estimado": 0.07364
+        },
+        {
+            "timestamp": "2026-09-07T22:24:42.509763+00:00",
+            "ticker": "snxbrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 1.1584
         }
     ],
-    "licoes_aprendidas": "Mercado misto: DOT e LTC em sobrecompra extrema, sem posição atual, aguardar correções. LINK e BNB próximos de resistência, evitar compras. CHZ e SNX com sinais positivos de acumulação. Preservação de capital, mantendo caixa reserva em BRL e posições existentes.",
-    "ultima_execucao": "2026-09-07T18:50:15.989853+00:00",
+    "licoes_aprendidas": "Mercado apresenta vários ativos em sobrecompra (DOT, LTC, UNI, LINK). CHZ e SNX mostram sinais de acumulação saudável. Preservar capital mantendo caixa em BRL e evitando compras em níveis esticados. Monitorar correções para oportunidades de entrada em DOT, LTC e UNI.",
+    "ultima_execucao": "2026-09-07T22:24:42.509770+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
