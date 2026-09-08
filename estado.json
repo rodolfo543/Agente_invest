@@ -1,15 +1,15 @@
 {
-    "saldo_anterior": 12360.49,
+    "saldo_anterior": 12316.48,
     "saldos_virtuais": {
-        "brl": 512.9949002770541,
+        "brl": 12.994900277054057,
         "btc": 0.0,
         "eth": 0.0315059861373661,
-        "sol": 0.47134238310708904,
+        "sol": 0.945267048042351,
         "ltc": 0.0,
         "uni": 0.0,
         "dot": 0.0,
-        "bnb": 0.052075196583867105,
-        "ada": 2134.0241254024027,
+        "bnb": 0.09112041094209394,
+        "ada": 2222.668749105975,
         "chz": 77396.93754471854,
         "link": 0.0,
         "sand": 0.0,
@@ -18,27 +18,6 @@
         "pol": 630.0442631028802
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-08-30T15:36:10.495328+00:00",
-            "ticker": "unibrl",
-            "acao": "VENDER",
-            "quantidade": 40.0,
-            "preco_estimado": 26.999
-        },
-        {
-            "timestamp": "2026-08-30T15:36:10.495332+00:00",
-            "ticker": "chzbrl",
-            "acao": "COMPRAR",
-            "quantidade": 300.0,
-            "preco_estimado": 0.07239
-        },
-        {
-            "timestamp": "2026-08-30T15:36:10.495335+00:00",
-            "ticker": "sandbrl",
-            "acao": "COMPRAR",
-            "quantidade": 200.0,
-            "preco_estimado": 0.2009
-        },
         {
             "timestamp": "2026-08-30T15:36:10.495337+00:00",
             "ticker": "snxbrl",
@@ -367,10 +346,31 @@
             "acao": "COMPRAR",
             "quantidade": 200.0,
             "preco_estimado": 3840.6
+        },
+        {
+            "timestamp": "2026-09-08T22:07:32.952189+00:00",
+            "ticker": "solbrl",
+            "acao": "COMPRAR",
+            "quantidade": 250.0,
+            "preco_estimado": 527.51
+        },
+        {
+            "timestamp": "2026-09-08T22:07:32.952205+00:00",
+            "ticker": "bnbbrl",
+            "acao": "COMPRAR",
+            "quantidade": 150.0,
+            "preco_estimado": 3841.7
+        },
+        {
+            "timestamp": "2026-09-08T22:07:32.952208+00:00",
+            "ticker": "adabrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 1.1281
         }
     ],
-    "licoes_aprendidas": "Mercado apresenta divergência: DOT e UNI em sobrecompra extrema, indicando correções iminentes. BTC e ETH em consolidação, aguardando direção. Ativos como SOL, ADA, CHZ e SNX mostram sinais de acumulação saudável. Estratégia: reduzir exposição em sobrecompra, acumular em ativos com tendência de alta e manter capital de reserva para oportunidades de correção. Atenção à volatilidade e aos níveis de Fibonacci.",
-    "ultima_execucao": "2026-09-08T18:01:51.733835+00:00",
+    "licoes_aprendidas": "O mercado apresenta oportunidades de acumulação em ativos com tendência de alta (SOL, BNB, ADA) e alertas de sobrecompra em DOT e UNI. Manter reserva em BRL para correções e reduzir exposição em ativos sobrecomprados.",
+    "ultima_execucao": "2026-09-08T22:07:32.952216+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
