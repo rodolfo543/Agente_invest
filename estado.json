@@ -1,7 +1,7 @@
 {
-    "saldo_anterior": 12449.79,
+    "saldo_anterior": 12399.09,
     "saldos_virtuais": {
-        "brl": 2512.994900277054,
+        "brl": 1712.994900277054,
         "btc": 0.0,
         "eth": 0.0315059861373661,
         "sol": 0.0,
@@ -9,36 +9,15 @@
         "uni": 0.0,
         "dot": 0.0,
         "bnb": 0.0,
-        "ada": 1700.2234648316141,
-        "chz": 69887.27485523456,
+        "ada": 1915.7407062109246,
+        "chz": 73969.46290803085,
         "link": 0.0,
         "sand": 0.0,
         "xrp": 34.29341471618844,
-        "snx": 1634.3011370303946,
+        "snx": 1859.0000404997456,
         "pol": 630.0442631028802
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-08-29T22:06:24.482440+00:00",
-            "ticker": "chzbrl",
-            "acao": "COMPRAR",
-            "quantidade": 200.0,
-            "preco_estimado": 0.0721
-        },
-        {
-            "timestamp": "2026-08-29T22:06:24.482443+00:00",
-            "ticker": "dotbrl",
-            "acao": "COMPRAR",
-            "quantidade": 150.0,
-            "preco_estimado": 4.409
-        },
-        {
-            "timestamp": "2026-08-29T22:06:24.482445+00:00",
-            "ticker": "adabrl",
-            "acao": "COMPRAR",
-            "quantidade": 150.0,
-            "preco_estimado": 1.0501
-        },
         {
             "timestamp": "2026-08-29T22:06:24.482452+00:00",
             "ticker": "sandbrl",
@@ -367,10 +346,31 @@
             "acao": "COMPRAR",
             "quantidade": 200.0,
             "preco_estimado": 1.1584
+        },
+        {
+            "timestamp": "2026-09-08T15:28:23.369321+00:00",
+            "ticker": "snxbrl",
+            "acao": "COMPRAR",
+            "quantidade": 250.0,
+            "preco_estimado": 1.1126
+        },
+        {
+            "timestamp": "2026-09-08T15:28:23.369341+00:00",
+            "ticker": "adabrl",
+            "acao": "COMPRAR",
+            "quantidade": 250.0,
+            "preco_estimado": 1.16
+        },
+        {
+            "timestamp": "2026-09-08T15:28:23.369344+00:00",
+            "ticker": "chzbrl",
+            "acao": "COMPRAR",
+            "quantidade": 300.0,
+            "preco_estimado": 0.07349
         }
     ],
-    "licoes_aprendidas": "Mercado apresenta vários ativos em sobrecompra (DOT, LTC, UNI, LINK). CHZ e SNX mostram sinais de acumulação saudável. Preservar capital mantendo caixa em BRL e evitando compras em níveis esticados. Monitorar correções para oportunidades de entrada em DOT, LTC e UNI.",
-    "ultima_execucao": "2026-09-07T22:24:42.509770+00:00",
+    "licoes_aprendidas": "Mercado apresenta ativos em sobrecompra (DOT, UNI, LTC) indicando possíveis correções. CHZ, SNX e ADA mostram sinais de acumulação saudável. Manter capital reserva em BRL (após compras, ~1.4k BRL) para aproveitar oportunidades de correção. Evitar compras em níveis esticados. Monitorar correções para entrada em DOT, UNI e LTC.",
+    "ultima_execucao": "2026-09-08T15:28:23.369352+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
