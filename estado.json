@@ -1,58 +1,23 @@
 {
-    "saldo_anterior": 12399.09,
+    "saldo_anterior": 12360.49,
     "saldos_virtuais": {
-        "brl": 1712.994900277054,
+        "brl": 512.9949002770541,
         "btc": 0.0,
         "eth": 0.0315059861373661,
-        "sol": 0.0,
+        "sol": 0.47134238310708904,
         "ltc": 0.0,
         "uni": 0.0,
         "dot": 0.0,
-        "bnb": 0.0,
-        "ada": 1915.7407062109246,
-        "chz": 73969.46290803085,
+        "bnb": 0.052075196583867105,
+        "ada": 2134.0241254024027,
+        "chz": 77396.93754471854,
         "link": 0.0,
         "sand": 0.0,
         "xrp": 34.29341471618844,
-        "snx": 1859.0000404997456,
+        "snx": 2080.847586865883,
         "pol": 630.0442631028802
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-08-29T22:06:24.482452+00:00",
-            "ticker": "sandbrl",
-            "acao": "VENDER",
-            "quantidade": 10447.158084313814,
-            "preco_estimado": 0.19784
-        },
-        {
-            "timestamp": "2026-08-29T22:06:24.482454+00:00",
-            "ticker": "polbrl",
-            "acao": "VENDER",
-            "quantidade": 50.0,
-            "preco_estimado": 0.52884
-        },
-        {
-            "timestamp": "2026-08-30T15:36:10.495301+00:00",
-            "ticker": "dotbrl",
-            "acao": "COMPRAR",
-            "quantidade": 300.0,
-            "preco_estimado": 4.444
-        },
-        {
-            "timestamp": "2026-08-30T15:36:10.495322+00:00",
-            "ticker": "adabrl",
-            "acao": "COMPRAR",
-            "quantidade": 250.0,
-            "preco_estimado": 1.0591
-        },
-        {
-            "timestamp": "2026-08-30T15:36:10.495325+00:00",
-            "ticker": "polbrl",
-            "acao": "VENDER",
-            "quantidade": 80.0,
-            "preco_estimado": 0.53527
-        },
         {
             "timestamp": "2026-08-30T15:36:10.495328+00:00",
             "ticker": "unibrl",
@@ -367,10 +332,45 @@
             "acao": "COMPRAR",
             "quantidade": 300.0,
             "preco_estimado": 0.07349
+        },
+        {
+            "timestamp": "2026-09-08T18:01:51.733805+00:00",
+            "ticker": "solbrl",
+            "acao": "COMPRAR",
+            "quantidade": 250.0,
+            "preco_estimado": 530.4
+        },
+        {
+            "timestamp": "2026-09-08T18:01:51.733820+00:00",
+            "ticker": "chzbrl",
+            "acao": "COMPRAR",
+            "quantidade": 250.0,
+            "preco_estimado": 0.07294
+        },
+        {
+            "timestamp": "2026-09-08T18:01:51.733823+00:00",
+            "ticker": "adabrl",
+            "acao": "COMPRAR",
+            "quantidade": 250.0,
+            "preco_estimado": 1.1453
+        },
+        {
+            "timestamp": "2026-09-08T18:01:51.733826+00:00",
+            "ticker": "snxbrl",
+            "acao": "COMPRAR",
+            "quantidade": 250.0,
+            "preco_estimado": 1.1269
+        },
+        {
+            "timestamp": "2026-09-08T18:01:51.733828+00:00",
+            "ticker": "bnbbrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 3840.6
         }
     ],
-    "licoes_aprendidas": "Mercado apresenta ativos em sobrecompra (DOT, UNI, LTC) indicando possíveis correções. CHZ, SNX e ADA mostram sinais de acumulação saudável. Manter capital reserva em BRL (após compras, ~1.4k BRL) para aproveitar oportunidades de correção. Evitar compras em níveis esticados. Monitorar correções para entrada em DOT, UNI e LTC.",
-    "ultima_execucao": "2026-09-08T15:28:23.369352+00:00",
+    "licoes_aprendidas": "Mercado apresenta divergência: DOT e UNI em sobrecompra extrema, indicando correções iminentes. BTC e ETH em consolidação, aguardando direção. Ativos como SOL, ADA, CHZ e SNX mostram sinais de acumulação saudável. Estratégia: reduzir exposição em sobrecompra, acumular em ativos com tendência de alta e manter capital de reserva para oportunidades de correção. Atenção à volatilidade e aos níveis de Fibonacci.",
+    "ultima_execucao": "2026-09-08T18:01:51.733835+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
