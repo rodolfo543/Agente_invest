@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 12225.12,
+    "saldo_anterior": 12323.84,
     "saldos_virtuais": {
         "brl": 2.9949002770540574,
         "btc": 0.0,
@@ -369,8 +369,8 @@
             "preco_estimado": 12680.0
         }
     ],
-    "licoes_aprendidas": "Nesta rodada, observamos que ativos como ETH, SOL, BNB e ADA estão em tendência de alta saudável, com RSI em níveis confortáveis e MACD positivo. Por outro lado, UNI e DOT apresentam sinais de sobrecompra, recomendando redução de posição. A volatilidade elevada em alguns ativos indica cautela. Manter reserva em BRL para futuras correções e acumular em ativos com fundamentos técnicos sólidos.",
-    "ultima_execucao": "2026-09-09T15:27:06.229674+00:00",
+    "licoes_aprendidas": "Nesta rodada, observamos que ativos como UNI e DOT estão apresentando sinais de sobrecompra e correções acentuadas, recomendando redução de posição ou cautela. CHZ mostra tendência de alta saudável, mas a falta de saldo em BRL impede novas compras. A volatilidade elevada em DOT e UNI indica risco. Manter reserva em BRL é crucial para aproveitar oportunidades futuras. Estratégia atual é de manter posições, aguardando confirmação de tendências para novas entradas.",
+    "ultima_execucao": "2026-09-09T18:21:03.389481+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
