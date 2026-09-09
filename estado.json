@@ -1,9 +1,9 @@
 {
-    "saldo_anterior": 12316.48,
+    "saldo_anterior": 12225.12,
     "saldos_virtuais": {
-        "brl": 12.994900277054057,
+        "brl": 2.9949002770540574,
         "btc": 0.0,
-        "eth": 0.0315059861373661,
+        "eth": 0.03229462967048913,
         "sol": 0.945267048042351,
         "ltc": 0.0,
         "uni": 0.0,
@@ -18,13 +18,6 @@
         "pol": 630.0442631028802
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-08-30T15:36:10.495337+00:00",
-            "ticker": "snxbrl",
-            "acao": "COMPRAR",
-            "quantidade": 200.0,
-            "preco_estimado": 1.0918
-        },
         {
             "timestamp": "2026-08-30T22:13:55.951662+00:00",
             "ticker": "dotbrl",
@@ -367,10 +360,17 @@
             "acao": "COMPRAR",
             "quantidade": 100.0,
             "preco_estimado": 1.1281
+        },
+        {
+            "timestamp": "2026-09-09T15:27:06.229656+00:00",
+            "ticker": "ethbrl",
+            "acao": "COMPRAR",
+            "quantidade": 10.0,
+            "preco_estimado": 12680.0
         }
     ],
-    "licoes_aprendidas": "O mercado apresenta oportunidades de acumulação em ativos com tendência de alta (SOL, BNB, ADA) e alertas de sobrecompra em DOT e UNI. Manter reserva em BRL para correções e reduzir exposição em ativos sobrecomprados.",
-    "ultima_execucao": "2026-09-08T22:07:32.952216+00:00",
+    "licoes_aprendidas": "Nesta rodada, observamos que ativos como ETH, SOL, BNB e ADA estão em tendência de alta saudável, com RSI em níveis confortáveis e MACD positivo. Por outro lado, UNI e DOT apresentam sinais de sobrecompra, recomendando redução de posição. A volatilidade elevada em alguns ativos indica cautela. Manter reserva em BRL para futuras correções e acumular em ativos com fundamentos técnicos sólidos.",
+    "ultima_execucao": "2026-09-09T15:27:06.229674+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
