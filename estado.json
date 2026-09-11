@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 11918.82,
+    "saldo_anterior": 12054.0,
     "saldos_virtuais": {
         "brl": 2.9949002770540574,
         "btc": 0.0,
@@ -369,8 +369,8 @@
             "preco_estimado": 12680.0
         }
     ],
-    "licoes_aprendidas": "Observa-se que o mercado está em fase de consolidação com alguns ativos mostrando momentum positivo (ETH, BNB, POL) e outros com sinais de sobrecompra (UNI) ou volatilidade elevada (DOT). A falta de saldo em BRL impede novas compras, então é crucial manter a reserva de capital. As posições existentes devem ser monitoradas de perto, especialmente UNI e DOT que podem exigir redução se a tendência se inverter. A análise técnica sugere que a maioria dos ativos está em tendência lateral, com poucos sinais de reversão forte. Manter estratégia conservadora é adequado.",
-    "ultima_execucao": "2026-09-11T15:21:06.646621+00:00",
+    "licoes_aprendidas": "A rodada mostra mercado em consolidação com poucos sinais de reversão forte. A maioria dos ativos está com RSI em zona neutra e preços próximos das médias móveis, indicando tendência indefinida. Saldo em BRL é mínimo (R$ 2,99), impossibilitando novas compras. Portanto, decisão é manter posições existentes e aguardar definição de tendência. Atenção especial para UNI, que apresenta alta volatilidade e resistência em 37.54, podendo ser reduzido se houver posição. Manter estratégia conservadora.",
+    "ultima_execucao": "2026-09-11T17:53:55.290369+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
