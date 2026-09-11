@@ -1,7 +1,7 @@
 {
-    "saldo_anterior": 12054.0,
+    "saldo_anterior": 11800.04,
     "saldos_virtuais": {
-        "brl": 2.9949002770540574,
+        "brl": 531.294900277054,
         "btc": 0.0,
         "eth": 0.03229462967048913,
         "sol": 0.945267048042351,
@@ -14,17 +14,10 @@
         "link": 0.0,
         "sand": 0.0,
         "xrp": 34.29341471618844,
-        "snx": 2080.847586865883,
+        "snx": 1580.847586865883,
         "pol": 630.0442631028802
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-08-30T22:13:55.951662+00:00",
-            "ticker": "dotbrl",
-            "acao": "COMPRAR",
-            "quantidade": 150.0,
-            "preco_estimado": 4.458
-        },
         {
             "timestamp": "2026-08-30T22:13:55.951681+00:00",
             "ticker": "sandbrl",
@@ -367,10 +360,17 @@
             "acao": "COMPRAR",
             "quantidade": 10.0,
             "preco_estimado": 12680.0
+        },
+        {
+            "timestamp": "2026-09-11T22:04:16.997259+00:00",
+            "ticker": "snxbrl",
+            "acao": "VENDER",
+            "quantidade": 500.0,
+            "preco_estimado": 1.0566
         }
     ],
-    "licoes_aprendidas": "A rodada mostra mercado em consolidação com poucos sinais de reversão forte. A maioria dos ativos está com RSI em zona neutra e preços próximos das médias móveis, indicando tendência indefinida. Saldo em BRL é mínimo (R$ 2,99), impossibilitando novas compras. Portanto, decisão é manter posições existentes e aguardar definição de tendência. Atenção especial para UNI, que apresenta alta volatilidade e resistência em 37.54, podendo ser reduzido se houver posição. Manter estratégia conservadora.",
-    "ultima_execucao": "2026-09-11T17:53:55.290369+00:00",
+    "licoes_aprendidas": "Rodada com poucos sinais fortes. BTC e ETH mostram força relativa, mas sem saldo em BRL não há novas compras. SNX apresenta clara fraqueza (abaixo das médias, RSI baixo, MACD negativo) e foi recomendada redução parcial para capturar perdas e liberar caixa. A maioria dos ativos está em consolidação ou tendência indefinida. Estratégia segue conservadora, priorizando preservação de capital.",
+    "ultima_execucao": "2026-09-11T22:04:16.997278+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
