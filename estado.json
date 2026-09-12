@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 12126.56,
+    "saldo_anterior": 12151.09,
     "saldos_virtuais": {
         "brl": 336.4149002770539,
         "btc": 0.0,
@@ -369,8 +369,8 @@
             "preco_estimado": 0.07333
         }
     ],
-    "licoes_aprendidas": "Rodada com sinais mistos: ativos de alta capitalização (ETH, BNB, LTC) mostram força, mas poucos gatilhos fortes de compra. SNX segue fraco e foi reduzido para capturar perdas. CHZ demonstrou momentum positivo com volume. A falta de saldo BRL limitou novas entradas, então aloquei todo o caixa disponível em ativos com classificação Nível 2. Aprendi a priorizar a preservação de capital e a ser seletivo em cenários de consolidação.",
-    "ultima_execucao": "2026-09-12T14:28:37.174462+00:00",
+    "licoes_aprendidas": "Rodada com cenário misto: grandes caps (BTC, ETH) em leve correção após alta, altcoins como LTC e BNB mostram força. O RSI em níveis moderados (50-63) sugere espaço para continuidade, mas o MACD negativo em muitos ativos indica perda de momentum. A preservação de capital foi priorizada, mantendo posições existentes e aguardando melhores pontos de entrada. A falta de saldo BRL limita novas compras, então nenhuma ordem foi executada.",
+    "ultima_execucao": "2026-09-12T17:22:03.641756+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
