@@ -1,44 +1,23 @@
 {
-    "saldo_anterior": 11800.04,
+    "saldo_anterior": 12126.56,
     "saldos_virtuais": {
-        "brl": 531.294900277054,
+        "brl": 336.4149002770539,
         "btc": 0.0,
-        "eth": 0.03229462967048913,
+        "eth": 0.07277087469687506,
         "sol": 0.945267048042351,
         "ltc": 0.0,
         "uni": 0.0,
         "dot": 0.0,
         "bnb": 0.09112041094209394,
         "ada": 2222.668749105975,
-        "chz": 77396.93754471854,
+        "chz": 84624.53879932103,
         "link": 0.0,
         "sand": 0.0,
         "xrp": 34.29341471618844,
-        "snx": 1580.847586865883,
+        "snx": 780.8475868658829,
         "pol": 630.0442631028802
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-08-30T22:13:55.951681+00:00",
-            "ticker": "sandbrl",
-            "acao": "COMPRAR",
-            "quantidade": 200.0,
-            "preco_estimado": 0.20669
-        },
-        {
-            "timestamp": "2026-08-30T22:13:55.951684+00:00",
-            "ticker": "chzbrl",
-            "acao": "COMPRAR",
-            "quantidade": 200.0,
-            "preco_estimado": 0.07089
-        },
-        {
-            "timestamp": "2026-08-30T22:13:55.951687+00:00",
-            "ticker": "unibrl",
-            "acao": "VENDER",
-            "quantidade": 3.0,
-            "preco_estimado": 27.65
-        },
         {
             "timestamp": "2026-08-30T22:13:55.951689+00:00",
             "ticker": "adabrl",
@@ -367,10 +346,31 @@
             "acao": "VENDER",
             "quantidade": 500.0,
             "preco_estimado": 1.0566
+        },
+        {
+            "timestamp": "2026-09-12T14:28:37.174434+00:00",
+            "ticker": "ethbrl",
+            "acao": "COMPRAR",
+            "quantidade": 530.0,
+            "preco_estimado": 13094.1
+        },
+        {
+            "timestamp": "2026-09-12T14:28:37.174451+00:00",
+            "ticker": "snxbrl",
+            "acao": "VENDER",
+            "quantidade": 800.0,
+            "preco_estimado": 1.0814
+        },
+        {
+            "timestamp": "2026-09-12T14:28:37.174455+00:00",
+            "ticker": "chzbrl",
+            "acao": "COMPRAR",
+            "quantidade": 530.0,
+            "preco_estimado": 0.07333
         }
     ],
-    "licoes_aprendidas": "Rodada com poucos sinais fortes. BTC e ETH mostram força relativa, mas sem saldo em BRL não há novas compras. SNX apresenta clara fraqueza (abaixo das médias, RSI baixo, MACD negativo) e foi recomendada redução parcial para capturar perdas e liberar caixa. A maioria dos ativos está em consolidação ou tendência indefinida. Estratégia segue conservadora, priorizando preservação de capital.",
-    "ultima_execucao": "2026-09-11T22:04:16.997278+00:00",
+    "licoes_aprendidas": "Rodada com sinais mistos: ativos de alta capitalização (ETH, BNB, LTC) mostram força, mas poucos gatilhos fortes de compra. SNX segue fraco e foi reduzido para capturar perdas. CHZ demonstrou momentum positivo com volume. A falta de saldo BRL limitou novas entradas, então aloquei todo o caixa disponível em ativos com classificação Nível 2. Aprendi a priorizar a preservação de capital e a ser seletivo em cenários de consolidação.",
+    "ultima_execucao": "2026-09-12T14:28:37.174462+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
