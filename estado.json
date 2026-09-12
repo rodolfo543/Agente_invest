@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 12151.09,
+    "saldo_anterior": 12094.98,
     "saldos_virtuais": {
         "brl": 336.4149002770539,
         "btc": 0.0,
@@ -369,8 +369,8 @@
             "preco_estimado": 0.07333
         }
     ],
-    "licoes_aprendidas": "Rodada com cenário misto: grandes caps (BTC, ETH) em leve correção após alta, altcoins como LTC e BNB mostram força. O RSI em níveis moderados (50-63) sugere espaço para continuidade, mas o MACD negativo em muitos ativos indica perda de momentum. A preservação de capital foi priorizada, mantendo posições existentes e aguardando melhores pontos de entrada. A falta de saldo BRL limita novas compras, então nenhuma ordem foi executada.",
-    "ultima_execucao": "2026-09-12T17:22:03.641756+00:00",
+    "licoes_aprendidas": "Cenário misto com correções leves em BTC e altcoins, mas algumas moedas mostram força (LTC, DOT). RSI moderado (50-62) sugere espaço para alta, mas MACD negativo em muitos ativos indica perda de momentum. Priorizei a preservação de capital, mantendo posições existentes e aguardando melhores pontos de entrada. A falta de saldo BRL limita novas compras, então nenhuma ordem foi executada.",
+    "ultima_execucao": "2026-09-12T21:51:04.753329+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
