@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 12412.83,
+    "saldo_anterior": 12407.56,
     "saldos_virtuais": {
         "brl": 0.004900277053906166,
         "btc": 0.0,
@@ -369,8 +369,8 @@
             "preco_estimado": 12907.3
         }
     ],
-    "licoes_aprendidas": "Mercado majoritariamente em consolidação, com indicadores mistos. ETH e CHZ mostram força relativa, enquanto BTC, SOL e outros apresentam correções leves. A falta de saldo BRL impede novas compras, então a estratégia é manter posições e aguardar sinais mais claros. Focar em ativos com MACD positivo e RSI saudável para futuras oportunidades.",
-    "ultima_execucao": "2026-09-13T17:30:07.537367+00:00",
+    "licoes_aprendidas": "Mercado predominantemente em consolidação, com indicadores mistos. BTC, ETH, SOL e majoritariamente outros ativos apresentam MACD histograma negativo, sugerindo perda de momentum, mas RSI neutro e suportes próximos evitam classificação de venda. CHZ se destaca com forte momentum altista e volume, merecendo acúmulo. LTC também mostra força, mas está em resistência. A falta de saldo BRL limita novas compras, então priorizamos acúmulo apenas em CHZ com pequena quantidade. Estratégia é manter posições e aguardar sinais mais claros, especialmente confirmação de reversão em BTC e SOL.",
+    "ultima_execucao": "2026-09-13T22:21:14.032488+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
