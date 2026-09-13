@@ -1,7 +1,7 @@
 {
-    "saldo_anterior": 12094.98,
+    "saldo_anterior": 12588.07,
     "saldos_virtuais": {
-        "brl": 336.4149002770539,
+        "brl": 86.4149002770539,
         "btc": 0.0,
         "eth": 0.07277087469687506,
         "sol": 0.945267048042351,
@@ -10,7 +10,7 @@
         "dot": 0.0,
         "bnb": 0.09112041094209394,
         "ada": 2222.668749105975,
-        "chz": 84624.53879932103,
+        "chz": 87781.10445588669,
         "link": 0.0,
         "sand": 0.0,
         "xrp": 34.29341471618844,
@@ -18,13 +18,6 @@
         "pol": 630.0442631028802
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-08-30T22:13:55.951689+00:00",
-            "ticker": "adabrl",
-            "acao": "COMPRAR",
-            "quantidade": 150.0,
-            "preco_estimado": 1.0456
-        },
         {
             "timestamp": "2026-08-30T22:13:55.951692+00:00",
             "ticker": "snxbrl",
@@ -367,10 +360,17 @@
             "acao": "COMPRAR",
             "quantidade": 530.0,
             "preco_estimado": 0.07333
+        },
+        {
+            "timestamp": "2026-09-13T15:19:26.220279+00:00",
+            "ticker": "chzbrl",
+            "acao": "COMPRAR",
+            "quantidade": 250.0,
+            "preco_estimado": 0.0792
         }
     ],
-    "licoes_aprendidas": "Cenário misto com correções leves em BTC e altcoins, mas algumas moedas mostram força (LTC, DOT). RSI moderado (50-62) sugere espaço para alta, mas MACD negativo em muitos ativos indica perda de momentum. Priorizei a preservação de capital, mantendo posições existentes e aguardando melhores pontos de entrada. A falta de saldo BRL limita novas compras, então nenhuma ordem foi executada.",
-    "ultima_execucao": "2026-09-12T21:51:04.753329+00:00",
+    "licoes_aprendidas": "Mercado majoritariamente em correção leve, com exceção de CHZ que apresenta forte alta. A maioria dos ativos tem RSI em zona neutra, mas MACD negativo, indicando perda de momentum. Preço de BTC e ETH acima dos suportes de Fibonacci, mas abaixo das médias móveis. Manter posições e aguardar sinais mais claros. Pequena compra em CHZ aproveitando o momentum, mas com gestão de risco.",
+    "ultima_execucao": "2026-09-13T15:19:26.220298+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
