@@ -1,7 +1,7 @@
 {
-    "saldo_anterior": 12395.68,
+    "saldo_anterior": 12346.31,
     "saldos_virtuais": {
-        "brl": 751.3749002770538,
+        "brl": 351.3749002770538,
         "btc": 0.0,
         "eth": 0.07946553585761355,
         "sol": 0.945267048042351,
@@ -9,36 +9,15 @@
         "uni": 0.0,
         "dot": 0.0,
         "bnb": 0.09112041094209394,
-        "ada": 2222.668749105975,
-        "chz": 89104.38088833343,
+        "ada": 2361.2752913347686,
+        "chz": 91087.4586249807,
         "link": 0.0,
         "sand": 0.0,
-        "xrp": 34.29341471618844,
+        "xrp": 47.76868759046414,
         "snx": 0.8475868658829313,
         "pol": 630.0442631028802
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-09-01T00:17:38.572932+00:00",
-            "ticker": "unibrl",
-            "acao": "VENDER",
-            "quantidade": 3.0,
-            "preco_estimado": 27.058
-        },
-        {
-            "timestamp": "2026-09-01T15:40:10.448944+00:00",
-            "ticker": "unibrl",
-            "acao": "VENDER",
-            "quantidade": 3.6742852916236757,
-            "preco_estimado": 29.581
-        },
-        {
-            "timestamp": "2026-09-01T15:40:10.448959+00:00",
-            "ticker": "sandbrl",
-            "acao": "VENDER",
-            "quantidade": 4483.060113327939,
-            "preco_estimado": 0.19623
-        },
         {
             "timestamp": "2026-09-02T15:27:22.965956+00:00",
             "ticker": "dotbrl",
@@ -367,10 +346,31 @@
             "acao": "COMPRAR",
             "quantidade": 100.0,
             "preco_estimado": 0.07557
+        },
+        {
+            "timestamp": "2026-09-14T22:51:39.871417+00:00",
+            "ticker": "chzbrl",
+            "acao": "COMPRAR",
+            "quantidade": 150.0,
+            "preco_estimado": 0.07564
+        },
+        {
+            "timestamp": "2026-09-14T22:51:39.871431+00:00",
+            "ticker": "adabrl",
+            "acao": "COMPRAR",
+            "quantidade": 150.0,
+            "preco_estimado": 1.0822
+        },
+        {
+            "timestamp": "2026-09-14T22:51:39.871433+00:00",
+            "ticker": "xrpbrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 7.421
         }
     ],
     "licoes_aprendidas": "Mercado em alta moderada, com exceção de SAND que caiu forte. BTC, ETH e SOL com sinais mistos (RSI neutro, MACD negativo). XRP e UNI tiveram fortes altas, mas caixa insuficiente para novas compras. CHZ ainda tem momentum positivo, apesar da pequena queda diária. É essencial preservar o caixa reserva e aguardar confirmações técnicas mais claras antes de novas alocações.",
-    "ultima_execucao": "2026-09-14T19:31:44.641567+00:00",
+    "ultima_execucao": "2026-09-14T22:51:39.871438+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
