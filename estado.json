@@ -1,7 +1,7 @@
 {
-    "saldo_anterior": 12413.69,
+    "saldo_anterior": 12395.68,
     "saldos_virtuais": {
-        "brl": 851.3749002770538,
+        "brl": 751.3749002770538,
         "btc": 0.0,
         "eth": 0.07946553585761355,
         "sol": 0.945267048042351,
@@ -10,7 +10,7 @@
         "dot": 0.0,
         "bnb": 0.09112041094209394,
         "ada": 2222.668749105975,
-        "chz": 87781.10445588669,
+        "chz": 89104.38088833343,
         "link": 0.0,
         "sand": 0.0,
         "xrp": 34.29341471618844,
@@ -18,13 +18,6 @@
         "pol": 630.0442631028802
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-09-01T00:17:38.572916+00:00",
-            "ticker": "sandbrl",
-            "acao": "COMPRAR",
-            "quantidade": 200.0,
-            "preco_estimado": 0.19842
-        },
         {
             "timestamp": "2026-09-01T00:17:38.572932+00:00",
             "ticker": "unibrl",
@@ -367,10 +360,17 @@
             "acao": "VENDER",
             "quantidade": 780.0,
             "preco_estimado": 1.0915
+        },
+        {
+            "timestamp": "2026-09-14T19:31:44.641550+00:00",
+            "ticker": "chzbrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 0.07557
         }
     ],
-    "licoes_aprendidas": "Mercado em leve alta com sinais mistos. BTC, ETH e SOL com MACD negativo mas RSI neutro, indicando perda de momentum sem reversão clara. CHZ se destaca com momentum altista, mas saldo BRL insuficiente para novas compras. SNX apresenta fraqueza técnica, levando à redução da posição. É crucial manter caixa reserva para oportunidades e aguardar confirmações mais claras.",
-    "ultima_execucao": "2026-09-14T17:43:09.046967+00:00",
+    "licoes_aprendidas": "Mercado em alta moderada, com exceção de SAND que caiu forte. BTC, ETH e SOL com sinais mistos (RSI neutro, MACD negativo). XRP e UNI tiveram fortes altas, mas caixa insuficiente para novas compras. CHZ ainda tem momentum positivo, apesar da pequena queda diária. É essencial preservar o caixa reserva e aguardar confirmações técnicas mais claras antes de novas alocações.",
+    "ultima_execucao": "2026-09-14T19:31:44.641567+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
