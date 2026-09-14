@@ -1,7 +1,7 @@
 {
-    "saldo_anterior": 12407.56,
+    "saldo_anterior": 12413.69,
     "saldos_virtuais": {
-        "brl": 0.004900277053906166,
+        "brl": 851.3749002770538,
         "btc": 0.0,
         "eth": 0.07946553585761355,
         "sol": 0.945267048042351,
@@ -14,17 +14,10 @@
         "link": 0.0,
         "sand": 0.0,
         "xrp": 34.29341471618844,
-        "snx": 780.8475868658829,
+        "snx": 0.8475868658829313,
         "pol": 630.0442631028802
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-08-31T18:20:17.908744+00:00",
-            "ticker": "sandbrl",
-            "acao": "COMPRAR",
-            "quantidade": 300.0,
-            "preco_estimado": 0.19842
-        },
         {
             "timestamp": "2026-09-01T00:17:38.572916+00:00",
             "ticker": "sandbrl",
@@ -367,10 +360,17 @@
             "acao": "COMPRAR",
             "quantidade": 86.41,
             "preco_estimado": 12907.3
+        },
+        {
+            "timestamp": "2026-09-14T17:43:09.046937+00:00",
+            "ticker": "snxbrl",
+            "acao": "VENDER",
+            "quantidade": 780.0,
+            "preco_estimado": 1.0915
         }
     ],
-    "licoes_aprendidas": "Mercado predominantemente em consolidação, com indicadores mistos. BTC, ETH, SOL e majoritariamente outros ativos apresentam MACD histograma negativo, sugerindo perda de momentum, mas RSI neutro e suportes próximos evitam classificação de venda. CHZ se destaca com forte momentum altista e volume, merecendo acúmulo. LTC também mostra força, mas está em resistência. A falta de saldo BRL limita novas compras, então priorizamos acúmulo apenas em CHZ com pequena quantidade. Estratégia é manter posições e aguardar sinais mais claros, especialmente confirmação de reversão em BTC e SOL.",
-    "ultima_execucao": "2026-09-13T22:21:14.032488+00:00",
+    "licoes_aprendidas": "Mercado em leve alta com sinais mistos. BTC, ETH e SOL com MACD negativo mas RSI neutro, indicando perda de momentum sem reversão clara. CHZ se destaca com momentum altista, mas saldo BRL insuficiente para novas compras. SNX apresenta fraqueza técnica, levando à redução da posição. É crucial manter caixa reserva para oportunidades e aguardar confirmações mais claras.",
+    "ultima_execucao": "2026-09-14T17:43:09.046967+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
