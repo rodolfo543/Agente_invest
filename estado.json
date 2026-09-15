@@ -1,7 +1,7 @@
 {
-    "saldo_anterior": 11878.54,
+    "saldo_anterior": 11554.15,
     "saldos_virtuais": {
-        "brl": 352.2643579341114,
+        "brl": 989.4643579341114,
         "btc": 0.0,
         "eth": 0.07946553585761355,
         "sol": 0.945267048042351,
@@ -9,29 +9,15 @@
         "uni": 0.0,
         "dot": 0.0,
         "bnb": 0.09112041094209394,
-        "ada": 2361.2752913347686,
+        "ada": 1861.2752913347686,
         "chz": 91087.4586249807,
         "link": 0.0,
         "sand": 0.0,
-        "xrp": 47.76868759046414,
+        "xrp": 27.76868759046414,
         "snx": 0.0,
         "pol": 630.0442631028802
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-09-02T15:27:22.965975+00:00",
-            "ticker": "adabrl",
-            "acao": "COMPRAR",
-            "quantidade": 300.0,
-            "preco_estimado": 0.9998
-        },
-        {
-            "timestamp": "2026-09-03T15:21:57.567980+00:00",
-            "ticker": "ethbrl",
-            "acao": "COMPRAR",
-            "quantidade": 400.0,
-            "preco_estimado": 12696.0
-        },
         {
             "timestamp": "2026-09-03T15:21:57.567997+00:00",
             "ticker": "linkbrl",
@@ -367,10 +353,24 @@
             "acao": "VENDER",
             "quantidade": 0.8475868658829313,
             "preco_estimado": 1.0494
+        },
+        {
+            "timestamp": "2026-09-15T22:35:23.919267+00:00",
+            "ticker": "adabrl",
+            "acao": "VENDER",
+            "quantidade": 500.0,
+            "preco_estimado": 1.0094
+        },
+        {
+            "timestamp": "2026-09-15T22:35:23.919283+00:00",
+            "ticker": "xrpbrl",
+            "acao": "VENDER",
+            "quantidade": 20.0,
+            "preco_estimado": 6.625
         }
     ],
     "licoes_aprendidas": "Mercado em correção generalizada, com a maioria dos ativos abaixo das médias móveis e MACD negativo. BTC, ETH, SOL e ADA se aproximam de suportes de Fibonacci relevantes, mas sem confirmação de reversão. SAND e SNX mostram tendência de baixa clara, devendo ser evitados. Caixa reserva muito baixo (R$ 352), priorizar preservação de capital e aguardar confirmações antes de novas alocações.",
-    "ultima_execucao": "2026-09-15T18:59:09.494664+00:00",
+    "ultima_execucao": "2026-09-15T22:35:23.919290+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
