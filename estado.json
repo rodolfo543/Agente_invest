@@ -1,7 +1,7 @@
 {
-    "saldo_anterior": 12346.31,
+    "saldo_anterior": 11941.87,
     "saldos_virtuais": {
-        "brl": 351.3749002770538,
+        "brl": 352.2643579341114,
         "btc": 0.0,
         "eth": 0.07946553585761355,
         "sol": 0.945267048042351,
@@ -14,17 +14,10 @@
         "link": 0.0,
         "sand": 0.0,
         "xrp": 47.76868759046414,
-        "snx": 0.8475868658829313,
+        "snx": 0.0,
         "pol": 630.0442631028802
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-09-02T15:27:22.965956+00:00",
-            "ticker": "dotbrl",
-            "acao": "COMPRAR",
-            "quantidade": 300.0,
-            "preco_estimado": 4.326
-        },
         {
             "timestamp": "2026-09-02T15:27:22.965975+00:00",
             "ticker": "adabrl",
@@ -367,10 +360,17 @@
             "acao": "COMPRAR",
             "quantidade": 100.0,
             "preco_estimado": 7.421
+        },
+        {
+            "timestamp": "2026-09-15T15:48:42.524975+00:00",
+            "ticker": "snxbrl",
+            "acao": "VENDER",
+            "quantidade": 0.8475868658829313,
+            "preco_estimado": 1.0494
         }
     ],
-    "licoes_aprendidas": "Mercado em alta moderada, com exceção de SAND que caiu forte. BTC, ETH e SOL com sinais mistos (RSI neutro, MACD negativo). XRP e UNI tiveram fortes altas, mas caixa insuficiente para novas compras. CHZ ainda tem momentum positivo, apesar da pequena queda diária. É essencial preservar o caixa reserva e aguardar confirmações técnicas mais claras antes de novas alocações.",
-    "ultima_execucao": "2026-09-14T22:51:39.871438+00:00",
+    "licoes_aprendidas": "Mercado em correção leve, com a maioria dos ativos abaixo das médias móveis e MACD negativo, indicando fraqueza de curto prazo. BTC, ETH e SOL mostram suportes de Fibonacci relevantes próximos, mas sem confirmação de reversão. SNX é o mais fraco, com rompimento de suporte e tendência de baixa. CHZ e XRP mantêm momentum relativo, mas com sinais mistos. Caixa reserva baixo (R$ 351), priorizar preservação de capital e aguardar confirmações mais claras antes de novas alocações.",
+    "ultima_execucao": "2026-09-15T15:48:42.524995+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
