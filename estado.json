@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 11941.87,
+    "saldo_anterior": 11878.54,
     "saldos_virtuais": {
         "brl": 352.2643579341114,
         "btc": 0.0,
@@ -369,8 +369,8 @@
             "preco_estimado": 1.0494
         }
     ],
-    "licoes_aprendidas": "Mercado em correção leve, com a maioria dos ativos abaixo das médias móveis e MACD negativo, indicando fraqueza de curto prazo. BTC, ETH e SOL mostram suportes de Fibonacci relevantes próximos, mas sem confirmação de reversão. SNX é o mais fraco, com rompimento de suporte e tendência de baixa. CHZ e XRP mantêm momentum relativo, mas com sinais mistos. Caixa reserva baixo (R$ 351), priorizar preservação de capital e aguardar confirmações mais claras antes de novas alocações.",
-    "ultima_execucao": "2026-09-15T15:48:42.524995+00:00",
+    "licoes_aprendidas": "Mercado em correção generalizada, com a maioria dos ativos abaixo das médias móveis e MACD negativo. BTC, ETH, SOL e ADA se aproximam de suportes de Fibonacci relevantes, mas sem confirmação de reversão. SAND e SNX mostram tendência de baixa clara, devendo ser evitados. Caixa reserva muito baixo (R$ 352), priorizar preservação de capital e aguardar confirmações antes de novas alocações.",
+    "ultima_execucao": "2026-09-15T18:59:09.494664+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
