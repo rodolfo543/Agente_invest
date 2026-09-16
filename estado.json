@@ -1,7 +1,7 @@
 {
-    "saldo_anterior": 11369.99,
+    "saldo_anterior": 11440.31,
     "saldos_virtuais": {
-        "brl": 1664.3382687129756,
+        "brl": 1963.1682687129755,
         "btc": 0.0,
         "eth": 0.07946553585761355,
         "sol": 0.945267048042351,
@@ -9,7 +9,7 @@
         "uni": 0.0,
         "dot": 0.0,
         "bnb": 0.09112041094209394,
-        "ada": 1361.2752913347686,
+        "ada": 1061.2752913347686,
         "chz": 91087.4586249807,
         "link": 0.0,
         "sand": 0.0,
@@ -18,13 +18,6 @@
         "pol": 630.0442631028802
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-09-03T15:21:57.568007+00:00",
-            "ticker": "adabrl",
-            "acao": "COMPRAR",
-            "quantidade": 300.0,
-            "preco_estimado": 1.107
-        },
         {
             "timestamp": "2026-09-03T15:21:57.568009+00:00",
             "ticker": "dotbrl",
@@ -367,10 +360,17 @@
             "acao": "VENDER",
             "quantidade": 500.0,
             "preco_estimado": 0.9867
+        },
+        {
+            "timestamp": "2026-09-16T18:17:36.388198+00:00",
+            "ticker": "adabrl",
+            "acao": "VENDER",
+            "quantidade": 300.0,
+            "preco_estimado": 0.9961
         }
     ],
-    "licoes_aprendidas": "Mercado segue em correção generalizada com a maioria dos ativos abaixo das médias móveis e MACD negativo. Ativos como BTC, ETH, SOL e BNB se aproximam de suportes de Fibonacci relevantes, mas ainda sem confirmação de reversão. XRP e ADA apresentaram quedas expressivas e merecem redução de posição. Caixa reserva é muito baixo (R$ 989), priorizar preservação de capital e aguardar confirmações antes de novas alocações. Manter monitoramento constante.",
-    "ultima_execucao": "2026-09-16T15:40:18.269634+00:00",
+    "licoes_aprendidas": "Mercado segue em correção, com a maioria dos ativos abaixo das médias móveis e MACD negativo. BTC, ETH, SOL e BNB estão próximos de suportes de Fibonacci relevantes, mas sem confirmação de reversão. Ativos como ADA e XRP apresentam fraqueza e devem ser reduzidos/vendidos. Caixa reserva extremamente baixo (R$ 1664) - priorizar preservação de capital e aguardar sinais mais fortes antes de novas alocações. A queda do XRP (-7.85%) reforça a importância de stops e gestão de risco. Manter monitoramento constante.",
+    "ultima_execucao": "2026-09-16T18:17:36.388220+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
