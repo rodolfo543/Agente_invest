@@ -1,7 +1,7 @@
 {
-    "saldo_anterior": 11554.15,
+    "saldo_anterior": 11369.99,
     "saldos_virtuais": {
-        "brl": 989.4643579341114,
+        "brl": 1664.3382687129756,
         "btc": 0.0,
         "eth": 0.07946553585761355,
         "sol": 0.945267048042351,
@@ -9,29 +9,15 @@
         "uni": 0.0,
         "dot": 0.0,
         "bnb": 0.09112041094209394,
-        "ada": 1861.2752913347686,
+        "ada": 1361.2752913347686,
         "chz": 91087.4586249807,
         "link": 0.0,
         "sand": 0.0,
-        "xrp": 27.76868759046414,
+        "xrp": 0.0,
         "snx": 0.0,
         "pol": 630.0442631028802
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-09-03T15:21:57.567997+00:00",
-            "ticker": "linkbrl",
-            "acao": "COMPRAR",
-            "quantidade": 350.0,
-            "preco_estimado": 59.826
-        },
-        {
-            "timestamp": "2026-09-03T15:21:57.568000+00:00",
-            "ticker": "polbrl",
-            "acao": "COMPRAR",
-            "quantidade": 300.0,
-            "preco_estimado": 0.48716
-        },
         {
             "timestamp": "2026-09-03T15:21:57.568007+00:00",
             "ticker": "adabrl",
@@ -367,10 +353,24 @@
             "acao": "VENDER",
             "quantidade": 20.0,
             "preco_estimado": 6.625
+        },
+        {
+            "timestamp": "2026-09-16T15:40:18.269606+00:00",
+            "ticker": "xrpbrl",
+            "acao": "VENDER",
+            "quantidade": 27.76868759046414,
+            "preco_estimado": 6.537
+        },
+        {
+            "timestamp": "2026-09-16T15:40:18.269626+00:00",
+            "ticker": "adabrl",
+            "acao": "VENDER",
+            "quantidade": 500.0,
+            "preco_estimado": 0.9867
         }
     ],
-    "licoes_aprendidas": "Mercado em correção generalizada, com a maioria dos ativos abaixo das médias móveis e MACD negativo. BTC, ETH, SOL e ADA se aproximam de suportes de Fibonacci relevantes, mas sem confirmação de reversão. SAND e SNX mostram tendência de baixa clara, devendo ser evitados. Caixa reserva muito baixo (R$ 352), priorizar preservação de capital e aguardar confirmações antes de novas alocações.",
-    "ultima_execucao": "2026-09-15T22:35:23.919290+00:00",
+    "licoes_aprendidas": "Mercado segue em correção generalizada com a maioria dos ativos abaixo das médias móveis e MACD negativo. Ativos como BTC, ETH, SOL e BNB se aproximam de suportes de Fibonacci relevantes, mas ainda sem confirmação de reversão. XRP e ADA apresentaram quedas expressivas e merecem redução de posição. Caixa reserva é muito baixo (R$ 989), priorizar preservação de capital e aguardar confirmações antes de novas alocações. Manter monitoramento constante.",
+    "ultima_execucao": "2026-09-16T15:40:18.269634+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
