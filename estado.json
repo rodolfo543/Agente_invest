@@ -1,16 +1,16 @@
 {
-    "saldo_anterior": 11440.31,
+    "saldo_anterior": 11906.76,
     "saldos_virtuais": {
-        "brl": 1963.1682687129755,
+        "brl": 1877.1182687129756,
         "btc": 0.0,
         "eth": 0.07946553585761355,
         "sol": 0.945267048042351,
         "ltc": 0.0,
-        "uni": 0.0,
+        "uni": 6.760959515374423,
         "dot": 0.0,
         "bnb": 0.09112041094209394,
-        "ada": 1061.2752913347686,
-        "chz": 91087.4586249807,
+        "ada": 761.2752913347686,
+        "chz": 93138.03962293013,
         "link": 0.0,
         "sand": 0.0,
         "xrp": 0.0,
@@ -18,27 +18,6 @@
         "pol": 630.0442631028802
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-09-03T15:21:57.568009+00:00",
-            "ticker": "dotbrl",
-            "acao": "COMPRAR",
-            "quantidade": 200.0,
-            "preco_estimado": 4.535
-        },
-        {
-            "timestamp": "2026-09-03T15:21:57.568011+00:00",
-            "ticker": "ltcbrl",
-            "acao": "COMPRAR",
-            "quantidade": 300.0,
-            "preco_estimado": 260.75
-        },
-        {
-            "timestamp": "2026-09-03T17:59:29.244953+00:00",
-            "ticker": "linkbrl",
-            "acao": "COMPRAR",
-            "quantidade": 100.0,
-            "preco_estimado": 59.943
-        },
         {
             "timestamp": "2026-09-03T17:59:29.244967+00:00",
             "ticker": "adabrl",
@@ -367,10 +346,31 @@
             "acao": "VENDER",
             "quantidade": 300.0,
             "preco_estimado": 0.9961
+        },
+        {
+            "timestamp": "2026-09-17T15:45:43.673270+00:00",
+            "ticker": "unibrl",
+            "acao": "COMPRAR",
+            "quantidade": 250.0,
+            "preco_estimado": 36.977
+        },
+        {
+            "timestamp": "2026-09-17T15:45:43.673287+00:00",
+            "ticker": "adabrl",
+            "acao": "VENDER",
+            "quantidade": 300.0,
+            "preco_estimado": 1.0465
+        },
+        {
+            "timestamp": "2026-09-17T15:45:43.673290+00:00",
+            "ticker": "chzbrl",
+            "acao": "COMPRAR",
+            "quantidade": 150.0,
+            "preco_estimado": 0.07315
         }
     ],
-    "licoes_aprendidas": "Mercado segue em correção, com a maioria dos ativos abaixo das médias móveis e MACD negativo. BTC, ETH, SOL e BNB estão próximos de suportes de Fibonacci relevantes, mas sem confirmação de reversão. Ativos como ADA e XRP apresentam fraqueza e devem ser reduzidos/vendidos. Caixa reserva extremamente baixo (R$ 1664) - priorizar preservação de capital e aguardar sinais mais fortes antes de novas alocações. A queda do XRP (-7.85%) reforça a importância de stops e gestão de risco. Manter monitoramento constante.",
-    "ultima_execucao": "2026-09-16T18:17:36.388220+00:00",
+    "licoes_aprendidas": "O mercado mostra sinais mistos de recuperação, com alguns ativos como UNI e DOT apresentando forte momentum. No entanto, a maioria dos ativos ainda não confirmou reversão, com MACD negativo. A preservação de capital é crucial com caixa limitado. Reduzir exposição em ativos fracos (ADA) e acumular em ativos com sinais positivos (UNI, CHZ) de forma gradual. Aguardar confirmação para novas entradas em BTC, ETH e SOL.",
+    "ultima_execucao": "2026-09-17T15:45:43.673297+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
