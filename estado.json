@@ -1,86 +1,23 @@
 {
-    "saldo_anterior": 12001.91,
+    "saldo_anterior": 11921.58,
     "saldos_virtuais": {
-        "brl": 1466.9612687129757,
+        "brl": 241.68477748870112,
         "btc": 0.00025249783483106633,
-        "eth": 0.08733416128743722,
-        "sol": 1.136114026934675,
-        "ltc": 0.0,
-        "uni": 5.760959515374423,
-        "dot": 0.0,
-        "bnb": 0.10440027070677482,
-        "ada": 761.2752913347686,
-        "chz": 93813.44148703926,
+        "eth": 0.11123625829808162,
+        "sol": 1.52111441193506,
+        "ltc": 0.7235890014471781,
+        "uni": 0.0,
+        "dot": 27.482594356907292,
+        "bnb": 0.1572404292272504,
+        "ada": 906.6804871470989,
+        "chz": 95173.4306071263,
         "link": 0.0,
         "sand": 0.0,
         "xrp": 0.0,
         "snx": 0.0,
-        "pol": 728.9777600062617
+        "pol": 1027.8539853987859
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-09-06T21:50:10.343146+00:00",
-            "ticker": "dotbrl",
-            "acao": "COMPRAR",
-            "quantidade": 150.0,
-            "preco_estimado": 5.076
-        },
-        {
-            "timestamp": "2026-09-06T21:50:10.343149+00:00",
-            "ticker": "ltcbrl",
-            "acao": "VENDER",
-            "quantidade": 0.5,
-            "preco_estimado": 282.86
-        },
-        {
-            "timestamp": "2026-09-06T21:50:10.343152+00:00",
-            "ticker": "xrpbrl",
-            "acao": "COMPRAR",
-            "quantidade": 100.0,
-            "preco_estimado": 7.368
-        },
-        {
-            "timestamp": "2026-09-06T21:50:10.343154+00:00",
-            "ticker": "snxbrl",
-            "acao": "COMPRAR",
-            "quantidade": 91.25028000000002,
-            "preco_estimado": 1.1601
-        },
-        {
-            "timestamp": "2026-09-07T16:45:39.378037+00:00",
-            "ticker": "ltcbrl",
-            "acao": "VENDER",
-            "quantidade": 0.6505273250239694,
-            "preco_estimado": 288.98
-        },
-        {
-            "timestamp": "2026-09-07T16:45:39.378053+00:00",
-            "ticker": "linkbrl",
-            "acao": "VENDER",
-            "quantidade": 4.518550706613264,
-            "preco_estimado": 66.853
-        },
-        {
-            "timestamp": "2026-09-07T16:45:39.378055+00:00",
-            "ticker": "dotbrl",
-            "acao": "VENDER",
-            "quantidade": 478.7205634017606,
-            "preco_estimado": 5.686
-        },
-        {
-            "timestamp": "2026-09-07T18:50:15.989828+00:00",
-            "ticker": "chzbrl",
-            "acao": "COMPRAR",
-            "quantidade": 100.0,
-            "preco_estimado": 0.07399
-        },
-        {
-            "timestamp": "2026-09-07T18:50:15.989845+00:00",
-            "ticker": "snxbrl",
-            "acao": "COMPRAR",
-            "quantidade": 100.0,
-            "preco_estimado": 1.1584
-        },
         {
             "timestamp": "2026-09-07T22:24:42.509746+00:00",
             "ticker": "chzbrl",
@@ -367,10 +304,73 @@
             "acao": "COMPRAR",
             "quantidade": 50.0,
             "preco_estimado": 3765.1
+        },
+        {
+            "timestamp": "2026-09-17T22:31:46.940717+00:00",
+            "ticker": "ethbrl",
+            "acao": "COMPRAR",
+            "quantidade": 300.0,
+            "preco_estimado": 12551.2
+        },
+        {
+            "timestamp": "2026-09-17T22:31:46.940733+00:00",
+            "ticker": "solbrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 519.48
+        },
+        {
+            "timestamp": "2026-09-17T22:31:46.940736+00:00",
+            "ticker": "polbrl",
+            "acao": "COMPRAR",
+            "quantidade": 150.0,
+            "preco_estimado": 0.50188
+        },
+        {
+            "timestamp": "2026-09-17T22:31:46.940739+00:00",
+            "ticker": "ltcbrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 276.4
+        },
+        {
+            "timestamp": "2026-09-17T22:31:46.940741+00:00",
+            "ticker": "bnbbrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 3785.0
+        },
+        {
+            "timestamp": "2026-09-17T22:31:46.940744+00:00",
+            "ticker": "unibrl",
+            "acao": "VENDER",
+            "quantidade": 5.760959515374423,
+            "preco_estimado": 39.008
+        },
+        {
+            "timestamp": "2026-09-17T22:31:46.940746+00:00",
+            "ticker": "chzbrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 0.07353
+        },
+        {
+            "timestamp": "2026-09-17T22:31:46.940748+00:00",
+            "ticker": "adabrl",
+            "acao": "COMPRAR",
+            "quantidade": 150.0,
+            "preco_estimado": 1.0316
+        },
+        {
+            "timestamp": "2026-09-17T22:31:46.940750+00:00",
+            "ticker": "dotbrl",
+            "acao": "COMPRAR",
+            "quantidade": 150.0,
+            "preco_estimado": 5.458
         }
     ],
-    "licoes_aprendidas": "O mercado mostra sinais mistos de recuperação, com alta em UNI e DOT, mas ainda sem confirmação de reversão para a maioria. UNI está sobrecomprado, indicando redução. Ativos como BTC, ETH, SOL e BNB estão em zonas de suporte e merecem acumulação gradual. CHZ e POL também apresentam sinais de compra. É crucial preservar caixa e evitar entradas agressivas sem confirmação. Continuar monitorando MACD e RSI para identificar pontos de entrada.",
-    "ultima_execucao": "2026-09-17T18:28:36.361764+00:00",
+    "licoes_aprendidas": "Nesta rodada, observamos um mercado misto com recuperação em diversos ativos como DOT, LTC e LINK, mas ainda sem confirmação de reversão para a maioria. UNI apresentou sobrecompra extrema, indicando realização de lucros. Ativos como BTC, ETH, SOL e BNB estão em zonas de suporte e merecem acumulação gradual. CHZ, POL e ADA também mostram sinais de compra. É crucial preservar caixa e evitar entradas agressivas sem confirmação. Continuar monitorando MACD e RSI para identificar pontos de entrada.",
+    "ultima_execucao": "2026-09-17T22:31:46.940758+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
