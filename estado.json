@@ -1,72 +1,23 @@
 {
-    "saldo_anterior": 11906.76,
+    "saldo_anterior": 12001.91,
     "saldos_virtuais": {
-        "brl": 1877.1182687129756,
-        "btc": 0.0,
-        "eth": 0.07946553585761355,
-        "sol": 0.945267048042351,
+        "brl": 1466.9612687129757,
+        "btc": 0.00025249783483106633,
+        "eth": 0.08733416128743722,
+        "sol": 1.136114026934675,
         "ltc": 0.0,
-        "uni": 6.760959515374423,
+        "uni": 5.760959515374423,
         "dot": 0.0,
-        "bnb": 0.09112041094209394,
+        "bnb": 0.10440027070677482,
         "ada": 761.2752913347686,
-        "chz": 93138.03962293013,
+        "chz": 93813.44148703926,
         "link": 0.0,
         "sand": 0.0,
         "xrp": 0.0,
         "snx": 0.0,
-        "pol": 630.0442631028802
+        "pol": 728.9777600062617
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-09-03T17:59:29.244967+00:00",
-            "ticker": "adabrl",
-            "acao": "COMPRAR",
-            "quantidade": 100.0,
-            "preco_estimado": 1.1395
-        },
-        {
-            "timestamp": "2026-09-03T17:59:29.244969+00:00",
-            "ticker": "xrpbrl",
-            "acao": "COMPRAR",
-            "quantidade": 100.0,
-            "preco_estimado": 7.464
-        },
-        {
-            "timestamp": "2026-09-03T22:00:21.403643+00:00",
-            "ticker": "xrpbrl",
-            "acao": "COMPRAR",
-            "quantidade": 55.0,
-            "preco_estimado": 7.51
-        },
-        {
-            "timestamp": "2026-09-03T22:00:21.403660+00:00",
-            "ticker": "adabrl",
-            "acao": "COMPRAR",
-            "quantidade": 26.97649948166402,
-            "preco_estimado": 1.1454
-        },
-        {
-            "timestamp": "2026-09-03T22:00:21.403663+00:00",
-            "ticker": "polbrl",
-            "acao": "VENDER",
-            "quantidade": 200.0,
-            "preco_estimado": 0.48593
-        },
-        {
-            "timestamp": "2026-09-04T18:00:05.885094+00:00",
-            "ticker": "polbrl",
-            "acao": "COMPRAR",
-            "quantidade": 97.45848989375418,
-            "preco_estimado": 0.47473
-        },
-        {
-            "timestamp": "2026-09-06T21:50:10.343129+00:00",
-            "ticker": "linkbrl",
-            "acao": "VENDER",
-            "quantidade": 3.0,
-            "preco_estimado": 66.914
-        },
         {
             "timestamp": "2026-09-06T21:50:10.343146+00:00",
             "ticker": "dotbrl",
@@ -367,10 +318,59 @@
             "acao": "COMPRAR",
             "quantidade": 150.0,
             "preco_estimado": 0.07315
+        },
+        {
+            "timestamp": "2026-09-17T18:28:36.361720+00:00",
+            "ticker": "btcbrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 396043.0
+        },
+        {
+            "timestamp": "2026-09-17T18:28:36.361746+00:00",
+            "ticker": "ethbrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 12708.7
+        },
+        {
+            "timestamp": "2026-09-17T18:28:36.361749+00:00",
+            "ticker": "solbrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 523.98
+        },
+        {
+            "timestamp": "2026-09-17T18:28:36.361752+00:00",
+            "ticker": "unibrl",
+            "acao": "VENDER",
+            "quantidade": 1.0,
+            "preco_estimado": 39.843
+        },
+        {
+            "timestamp": "2026-09-17T18:28:36.361753+00:00",
+            "ticker": "polbrl",
+            "acao": "COMPRAR",
+            "quantidade": 50.0,
+            "preco_estimado": 0.50539
+        },
+        {
+            "timestamp": "2026-09-17T18:28:36.361755+00:00",
+            "ticker": "chzbrl",
+            "acao": "COMPRAR",
+            "quantidade": 50.0,
+            "preco_estimado": 0.07403
+        },
+        {
+            "timestamp": "2026-09-17T18:28:36.361757+00:00",
+            "ticker": "bnbbrl",
+            "acao": "COMPRAR",
+            "quantidade": 50.0,
+            "preco_estimado": 3765.1
         }
     ],
-    "licoes_aprendidas": "O mercado mostra sinais mistos de recuperação, com alguns ativos como UNI e DOT apresentando forte momentum. No entanto, a maioria dos ativos ainda não confirmou reversão, com MACD negativo. A preservação de capital é crucial com caixa limitado. Reduzir exposição em ativos fracos (ADA) e acumular em ativos com sinais positivos (UNI, CHZ) de forma gradual. Aguardar confirmação para novas entradas em BTC, ETH e SOL.",
-    "ultima_execucao": "2026-09-17T15:45:43.673297+00:00",
+    "licoes_aprendidas": "O mercado mostra sinais mistos de recuperação, com alta em UNI e DOT, mas ainda sem confirmação de reversão para a maioria. UNI está sobrecomprado, indicando redução. Ativos como BTC, ETH, SOL e BNB estão em zonas de suporte e merecem acumulação gradual. CHZ e POL também apresentam sinais de compra. É crucial preservar caixa e evitar entradas agressivas sem confirmação. Continuar monitorando MACD e RSI para identificar pontos de entrada.",
+    "ultima_execucao": "2026-09-17T18:28:36.361764+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
