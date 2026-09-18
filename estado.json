@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 12513.64,
+    "saldo_anterior": 12527.97,
     "saldos_virtuais": {
         "brl": 0.004777488701108723,
         "btc": 0.00025249783483106633,
@@ -369,8 +369,8 @@
             "preco_estimado": 13357.1
         }
     ],
-    "licoes_aprendidas": "Mercado em forte alta generalizada, com vários ativos rompendo bandas superiores de Bollinger e Fibonacci de 30 dias. RSI elevado em alguns (UNI, BTC), indicando possível realização de lucros. Apesar disso, momentum altista dominante. Estratégia: acumular em ativos com RSI < 70 e MACD positivo, e manter os que estão sobrecomprados. Atenção à preservação do caixa; usar apenas o saldo disponível em BRL, sem alavancagem.",
-    "ultima_execucao": "2026-09-18T15:40:41.558398+00:00",
+    "licoes_aprendidas": "Mercado em forte alta generalizada, com muitos ativos rompendo as bandas superiores de Bollinger e níveis de Fibonacci de 30 dias. RSI elevado em UNI (77.73) indica sobrecompra extrema e risco de correção. Outros ativos (BTC, ETH, SOL, LTC, DOT, BNB) com RSI entre 62-66, ainda com espaço para alta, mas com histograma MACD ligeiramente negativo, sinalizando possível perda de momentum. A falta de saldo em BRL impede novas compras, mas a carteira está bem posicionada para capturar a tendência de alta. Manter posições e aguardar pullback para recomprar em níveis de Fibonacci e/ou SMA. Atenção especial à realização de lucros em ativos sobrecomprados (UNI).",
+    "ultima_execucao": "2026-09-18T17:47:24.520558+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
