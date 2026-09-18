@@ -1,9 +1,9 @@
 {
-    "saldo_anterior": 11921.58,
+    "saldo_anterior": 12513.64,
     "saldos_virtuais": {
-        "brl": 241.68477748870112,
+        "brl": 0.004777488701108723,
         "btc": 0.00025249783483106633,
-        "eth": 0.11123625829808162,
+        "eth": 0.12933000619245988,
         "sol": 1.52111441193506,
         "ltc": 0.7235890014471781,
         "uni": 0.0,
@@ -18,13 +18,6 @@
         "pol": 1027.8539853987859
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-09-07T22:24:42.509746+00:00",
-            "ticker": "chzbrl",
-            "acao": "COMPRAR",
-            "quantidade": 300.0,
-            "preco_estimado": 0.07364
-        },
         {
             "timestamp": "2026-09-07T22:24:42.509763+00:00",
             "ticker": "snxbrl",
@@ -367,10 +360,17 @@
             "acao": "COMPRAR",
             "quantidade": 150.0,
             "preco_estimado": 5.458
+        },
+        {
+            "timestamp": "2026-09-18T15:40:41.558380+00:00",
+            "ticker": "ethbrl",
+            "acao": "COMPRAR",
+            "quantidade": 241.68,
+            "preco_estimado": 13357.1
         }
     ],
-    "licoes_aprendidas": "Nesta rodada, observamos um mercado misto com recuperação em diversos ativos como DOT, LTC e LINK, mas ainda sem confirmação de reversão para a maioria. UNI apresentou sobrecompra extrema, indicando realização de lucros. Ativos como BTC, ETH, SOL e BNB estão em zonas de suporte e merecem acumulação gradual. CHZ, POL e ADA também mostram sinais de compra. É crucial preservar caixa e evitar entradas agressivas sem confirmação. Continuar monitorando MACD e RSI para identificar pontos de entrada.",
-    "ultima_execucao": "2026-09-17T22:31:46.940758+00:00",
+    "licoes_aprendidas": "Mercado em forte alta generalizada, com vários ativos rompendo bandas superiores de Bollinger e Fibonacci de 30 dias. RSI elevado em alguns (UNI, BTC), indicando possível realização de lucros. Apesar disso, momentum altista dominante. Estratégia: acumular em ativos com RSI < 70 e MACD positivo, e manter os que estão sobrecomprados. Atenção à preservação do caixa; usar apenas o saldo disponível em BRL, sem alavancagem.",
+    "ultima_execucao": "2026-09-18T15:40:41.558398+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
