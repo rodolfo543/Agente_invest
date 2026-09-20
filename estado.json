@@ -1,11 +1,11 @@
 {
-    "saldo_anterior": 12512.65,
+    "saldo_anterior": 12778.6,
     "saldos_virtuais": {
-        "brl": 0.004777488701108723,
+        "brl": 218.29437748870112,
         "btc": 0.00025249783483106633,
         "eth": 0.12933000619245988,
         "sol": 1.52111441193506,
-        "ltc": 0.7235890014471781,
+        "ltc": 0.0035890014471781084,
         "uni": 0.0,
         "dot": 27.482594356907292,
         "bnb": 0.1572404292272504,
@@ -18,13 +18,6 @@
         "pol": 1027.8539853987859
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-09-07T22:24:42.509763+00:00",
-            "ticker": "snxbrl",
-            "acao": "COMPRAR",
-            "quantidade": 200.0,
-            "preco_estimado": 1.1584
-        },
         {
             "timestamp": "2026-09-08T15:28:23.369321+00:00",
             "ticker": "snxbrl",
@@ -367,10 +360,17 @@
             "acao": "COMPRAR",
             "quantidade": 241.68,
             "preco_estimado": 13357.1
+        },
+        {
+            "timestamp": "2026-09-20T17:36:53.933674+00:00",
+            "ticker": "ltcbrl",
+            "acao": "VENDER",
+            "quantidade": 0.72,
+            "preco_estimado": 303.18
         }
     ],
-    "licoes_aprendidas": "O mercado está em correção moderada após alta recente, com a maioria dos ativos apresentando quedas de 1% a 4% no dia. RSIs ainda em zona neutra/alta (53-64), indicando que a tendência de alta pode continuar, mas há sinais de sobrecompra em UNI (RSI 73.72). A falta de saldo em BRL impede novas compras; a estratégia deve focar em manter posições e aguardar correções para reentrada em níveis de suporte de SMA e Fibonacci. Observar a possibilidade de vender UNI se ainda houvesse posição, mas o portfólio está zerado nesse ativo.",
-    "ultima_execucao": "2026-09-20T15:02:13.202706+00:00",
+    "licoes_aprendidas": "Mercado em correção moderada após alta recente, com RSIs ainda em zona neutra/alta (55-66). Ativos como LTC e UNI mostram sobrecompra (RSI >70) e tocam bandas superiores de Bollinger, sugerindo cautela. Sem saldo em BRL, a estratégia foca em manter posições e reduzir sobrecomprados. LTC é vendido parcialmente para proteger lucros. Observa-se que muitos ativos estão próximos de resistências de Fibonacci, indicando possíveis correções. Próximas entradas devem aguardar recuos para suportes de SMA/Fibonacci.",
+    "ultima_execucao": "2026-09-20T17:36:53.933692+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
