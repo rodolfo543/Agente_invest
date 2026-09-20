@@ -1,11 +1,11 @@
 {
-    "saldo_anterior": 12778.6,
+    "saldo_anterior": 12671.84,
     "saldos_virtuais": {
-        "brl": 218.29437748870112,
+        "brl": 219.38274217755787,
         "btc": 0.00025249783483106633,
         "eth": 0.12933000619245988,
         "sol": 1.52111441193506,
-        "ltc": 0.0035890014471781084,
+        "ltc": 0.0,
         "uni": 0.0,
         "dot": 27.482594356907292,
         "bnb": 0.1572404292272504,
@@ -18,13 +18,6 @@
         "pol": 1027.8539853987859
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-09-08T15:28:23.369321+00:00",
-            "ticker": "snxbrl",
-            "acao": "COMPRAR",
-            "quantidade": 250.0,
-            "preco_estimado": 1.1126
-        },
         {
             "timestamp": "2026-09-08T15:28:23.369341+00:00",
             "ticker": "adabrl",
@@ -367,10 +360,17 @@
             "acao": "VENDER",
             "quantidade": 0.72,
             "preco_estimado": 303.18
+        },
+        {
+            "timestamp": "2026-09-20T22:07:52.333244+00:00",
+            "ticker": "ltcbrl",
+            "acao": "VENDER",
+            "quantidade": 0.0035890014471781084,
+            "preco_estimado": 303.25
         }
     ],
-    "licoes_aprendidas": "Mercado em correção moderada após alta recente, com RSIs ainda em zona neutra/alta (55-66). Ativos como LTC e UNI mostram sobrecompra (RSI >70) e tocam bandas superiores de Bollinger, sugerindo cautela. Sem saldo em BRL, a estratégia foca em manter posições e reduzir sobrecomprados. LTC é vendido parcialmente para proteger lucros. Observa-se que muitos ativos estão próximos de resistências de Fibonacci, indicando possíveis correções. Próximas entradas devem aguardar recuos para suportes de SMA/Fibonacci.",
-    "ultima_execucao": "2026-09-20T17:36:53.933692+00:00",
+    "licoes_aprendidas": "Mercado mostra sinais de sobrecompra em vários ativos (UNI, LTC, BNB, ETH) com RSIs elevados e preços próximos de resistências de Fibonacci e bandas superiores. É prudente não aumentar exposição no momento. Manter posições e aguardar correções para recomprar em suportes. A liquidez em BRL está baixa (218 reais), limitando novas entradas. Focar em gestão de risco e preservação de capital.",
+    "ultima_execucao": "2026-09-20T22:07:52.333263+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
