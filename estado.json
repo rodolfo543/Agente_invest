@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 12799.19,
+    "saldo_anterior": 12512.65,
     "saldos_virtuais": {
         "brl": 0.004777488701108723,
         "btc": 0.00025249783483106633,
@@ -369,8 +369,8 @@
             "preco_estimado": 13357.1
         }
     ],
-    "licoes_aprendidas": "O mercado está em tendência de alta generalizada, com a maioria dos ativos acima das SMAs 10/20 e próximos dos níveis de Fibonacci 1.0. RSIs variam de 53 a 72, indicando força, mas alguns ativos (BTC, ETH, SOL, BNB, DOT, LTC) mostram sinais de perda de momentum com histogramas MACD negativos ou correções recentes. UNI está sobrecomprado (RSI 72) e com queda de -5.7%, sugerindo cautela. Sem saldo em BRL, não há novas compras; a estratégia deve focar em manter posições e monitorar correções para reentrada em níveis de SMA e Fibonacci.",
-    "ultima_execucao": "2026-09-19T21:54:55.752894+00:00",
+    "licoes_aprendidas": "O mercado está em correção moderada após alta recente, com a maioria dos ativos apresentando quedas de 1% a 4% no dia. RSIs ainda em zona neutra/alta (53-64), indicando que a tendência de alta pode continuar, mas há sinais de sobrecompra em UNI (RSI 73.72). A falta de saldo em BRL impede novas compras; a estratégia deve focar em manter posições e aguardar correções para reentrada em níveis de suporte de SMA e Fibonacci. Observar a possibilidade de vender UNI se ainda houvesse posição, mas o portfólio está zerado nesse ativo.",
+    "ultima_execucao": "2026-09-20T15:02:13.202706+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
