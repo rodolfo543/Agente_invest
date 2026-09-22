@@ -1,58 +1,23 @@
 {
-    "saldo_anterior": 13831.9,
+    "saldo_anterior": 13820.68,
     "saldos_virtuais": {
-        "brl": 2643.7027421775574,
+        "brl": 4403.434742177557,
         "btc": 0.00025249783483106633,
         "eth": 0.12933000619245988,
-        "sol": 0.5211144119350599,
+        "sol": 0.3211144119350599,
         "ltc": 0.0,
         "uni": 0.0,
         "dot": 27.482594356907292,
         "bnb": 0.1572404292272504,
-        "ada": 506.6804871470989,
-        "chz": 75173.4306071263,
-        "link": 4.509311728719807,
+        "ada": 306.6804871470989,
+        "chz": 55173.4306071263,
+        "link": 7.5261759999962425,
         "sand": 0.0,
         "xrp": 0.0,
         "snx": 0.0,
-        "pol": 1208.8298070290161
+        "pol": 1478.2166825004433
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-09-08T22:07:32.952189+00:00",
-            "ticker": "solbrl",
-            "acao": "COMPRAR",
-            "quantidade": 250.0,
-            "preco_estimado": 527.51
-        },
-        {
-            "timestamp": "2026-09-08T22:07:32.952205+00:00",
-            "ticker": "bnbbrl",
-            "acao": "COMPRAR",
-            "quantidade": 150.0,
-            "preco_estimado": 3841.7
-        },
-        {
-            "timestamp": "2026-09-08T22:07:32.952208+00:00",
-            "ticker": "adabrl",
-            "acao": "COMPRAR",
-            "quantidade": 100.0,
-            "preco_estimado": 1.1281
-        },
-        {
-            "timestamp": "2026-09-09T15:27:06.229656+00:00",
-            "ticker": "ethbrl",
-            "acao": "COMPRAR",
-            "quantidade": 10.0,
-            "preco_estimado": 12680.0
-        },
-        {
-            "timestamp": "2026-09-11T22:04:16.997259+00:00",
-            "ticker": "snxbrl",
-            "acao": "VENDER",
-            "quantidade": 500.0,
-            "preco_estimado": 1.0566
-        },
         {
             "timestamp": "2026-09-12T14:28:37.174434+00:00",
             "ticker": "ethbrl",
@@ -367,10 +332,45 @@
             "acao": "COMPRAR",
             "quantidade": 300.0,
             "preco_estimado": 66.529
+        },
+        {
+            "timestamp": "2026-09-22T22:58:41.733614+00:00",
+            "ticker": "solbrl",
+            "acao": "VENDER",
+            "quantidade": 0.2,
+            "preco_estimado": 604.16
+        },
+        {
+            "timestamp": "2026-09-22T22:58:41.733628+00:00",
+            "ticker": "chzbrl",
+            "acao": "VENDER",
+            "quantidade": 20000.0,
+            "preco_estimado": 0.08656
+        },
+        {
+            "timestamp": "2026-09-22T22:58:41.733630+00:00",
+            "ticker": "polbrl",
+            "acao": "COMPRAR",
+            "quantidade": 150.0,
+            "preco_estimado": 0.55682
+        },
+        {
+            "timestamp": "2026-09-22T22:58:41.733633+00:00",
+            "ticker": "linkbrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 66.294
+        },
+        {
+            "timestamp": "2026-09-22T22:58:41.733635+00:00",
+            "ticker": "adabrl",
+            "acao": "VENDER",
+            "quantidade": 200.0,
+            "preco_estimado": 1.2885
         }
     ],
-    "licoes_aprendidas": "A maioria dos ativos atingiu a resistência de Fibonacci 1.0 simultaneamente, confirmando um topo local de curto prazo. A prioridade absoluta foi a liquidação de SOL e ADA para proteger lucros e recompor o caixa BRL. A entrada em LINK foi estratégica por apresentar a melhor relação risco/recompensa (RSI abaixo de 70 e MACD ascendente), enquanto a preservação de capital impede novas compras agressivas em ativos sobrecomprados.",
-    "ultima_execucao": "2026-09-22T18:12:51.987193+00:00",
+    "licoes_aprendidas": "O mercado entrou em uma fase de exaustão generalizada, com múltiplos ativos (BTC, ETH, SOL, ADA) testando a extensão 1.0 de Fibonacci simultaneamente. A estratégia agora foca em 'sangrar' lucros de ativos sobrecomprados (ADA, CHZ, SOL) e realocar levemente em ativos com momentum ascendente porém RSI menos estendido (LINK, POL), mantendo a liquidez em BRL para aproveitar a correção esperada.",
+    "ultima_execucao": "2026-09-22T22:58:41.733640+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
