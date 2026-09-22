@@ -1,44 +1,23 @@
 {
-    "saldo_anterior": 13732.54,
+    "saldo_anterior": 13831.9,
     "saldos_virtuais": {
-        "brl": 2385.9477421775578,
+        "brl": 2643.7027421775574,
         "btc": 0.00025249783483106633,
         "eth": 0.12933000619245988,
-        "sol": 1.02111441193506,
+        "sol": 0.5211144119350599,
         "ltc": 0.0,
         "uni": 0.0,
         "dot": 27.482594356907292,
         "bnb": 0.1572404292272504,
-        "ada": 706.6804871470989,
+        "ada": 506.6804871470989,
         "chz": 75173.4306071263,
-        "link": 0.0,
+        "link": 4.509311728719807,
         "sand": 0.0,
         "xrp": 0.0,
         "snx": 0.0,
         "pol": 1208.8298070290161
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-09-08T18:01:51.733823+00:00",
-            "ticker": "adabrl",
-            "acao": "COMPRAR",
-            "quantidade": 250.0,
-            "preco_estimado": 1.1453
-        },
-        {
-            "timestamp": "2026-09-08T18:01:51.733826+00:00",
-            "ticker": "snxbrl",
-            "acao": "COMPRAR",
-            "quantidade": 250.0,
-            "preco_estimado": 1.1269
-        },
-        {
-            "timestamp": "2026-09-08T18:01:51.733828+00:00",
-            "ticker": "bnbbrl",
-            "acao": "COMPRAR",
-            "quantidade": 200.0,
-            "preco_estimado": 3840.6
-        },
         {
             "timestamp": "2026-09-08T22:07:32.952189+00:00",
             "ticker": "solbrl",
@@ -367,10 +346,31 @@
             "acao": "VENDER",
             "quantidade": 200.0,
             "preco_estimado": 1.2752
+        },
+        {
+            "timestamp": "2026-09-22T18:12:51.987169+00:00",
+            "ticker": "solbrl",
+            "acao": "VENDER",
+            "quantidade": 0.5,
+            "preco_estimado": 603.95
+        },
+        {
+            "timestamp": "2026-09-22T18:12:51.987184+00:00",
+            "ticker": "adabrl",
+            "acao": "VENDER",
+            "quantidade": 200.0,
+            "preco_estimado": 1.2789
+        },
+        {
+            "timestamp": "2026-09-22T18:12:51.987187+00:00",
+            "ticker": "linkbrl",
+            "acao": "COMPRAR",
+            "quantidade": 300.0,
+            "preco_estimado": 66.529
         }
     ],
-    "licoes_aprendidas": "O mercado entrou em uma fase de euforia generalizada, com a maioria dos ativos testando a Banda Superior de Bollinger e resistências de Fibonacci 1.0. A estratégia agora muda para 'Realização de Lucros Parciais' (SOL, CHZ, ADA) para evitar quedas abruptas e recompor o caixa BRL, que estava criticamente baixo. Apenas POL apresenta métricas de acumulação saudável sem sobrecompra extrema.",
-    "ultima_execucao": "2026-09-22T17:03:16.078438+00:00",
+    "licoes_aprendidas": "A maioria dos ativos atingiu a resistência de Fibonacci 1.0 simultaneamente, confirmando um topo local de curto prazo. A prioridade absoluta foi a liquidação de SOL e ADA para proteger lucros e recompor o caixa BRL. A entrada em LINK foi estratégica por apresentar a melhor relação risco/recompensa (RSI abaixo de 70 e MACD ascendente), enquanto a preservação de capital impede novas compras agressivas em ativos sobrecomprados.",
+    "ultima_execucao": "2026-09-22T18:12:51.987193+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
