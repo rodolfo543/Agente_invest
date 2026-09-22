@@ -1,51 +1,23 @@
 {
-    "saldo_anterior": 12671.84,
+    "saldo_anterior": 13732.54,
     "saldos_virtuais": {
-        "brl": 219.38274217755787,
+        "brl": 2385.9477421775578,
         "btc": 0.00025249783483106633,
         "eth": 0.12933000619245988,
-        "sol": 1.52111441193506,
+        "sol": 1.02111441193506,
         "ltc": 0.0,
         "uni": 0.0,
         "dot": 27.482594356907292,
         "bnb": 0.1572404292272504,
-        "ada": 906.6804871470989,
-        "chz": 95173.4306071263,
+        "ada": 706.6804871470989,
+        "chz": 75173.4306071263,
         "link": 0.0,
         "sand": 0.0,
         "xrp": 0.0,
         "snx": 0.0,
-        "pol": 1027.8539853987859
+        "pol": 1208.8298070290161
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-09-08T15:28:23.369341+00:00",
-            "ticker": "adabrl",
-            "acao": "COMPRAR",
-            "quantidade": 250.0,
-            "preco_estimado": 1.16
-        },
-        {
-            "timestamp": "2026-09-08T15:28:23.369344+00:00",
-            "ticker": "chzbrl",
-            "acao": "COMPRAR",
-            "quantidade": 300.0,
-            "preco_estimado": 0.07349
-        },
-        {
-            "timestamp": "2026-09-08T18:01:51.733805+00:00",
-            "ticker": "solbrl",
-            "acao": "COMPRAR",
-            "quantidade": 250.0,
-            "preco_estimado": 530.4
-        },
-        {
-            "timestamp": "2026-09-08T18:01:51.733820+00:00",
-            "ticker": "chzbrl",
-            "acao": "COMPRAR",
-            "quantidade": 250.0,
-            "preco_estimado": 0.07294
-        },
         {
             "timestamp": "2026-09-08T18:01:51.733823+00:00",
             "ticker": "adabrl",
@@ -367,10 +339,38 @@
             "acao": "VENDER",
             "quantidade": 0.0035890014471781084,
             "preco_estimado": 303.25
+        },
+        {
+            "timestamp": "2026-09-22T17:03:16.078409+00:00",
+            "ticker": "solbrl",
+            "acao": "VENDER",
+            "quantidade": 0.5,
+            "preco_estimado": 602.25
+        },
+        {
+            "timestamp": "2026-09-22T17:03:16.078428+00:00",
+            "ticker": "chzbrl",
+            "acao": "VENDER",
+            "quantidade": 20000.0,
+            "preco_estimado": 0.08552
+        },
+        {
+            "timestamp": "2026-09-22T17:03:16.078430+00:00",
+            "ticker": "polbrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 0.55256
+        },
+        {
+            "timestamp": "2026-09-22T17:03:16.078432+00:00",
+            "ticker": "adabrl",
+            "acao": "VENDER",
+            "quantidade": 200.0,
+            "preco_estimado": 1.2752
         }
     ],
-    "licoes_aprendidas": "Mercado mostra sinais de sobrecompra em vários ativos (UNI, LTC, BNB, ETH) com RSIs elevados e preços próximos de resistências de Fibonacci e bandas superiores. É prudente não aumentar exposição no momento. Manter posições e aguardar correções para recomprar em suportes. A liquidez em BRL está baixa (218 reais), limitando novas entradas. Focar em gestão de risco e preservação de capital.",
-    "ultima_execucao": "2026-09-20T22:07:52.333263+00:00",
+    "licoes_aprendidas": "O mercado entrou em uma fase de euforia generalizada, com a maioria dos ativos testando a Banda Superior de Bollinger e resistências de Fibonacci 1.0. A estratégia agora muda para 'Realização de Lucros Parciais' (SOL, CHZ, ADA) para evitar quedas abruptas e recompor o caixa BRL, que estava criticamente baixo. Apenas POL apresenta métricas de acumulação saudável sem sobrecompra extrema.",
+    "ultima_execucao": "2026-09-22T17:03:16.078438+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
