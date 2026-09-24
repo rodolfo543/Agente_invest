@@ -1,58 +1,23 @@
 {
-    "saldo_anterior": 13801.29,
+    "saldo_anterior": 13824.47,
     "saldos_virtuais": {
-        "brl": 2717.356742177558,
+        "brl": 2920.8517421775578,
         "btc": 0.00025249783483106633,
         "eth": 0.12933000619245988,
-        "sol": 0.1211144119350599,
+        "sol": 0.07111441193505989,
         "ltc": 0.0,
         "uni": 0.0,
         "dot": 130.60032057565746,
         "bnb": 0.1572404292272504,
-        "ada": 156.68048714709892,
+        "ada": 106.68048714709892,
         "chz": 55173.4306071263,
-        "link": 19.919733898658805,
+        "link": 14.919733898658805,
         "sand": 1909.9679955646939,
-        "xrp": 0.0,
-        "snx": 155.18311607697083,
+        "xrp": 37.63171098845961,
+        "snx": 105.18311607697083,
         "pol": 1478.2166825004433
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-09-15T22:35:23.919283+00:00",
-            "ticker": "xrpbrl",
-            "acao": "VENDER",
-            "quantidade": 20.0,
-            "preco_estimado": 6.625
-        },
-        {
-            "timestamp": "2026-09-16T15:40:18.269606+00:00",
-            "ticker": "xrpbrl",
-            "acao": "VENDER",
-            "quantidade": 27.76868759046414,
-            "preco_estimado": 6.537
-        },
-        {
-            "timestamp": "2026-09-16T15:40:18.269626+00:00",
-            "ticker": "adabrl",
-            "acao": "VENDER",
-            "quantidade": 500.0,
-            "preco_estimado": 0.9867
-        },
-        {
-            "timestamp": "2026-09-16T18:17:36.388198+00:00",
-            "ticker": "adabrl",
-            "acao": "VENDER",
-            "quantidade": 300.0,
-            "preco_estimado": 0.9961
-        },
-        {
-            "timestamp": "2026-09-17T15:45:43.673270+00:00",
-            "ticker": "unibrl",
-            "acao": "COMPRAR",
-            "quantidade": 250.0,
-            "preco_estimado": 36.977
-        },
         {
             "timestamp": "2026-09-17T15:45:43.673287+00:00",
             "ticker": "adabrl",
@@ -367,10 +332,45 @@
             "acao": "COMPRAR",
             "quantidade": 200.0,
             "preco_estimado": 6.077
+        },
+        {
+            "timestamp": "2026-09-24T18:31:49.654055+00:00",
+            "ticker": "solbrl",
+            "acao": "VENDER",
+            "quantidade": 0.05,
+            "preco_estimado": 609.9
+        },
+        {
+            "timestamp": "2026-09-24T18:31:49.654070+00:00",
+            "ticker": "adabrl",
+            "acao": "VENDER",
+            "quantidade": 50.0,
+            "preco_estimado": 1.2844
+        },
+        {
+            "timestamp": "2026-09-24T18:31:49.654072+00:00",
+            "ticker": "snxbrl",
+            "acao": "VENDER",
+            "quantidade": 50.0,
+            "preco_estimado": 1.3008
+        },
+        {
+            "timestamp": "2026-09-24T18:31:49.654074+00:00",
+            "ticker": "xrpbrl",
+            "acao": "COMPRAR",
+            "quantidade": 300.0,
+            "preco_estimado": 7.972
+        },
+        {
+            "timestamp": "2026-09-24T18:31:49.654075+00:00",
+            "ticker": "linkbrl",
+            "acao": "VENDER",
+            "quantidade": 5.0,
+            "preco_estimado": 68.748
         }
     ],
-    "licoes_aprendidas": "Observa-se um rally generalizado onde a maioria dos ativos atingiu o nível Fibonacci 1.0 simultaneamente. A prioridade agora é a realização parcial de lucros em ativos sobrecomprados (ADA, SOL) e a manutenção de caixa BRL para aproveitar possíveis correções técnicas, dado que o RSI de vários ativos (especialmente LTC) indica exaustão iminente.",
-    "ultima_execucao": "2026-09-24T16:00:26.431431+00:00",
+    "licoes_aprendidas": "A maioria dos ativos (SOL, ADA, SNX, LINK) atingiu simultaneamente a resistência Fibonacci 1.0 e as Bandas Superiores de Bollinger. Isso caracteriza um 'clímax de compra'. A estratégia agora foca na realização parcial de lucros para aumentar o caixa BRL, preparando a carteira para a correção técnica inevitável, enquanto se inicia acúmulo em XRP que apresenta momentum positivo mas ainda com espaço até a resistência máxima.",
+    "ultima_execucao": "2026-09-24T18:31:49.654081+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
