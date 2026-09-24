@@ -1,58 +1,23 @@
 {
-    "saldo_anterior": 13459.2,
+    "saldo_anterior": 13801.29,
     "saldos_virtuais": {
-        "brl": 3162.5427421775576,
+        "brl": 2717.356742177558,
         "btc": 0.00025249783483106633,
         "eth": 0.12933000619245988,
-        "sol": 0.2211144119350599,
+        "sol": 0.1211144119350599,
         "ltc": 0.0,
         "uni": 0.0,
-        "dot": 97.68934476522469,
+        "dot": 130.60032057565746,
         "bnb": 0.1572404292272504,
-        "ada": 306.6804871470989,
+        "ada": 156.68048714709892,
         "chz": 55173.4306071263,
-        "link": 15.40587635600285,
+        "link": 19.919733898658805,
         "sand": 1909.9679955646939,
         "xrp": 0.0,
-        "snx": 0.0,
+        "snx": 155.18311607697083,
         "pol": 1478.2166825004433
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-09-14T22:51:39.871417+00:00",
-            "ticker": "chzbrl",
-            "acao": "COMPRAR",
-            "quantidade": 150.0,
-            "preco_estimado": 0.07564
-        },
-        {
-            "timestamp": "2026-09-14T22:51:39.871431+00:00",
-            "ticker": "adabrl",
-            "acao": "COMPRAR",
-            "quantidade": 150.0,
-            "preco_estimado": 1.0822
-        },
-        {
-            "timestamp": "2026-09-14T22:51:39.871433+00:00",
-            "ticker": "xrpbrl",
-            "acao": "COMPRAR",
-            "quantidade": 100.0,
-            "preco_estimado": 7.421
-        },
-        {
-            "timestamp": "2026-09-15T15:48:42.524975+00:00",
-            "ticker": "snxbrl",
-            "acao": "VENDER",
-            "quantidade": 0.8475868658829313,
-            "preco_estimado": 1.0494
-        },
-        {
-            "timestamp": "2026-09-15T22:35:23.919267+00:00",
-            "ticker": "adabrl",
-            "acao": "VENDER",
-            "quantidade": 500.0,
-            "preco_estimado": 1.0094
-        },
         {
             "timestamp": "2026-09-15T22:35:23.919283+00:00",
             "ticker": "xrpbrl",
@@ -367,10 +332,45 @@
             "acao": "COMPRAR",
             "quantidade": 200.0,
             "preco_estimado": 0.20872
+        },
+        {
+            "timestamp": "2026-09-24T16:00:26.431401+00:00",
+            "ticker": "solbrl",
+            "acao": "VENDER",
+            "quantidade": 0.1,
+            "preco_estimado": 604.74
+        },
+        {
+            "timestamp": "2026-09-24T16:00:26.431419+00:00",
+            "ticker": "linkbrl",
+            "acao": "COMPRAR",
+            "quantidade": 300.0,
+            "preco_estimado": 66.462
+        },
+        {
+            "timestamp": "2026-09-24T16:00:26.431421+00:00",
+            "ticker": "adabrl",
+            "acao": "VENDER",
+            "quantidade": 150.0,
+            "preco_estimado": 1.2956
+        },
+        {
+            "timestamp": "2026-09-24T16:00:26.431422+00:00",
+            "ticker": "snxbrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 1.2888
+        },
+        {
+            "timestamp": "2026-09-24T16:00:26.431424+00:00",
+            "ticker": "dotbrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 6.077
         }
     ],
-    "licoes_aprendidas": "O mercado apresenta sinais de exaustão no curto prazo, com vários ativos (LTC, BTC, ETH) testando resistências de Fibonacci 1.0 e RSI aproximando-se de sobrecompra. A estratégia atual foca em acumular ativos que recuaram para níveis de retração saudáveis (0.618) como LINK e DOT, enquanto mantém a reserva de BRL acima de R$ 3.000,00 para suportar a volatilidade observada em ativos como UNI.",
-    "ultima_execucao": "2026-09-23T22:33:06.141755+00:00",
+    "licoes_aprendidas": "Observa-se um rally generalizado onde a maioria dos ativos atingiu o nível Fibonacci 1.0 simultaneamente. A prioridade agora é a realização parcial de lucros em ativos sobrecomprados (ADA, SOL) e a manutenção de caixa BRL para aproveitar possíveis correções técnicas, dado que o RSI de vários ativos (especialmente LTC) indica exaustão iminente.",
+    "ultima_execucao": "2026-09-24T16:00:26.431431+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
