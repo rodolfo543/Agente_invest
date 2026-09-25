@@ -1,79 +1,23 @@
 {
-    "saldo_anterior": 14070.37,
+    "saldo_anterior": 14073.28,
     "saldos_virtuais": {
-        "brl": 4060.6650481516,
+        "brl": 3616.962048151601,
         "btc": 0.00025249783483106633,
         "eth": 0.07933000619245988,
         "sol": 0.0,
         "ltc": 0.0,
         "uni": 0.0,
-        "dot": 179.62793946763327,
-        "bnb": 0.23193232515654205,
-        "ada": 46.680487147098916,
+        "dot": 260.7704256734106,
+        "bnb": 0.35573760421364103,
+        "ada": 26.680487147098916,
         "chz": 55173.4306071263,
-        "link": 6.919733898658805,
-        "sand": 909.9679955646939,
-        "xrp": 67.79474083546236,
-        "snx": 55.18311607697083,
-        "pol": 978.2166825004433
+        "link": 3.919733898658805,
+        "sand": 709.9679955646939,
+        "xrp": 52.79474083546236,
+        "snx": 35.18311607697083,
+        "pol": 778.2166825004433
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-09-17T22:31:46.940748+00:00",
-            "ticker": "adabrl",
-            "acao": "COMPRAR",
-            "quantidade": 150.0,
-            "preco_estimado": 1.0316
-        },
-        {
-            "timestamp": "2026-09-17T22:31:46.940750+00:00",
-            "ticker": "dotbrl",
-            "acao": "COMPRAR",
-            "quantidade": 150.0,
-            "preco_estimado": 5.458
-        },
-        {
-            "timestamp": "2026-09-18T15:40:41.558380+00:00",
-            "ticker": "ethbrl",
-            "acao": "COMPRAR",
-            "quantidade": 241.68,
-            "preco_estimado": 13357.1
-        },
-        {
-            "timestamp": "2026-09-20T17:36:53.933674+00:00",
-            "ticker": "ltcbrl",
-            "acao": "VENDER",
-            "quantidade": 0.72,
-            "preco_estimado": 303.18
-        },
-        {
-            "timestamp": "2026-09-20T22:07:52.333244+00:00",
-            "ticker": "ltcbrl",
-            "acao": "VENDER",
-            "quantidade": 0.0035890014471781084,
-            "preco_estimado": 303.25
-        },
-        {
-            "timestamp": "2026-09-22T17:03:16.078409+00:00",
-            "ticker": "solbrl",
-            "acao": "VENDER",
-            "quantidade": 0.5,
-            "preco_estimado": 602.25
-        },
-        {
-            "timestamp": "2026-09-22T17:03:16.078428+00:00",
-            "ticker": "chzbrl",
-            "acao": "VENDER",
-            "quantidade": 20000.0,
-            "preco_estimado": 0.08552
-        },
-        {
-            "timestamp": "2026-09-22T17:03:16.078430+00:00",
-            "ticker": "polbrl",
-            "acao": "COMPRAR",
-            "quantidade": 100.0,
-            "preco_estimado": 0.55256
-        },
         {
             "timestamp": "2026-09-22T17:03:16.078432+00:00",
             "ticker": "adabrl",
@@ -367,10 +311,66 @@
             "acao": "COMPRAR",
             "quantidade": 300.0,
             "preco_estimado": 6.119
+        },
+        {
+            "timestamp": "2026-09-25T18:48:25.219245+00:00",
+            "ticker": "adabrl",
+            "acao": "VENDER",
+            "quantidade": 20.0,
+            "preco_estimado": 1.3252
+        },
+        {
+            "timestamp": "2026-09-25T18:48:25.219260+00:00",
+            "ticker": "polbrl",
+            "acao": "VENDER",
+            "quantidade": 200.0,
+            "preco_estimado": 0.58789
+        },
+        {
+            "timestamp": "2026-09-25T18:48:25.219263+00:00",
+            "ticker": "linkbrl",
+            "acao": "VENDER",
+            "quantidade": 3.0,
+            "preco_estimado": 71.881
+        },
+        {
+            "timestamp": "2026-09-25T18:48:25.219265+00:00",
+            "ticker": "xrpbrl",
+            "acao": "VENDER",
+            "quantidade": 15.0,
+            "preco_estimado": 8.17
+        },
+        {
+            "timestamp": "2026-09-25T18:48:25.219267+00:00",
+            "ticker": "bnbbrl",
+            "acao": "COMPRAR",
+            "quantidade": 500.0,
+            "preco_estimado": 4038.6
+        },
+        {
+            "timestamp": "2026-09-25T18:48:25.219270+00:00",
+            "ticker": "dotbrl",
+            "acao": "COMPRAR",
+            "quantidade": 500.0,
+            "preco_estimado": 6.162
+        },
+        {
+            "timestamp": "2026-09-25T18:48:25.219272+00:00",
+            "ticker": "sandbrl",
+            "acao": "VENDER",
+            "quantidade": 200.0,
+            "preco_estimado": 0.23515
+        },
+        {
+            "timestamp": "2026-09-25T18:48:25.219274+00:00",
+            "ticker": "snxbrl",
+            "acao": "VENDER",
+            "quantidade": 20.0,
+            "preco_estimado": 1.3496
         }
     ],
-    "licoes_aprendidas": "A maioria dos ativos atingiu a Retração de Fibonacci 1.0 simultaneamente, confirmando um topo local de mercado. A prioridade absoluta foi a 'podagem' de lucros em SOL, POL, LINK e SNX para converter ganhos em BRL. A estratégia de acumulação foi deslocada para BNB e DOT, que apresentam tendências de alta mais saudáveis e menos esticadas em relação às bandas de Bollinger.",
-    "ultima_execucao": "2026-09-25T16:02:33.054764+00:00",
+    "licoes_aprendidas": "Observa-se um movimento sincronizado de topo local, onde múltiplos ativos (SOL, LINK, SNX, XRP, SAND) atingiram simultaneamente o nível 1.0 de Fibonacci e as bandas superiores de Bollinger. A estratégia de 'podagem' de lucros foi aplicada para elevar a reserva em BRL. A rotação de capital para BNB e DOT justifica-se por estarem em tendências de alta com menos exaustão técnica (RSI < 65 e distantes do topo de 30d), mantendo a preservação de capital enquanto se busca a próxima perna de alta.",
+    "ultima_execucao": "2026-09-25T18:48:25.219281+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
