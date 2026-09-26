@@ -1,16 +1,16 @@
 {
-    "saldo_anterior": 14161.38,
+    "saldo_anterior": 14304.87,
     "saldos_virtuais": {
-        "brl": 4653.302779913469,
+        "brl": 5465.2027799134685,
         "btc": 0.00025249783483106633,
         "eth": 0.07933000619245988,
         "sol": 0.0,
         "ltc": 0.0,
         "uni": 0.0,
-        "dot": 324.1217085368886,
-        "bnb": 0.35573760421364103,
+        "dot": 274.1217085368886,
+        "bnb": 0.4551930854538509,
         "ada": 0.0,
-        "chz": 55173.4306071263,
+        "chz": 45173.4306071263,
         "link": 0.0,
         "sand": 0.0,
         "xrp": 0.0,
@@ -18,27 +18,6 @@
         "pol": 0.0
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-09-22T22:58:41.733633+00:00",
-            "ticker": "linkbrl",
-            "acao": "COMPRAR",
-            "quantidade": 200.0,
-            "preco_estimado": 66.294
-        },
-        {
-            "timestamp": "2026-09-22T22:58:41.733635+00:00",
-            "ticker": "adabrl",
-            "acao": "VENDER",
-            "quantidade": 200.0,
-            "preco_estimado": 1.2885
-        },
-        {
-            "timestamp": "2026-09-23T18:31:23.201870+00:00",
-            "ticker": "solbrl",
-            "acao": "VENDER",
-            "quantidade": 0.1,
-            "preco_estimado": 591.08
-        },
         {
             "timestamp": "2026-09-23T18:31:23.201884+00:00",
             "ticker": "linkbrl",
@@ -367,10 +346,31 @@
             "acao": "VENDER",
             "quantidade": 709.9679955646939,
             "preco_estimado": 0.23515
+        },
+        {
+            "timestamp": "2026-09-26T15:12:46.004134+00:00",
+            "ticker": "dotbrl",
+            "acao": "VENDER",
+            "quantidade": 50.0,
+            "preco_estimado": 6.54
+        },
+        {
+            "timestamp": "2026-09-26T15:12:46.004149+00:00",
+            "ticker": "bnbbrl",
+            "acao": "COMPRAR",
+            "quantidade": 400.0,
+            "preco_estimado": 4021.9
+        },
+        {
+            "timestamp": "2026-09-26T15:12:46.004152+00:00",
+            "ticker": "chzbrl",
+            "acao": "VENDER",
+            "quantidade": 10000.0,
+            "preco_estimado": 0.08849
         }
     ],
-    "licoes_aprendidas": "Identificado um ciclo de exaustão generalizada em altcoins (LINK, ADA, SNX, XRP, POL, SAND) que atingiram simultaneamente a resistência de Fibonacci 1.0 e as Bandas Superiores de Bollinger. A decisão estratégica foi liquidar posições esticadas para converter em BRL e reforçar DOT, que apresenta a estrutura de alta mais sustentável (RSI moderado e tendência de SMA ascendente), mantendo a preservação de capital através de lucro realizado.",
-    "ultima_execucao": "2026-09-25T22:56:34.161966+00:00",
+    "licoes_aprendidas": "O mercado entrou em uma fase de teste de topos (Fibonacci 1.0) em múltiplos ativos simultaneamente (DOT, CHZ, LINK, ADA). A estratégia agora foca em realizar lucros parciais de ativos que atingiram a banda superior de Bollinger e a resistência de Fibonacci, enquanto realoca capital em BNB, que apresenta a estrutura de subida mais equilibrada e menos esticada.",
+    "ultima_execucao": "2026-09-26T15:12:46.004158+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
