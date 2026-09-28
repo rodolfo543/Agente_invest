@@ -1,16 +1,16 @@
 {
-    "saldo_anterior": 14220.7,
+    "saldo_anterior": 14058.74,
     "saldos_virtuais": {
-        "brl": 2882.522779913468,
+        "brl": 3437.642779913468,
         "btc": 0.0036714341331292,
         "eth": 0.07933000619245988,
         "sol": 0.0,
         "ltc": 0.0,
         "uni": 0.0,
-        "dot": 64.1217085368886,
+        "dot": 44.121708536888605,
         "bnb": 0.9259322872931178,
-        "ada": 0.0,
-        "chz": 40173.4306071263,
+        "ada": 307.5740099961553,
+        "chz": 30173.430607126298,
         "link": 0.0,
         "sand": 0.0,
         "xrp": 126.40129984641592,
@@ -18,27 +18,6 @@
         "pol": 0.0
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-09-24T18:31:49.654075+00:00",
-            "ticker": "linkbrl",
-            "acao": "VENDER",
-            "quantidade": 5.0,
-            "preco_estimado": 68.748
-        },
-        {
-            "timestamp": "2026-09-24T22:50:52.571299+00:00",
-            "ticker": "solbrl",
-            "acao": "VENDER",
-            "quantidade": 0.02,
-            "preco_estimado": 605.79
-        },
-        {
-            "timestamp": "2026-09-24T22:50:52.571314+00:00",
-            "ticker": "sandbrl",
-            "acao": "VENDER",
-            "quantidade": 500.0,
-            "preco_estimado": 0.22297
-        },
         {
             "timestamp": "2026-09-24T22:50:52.571317+00:00",
             "ticker": "adabrl",
@@ -367,10 +346,31 @@
             "acao": "COMPRAR",
             "quantidade": 300.0,
             "preco_estimado": 7.838
+        },
+        {
+            "timestamp": "2026-09-28T18:50:23.793143+00:00",
+            "ticker": "dotbrl",
+            "acao": "VENDER",
+            "quantidade": 20.0,
+            "preco_estimado": 6.196
+        },
+        {
+            "timestamp": "2026-09-28T18:50:23.793161+00:00",
+            "ticker": "chzbrl",
+            "acao": "VENDER",
+            "quantidade": 10000.0,
+            "preco_estimado": 0.08312
+        },
+        {
+            "timestamp": "2026-09-28T18:50:23.793164+00:00",
+            "ticker": "adabrl",
+            "acao": "COMPRAR",
+            "quantidade": 400.0,
+            "preco_estimado": 1.3005
         }
     ],
-    "licoes_aprendidas": "Identificada exaustão de compra em altcoins de alta volatilidade (LTC, SNX, POL) que atingiram a extensão 1.0 de Fibonacci. A estratégia agora foca em redistribuir a liquidez para ativos de maior capitalização (BTC, BNB, XRP) que mantêm momentum positivo (MACD e SMAs), mas com RSIs menos estressados, garantindo a preservação de capital através de vendas parciais de DOT.",
-    "ultima_execucao": "2026-09-27T22:39:16.299356+00:00",
+    "licoes_aprendidas": "Observada correlação de queda em altcoins de médio porte (DOT, CHZ), enquanto BTC e ETH mantêm estabilidade. A estratégia de preservação de capital foi aplicada reduzindo exposição em ativos com MACD enfraquecendo e RSI em queda, realocando parte da liquidez para ADA que apresenta estrutura de acumulação mais resiliente.",
+    "ultima_execucao": "2026-09-28T18:50:23.793173+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
