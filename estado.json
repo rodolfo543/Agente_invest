@@ -1,51 +1,23 @@
 {
-    "saldo_anterior": 14027.58,
+    "saldo_anterior": 13985.41,
     "saldos_virtuais": {
-        "brl": 1997.392779913468,
+        "brl": 1067.952779913468,
         "btc": 0.0036714341331292,
         "eth": 0.07933000619245988,
         "sol": 1.607861461379547,
         "ltc": 0.0,
         "uni": 6.495474819209284,
         "dot": 44.121708536888605,
-        "bnb": 0.9259322872931178,
-        "ada": 928.1255885085895,
-        "chz": 10173.430607126298,
+        "bnb": 1.0274293692520116,
+        "ada": 1243.9815581864164,
+        "chz": 8173.430607126298,
         "link": 0.0,
         "sand": 0.0,
         "xrp": 126.40129984641592,
-        "snx": 550.5508626156286,
+        "snx": 777.2568249824388,
         "pol": 489.64402879106893
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-09-25T16:02:33.054748+00:00",
-            "ticker": "bnbbrl",
-            "acao": "COMPRAR",
-            "quantidade": 300.0,
-            "preco_estimado": 4016.5
-        },
-        {
-            "timestamp": "2026-09-25T16:02:33.054751+00:00",
-            "ticker": "adabrl",
-            "acao": "VENDER",
-            "quantidade": 30.0,
-            "preco_estimado": 1.3188
-        },
-        {
-            "timestamp": "2026-09-25T16:02:33.054753+00:00",
-            "ticker": "snxbrl",
-            "acao": "VENDER",
-            "quantidade": 30.0,
-            "preco_estimado": 1.341
-        },
-        {
-            "timestamp": "2026-09-25T16:02:33.054755+00:00",
-            "ticker": "dotbrl",
-            "acao": "COMPRAR",
-            "quantidade": 300.0,
-            "preco_estimado": 6.119
-        },
         {
             "timestamp": "2026-09-25T18:48:25.219245+00:00",
             "ticker": "adabrl",
@@ -367,10 +339,38 @@
             "acao": "COMPRAR",
             "quantidade": 300.0,
             "preco_estimado": 46.186
+        },
+        {
+            "timestamp": "2026-09-29T17:07:29.770369+00:00",
+            "ticker": "chzbrl",
+            "acao": "VENDER",
+            "quantidade": 2000.0,
+            "preco_estimado": 0.08528
+        },
+        {
+            "timestamp": "2026-09-29T17:07:29.770387+00:00",
+            "ticker": "adabrl",
+            "acao": "COMPRAR",
+            "quantidade": 400.0,
+            "preco_estimado": 1.2664
+        },
+        {
+            "timestamp": "2026-09-29T17:07:29.770390+00:00",
+            "ticker": "snxbrl",
+            "acao": "COMPRAR",
+            "quantidade": 300.0,
+            "preco_estimado": 1.3233
+        },
+        {
+            "timestamp": "2026-09-29T17:07:29.770392+00:00",
+            "ticker": "bnbbrl",
+            "acao": "COMPRAR",
+            "quantidade": 400.0,
+            "preco_estimado": 3941.0
         }
     ],
-    "licoes_aprendidas": "A rodada evidencia a importância de não perseguir topos (LINK, LTC), onde o RSI > 70 sinaliza exaustão. A estratégia de Swing Trade agora foca em 'comprar a correção' (buy the dip) em ativos que mantêm a estrutura de alta acima da SMA 20 e Fibonacci 0.618 (SOL, ADA, SNX). A redução de CHZ visa aumentar a liquidez em BRL para aproveitar a volatilidade de ativos com fundamentos técnicos mais sólidos.",
-    "ultima_execucao": "2026-09-29T00:30:48.818278+00:00",
+    "licoes_aprendidas": "A rodada demonstra a eficácia de utilizar a SMA 20 e a Retração de Fibonacci 0.618 como âncoras para compras em correções (ADA, BNB). A redução de CHZ visa otimizar a liquidez em BRL, evitando a exposição excessiva em ativos de baixa capitalização quando as Large Caps (BTC, ETH) mostram sinais de exaustão momentânea (RSI > 60).",
+    "ultima_execucao": "2026-09-29T17:07:29.770397+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
