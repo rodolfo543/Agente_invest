@@ -1,7 +1,7 @@
 {
-    "saldo_anterior": 13944.43,
+    "saldo_anterior": 14165.28,
     "saldos_virtuais": {
-        "brl": 58.212779913468154,
+        "brl": 171.93727991346816,
         "btc": 0.0036714341331292,
         "eth": 0.07933000619245988,
         "sol": 1.007861461379547,
@@ -10,28 +10,14 @@
         "dot": 100.52950606740593,
         "bnb": 1.2291779042246243,
         "ada": 1243.9815581864164,
-        "chz": 8173.430607126298,
+        "chz": 7173.430607126298,
         "link": 5.2775019812913975,
         "sand": 0.0,
         "xrp": 126.40129984641592,
         "snx": 777.2568249824388,
-        "pol": 289.64402879106893
+        "pol": 239.64402879106893
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-09-25T22:56:34.161954+00:00",
-            "ticker": "xrpbrl",
-            "acao": "VENDER",
-            "quantidade": 52.79474083546236,
-            "preco_estimado": 8.157
-        },
-        {
-            "timestamp": "2026-09-25T22:56:34.161956+00:00",
-            "ticker": "polbrl",
-            "acao": "VENDER",
-            "quantidade": 778.2166825004433,
-            "preco_estimado": 0.60672
-        },
         {
             "timestamp": "2026-09-25T22:56:34.161958+00:00",
             "ticker": "sandbrl",
@@ -367,10 +353,24 @@
             "acao": "COMPRAR",
             "quantidade": 50.0,
             "preco_estimado": 6.358
+        },
+        {
+            "timestamp": "2026-10-01T17:35:42.423673+00:00",
+            "ticker": "chzbrl",
+            "acao": "VENDER",
+            "quantidade": 1000.0,
+            "preco_estimado": 0.08562
+        },
+        {
+            "timestamp": "2026-10-01T17:35:42.423687+00:00",
+            "ticker": "polbrl",
+            "acao": "VENDER",
+            "quantidade": 50.0,
+            "preco_estimado": 0.56209
         }
     ],
-    "licoes_aprendidas": "A rodada mostra uma tendência de correção leve nos majors (BTC/ETH), enquanto altcoins como DOT demonstram resiliência. O uso de Fibonacci 0.618 como suporte dinâmico confirmou-se eficaz para BNB e LINK. A redução de POL foi necessária devido ao rompimento da SMA 10, priorizando a preservação de capital.",
-    "ultima_execucao": "2026-09-30T19:32:47.704417+00:00",
+    "licoes_aprendidas": "A rodada indica que a maioria dos ativos entrou em zona de consolidação após alta. O capital em BRL está extremamente reduzido, limitando a capacidade de acumulação em níveis de Fibonacci chave (como em DOT e LINK). A estratégia agora foca em micro-realizações (CHZ e POL) para recompor o caixa reserva, priorizando a preservação de capital diante de sinais de perda de momentum no MACD dos majors.",
+    "ultima_execucao": "2026-10-01T17:35:42.423693+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
