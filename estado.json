@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 14287.17,
+    "saldo_anterior": 14020.91,
     "saldos_virtuais": {
         "brl": 37.99277991346816,
         "btc": 0.0036714341331292,
@@ -369,8 +369,8 @@
             "preco_estimado": 0.55971
         }
     ],
-    "licoes_aprendidas": "A maioria dos ativos principais (BTC, ADA, SOL) atingiu ou está testando a resistência de Fibonacci 1.0, sugerindo a necessidade de cautela. O RSI de SAND indica um 'pump' insustentável no curto prazo. Com saldo de BRL crítico (R$ 37,99), a estratégia agora é puramente de 'Hold' e monitoramento de correções para os níveis 0.382/0.5 de Fibonacci para rebalanceamento futuro.",
-    "ultima_execucao": "2026-10-02T16:54:52.352713+00:00",
+    "licoes_aprendidas": "O mercado apresenta sinais de exaustão no curto prazo, com BTC e SAND atingindo níveis críticos de Fibonacci e sobrecompra (RSI). Com o saldo de BRL extremamente baixo (R$ 37,99), a operação torna-se passiva. A estratégia agora é priorizar a preservação do capital, evitando novas compras até que ocorra uma correção para os níveis 0.382 ou 0.5 de Fibonacci nos ativos principais, ou que haja liquidação de ativos em Nível 4/5 para recompor o caixa.",
+    "ultima_execucao": "2026-10-02T23:25:11.427838+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
