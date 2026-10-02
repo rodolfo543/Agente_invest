@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 14153.78,
+    "saldo_anterior": 14287.17,
     "saldos_virtuais": {
         "brl": 37.99277991346816,
         "btc": 0.0036714341331292,
@@ -369,8 +369,8 @@
             "preco_estimado": 0.55971
         }
     ],
-    "licoes_aprendidas": "O mercado entrou em uma fase de exaustão de curto prazo, evidenciada pelos histogramas de MACD negativos em BTC, ETH e BNB, apesar dos preços estarem acima das médias móveis. A preservação de capital é prioritária agora que vários ativos (CHZ, SAND) atingiram seus níveis de Fibonacci 1.0. O saldo de BRL (R$ 37,99) é insuficiente para novas entradas significativas, reforçando a necessidade de manter as posições atuais e aguardar correções para níveis 0.382 ou 0.5 de Fibonacci para novas compras.",
-    "ultima_execucao": "2026-10-01T23:32:13.229514+00:00",
+    "licoes_aprendidas": "A maioria dos ativos principais (BTC, ADA, SOL) atingiu ou está testando a resistência de Fibonacci 1.0, sugerindo a necessidade de cautela. O RSI de SAND indica um 'pump' insustentável no curto prazo. Com saldo de BRL crítico (R$ 37,99), a estratégia agora é puramente de 'Hold' e monitoramento de correções para os níveis 0.382/0.5 de Fibonacci para rebalanceamento futuro.",
+    "ultima_execucao": "2026-10-02T16:54:52.352713+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
