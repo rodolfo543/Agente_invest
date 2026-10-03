@@ -1,58 +1,23 @@
 {
-    "saldo_anterior": 14362.38,
+    "saldo_anterior": 14325.84,
     "saldos_virtuais": {
-        "brl": 1049.9327799134683,
+        "brl": 1506.5527799134684,
         "btc": 0.0036714341331292,
         "eth": 0.07933000619245988,
         "sol": 1.007861461379547,
         "ltc": 0.0,
         "uni": 5.495474819209284,
-        "dot": 116.84005899515019,
-        "bnb": 1.0291779042246243,
+        "dot": 148.87593918095828,
+        "bnb": 0.8291779042246243,
         "ada": 1243.9815581864164,
-        "chz": 5173.430607126298,
-        "link": 6.10329036718379,
+        "chz": 3173.430607126298,
+        "link": 8.807601038393699,
         "sand": 0.0,
         "xrp": 126.40129984641592,
         "snx": 777.2568249824388,
-        "pol": 189.64402879106893
+        "pol": 450.7997298200224
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-09-26T17:53:35.077701+00:00",
-            "ticker": "chzbrl",
-            "acao": "VENDER",
-            "quantidade": 5000.0,
-            "preco_estimado": 0.08818
-        },
-        {
-            "timestamp": "2026-09-26T22:14:59.151431+00:00",
-            "ticker": "btcbrl",
-            "acao": "COMPRAR",
-            "quantidade": 500.0,
-            "preco_estimado": 437932.0
-        },
-        {
-            "timestamp": "2026-09-26T22:14:59.151445+00:00",
-            "ticker": "xrpbrl",
-            "acao": "COMPRAR",
-            "quantidade": 400.0,
-            "preco_estimado": 7.915
-        },
-        {
-            "timestamp": "2026-09-26T22:14:59.151448+00:00",
-            "ticker": "bnbbrl",
-            "acao": "COMPRAR",
-            "quantidade": 600.0,
-            "preco_estimado": 4020.7
-        },
-        {
-            "timestamp": "2026-09-26T22:14:59.151451+00:00",
-            "ticker": "dotbrl",
-            "acao": "VENDER",
-            "quantidade": 50.0,
-            "preco_estimado": 6.454
-        },
         {
             "timestamp": "2026-09-27T18:35:19.847967+00:00",
             "ticker": "btcbrl",
@@ -367,10 +332,45 @@
             "acao": "VENDER",
             "quantidade": 1000.0,
             "preco_estimado": 0.0917
+        },
+        {
+            "timestamp": "2026-10-03T22:30:49.762355+00:00",
+            "ticker": "linkbrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 73.956
+        },
+        {
+            "timestamp": "2026-10-03T22:30:49.762370+00:00",
+            "ticker": "bnbbrl",
+            "acao": "VENDER",
+            "quantidade": 0.2,
+            "preco_estimado": 4130.7
+        },
+        {
+            "timestamp": "2026-10-03T22:30:49.762373+00:00",
+            "ticker": "polbrl",
+            "acao": "COMPRAR",
+            "quantidade": 150.0,
+            "preco_estimado": 0.57437
+        },
+        {
+            "timestamp": "2026-10-03T22:30:49.762376+00:00",
+            "ticker": "chzbrl",
+            "acao": "VENDER",
+            "quantidade": 2000.0,
+            "preco_estimado": 0.09024
+        },
+        {
+            "timestamp": "2026-10-03T22:30:49.762378+00:00",
+            "ticker": "dotbrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 6.243
         }
     ],
-    "licoes_aprendidas": "O mercado apresenta sinais claros de exaustão nos ativos principais (BTC, BNB), com preços atingindo o topo de Fibonacci (1.0). A estratégia de preservação de capital exige a venda de ativos em sobrecompra (BNB e CHZ) para elevar a reserva de BRL, preparando a carteira para possíveis correções ou oportunidades de compra em níveis de retração (0.382 ou 0.5).",
-    "ultima_execucao": "2026-10-03T18:06:17.899270+00:00",
+    "licoes_aprendidas": "A maioria dos ativos principais (BTC, BNB, CHZ) atingiu a extensão 1.0 de Fibonacci, confirmando a tese de exaustão. A estratégia agora foca em realizar lucros em ativos sobrecomprados e realocar capital em ativos que respeitaram retrações (POL, DOT, LINK), mantendo a reserva de BRL para mitigar a volatilidade esperada no topo do ciclo.",
+    "ultima_execucao": "2026-10-03T22:30:49.762384+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
