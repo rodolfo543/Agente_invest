@@ -1,16 +1,16 @@
 {
-    "saldo_anterior": 14270.87,
+    "saldo_anterior": 14362.38,
     "saldos_virtuais": {
-        "brl": 128.07277991346817,
+        "brl": 1049.9327799134683,
         "btc": 0.0036714341331292,
         "eth": 0.07933000619245988,
         "sol": 1.007861461379547,
         "ltc": 0.0,
         "uni": 5.495474819209284,
         "dot": 116.84005899515019,
-        "bnb": 1.2291779042246243,
+        "bnb": 1.0291779042246243,
         "ada": 1243.9815581864164,
-        "chz": 6173.430607126298,
+        "chz": 5173.430607126298,
         "link": 6.10329036718379,
         "sand": 0.0,
         "xrp": 126.40129984641592,
@@ -18,20 +18,6 @@
         "pol": 189.64402879106893
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-09-26T17:53:35.077682+00:00",
-            "ticker": "dotbrl",
-            "acao": "VENDER",
-            "quantidade": 100.0,
-            "preco_estimado": 6.626
-        },
-        {
-            "timestamp": "2026-09-26T17:53:35.077697+00:00",
-            "ticker": "bnbbrl",
-            "acao": "COMPRAR",
-            "quantidade": 500.0,
-            "preco_estimado": 4031.7
-        },
         {
             "timestamp": "2026-09-26T17:53:35.077701+00:00",
             "ticker": "chzbrl",
@@ -367,10 +353,24 @@
             "acao": "VENDER",
             "quantidade": 1000.0,
             "preco_estimado": 0.09008
+        },
+        {
+            "timestamp": "2026-10-03T18:06:17.899246+00:00",
+            "ticker": "bnbbrl",
+            "acao": "VENDER",
+            "quantidade": 0.2,
+            "preco_estimado": 4150.8
+        },
+        {
+            "timestamp": "2026-10-03T18:06:17.899262+00:00",
+            "ticker": "chzbrl",
+            "acao": "VENDER",
+            "quantidade": 1000.0,
+            "preco_estimado": 0.0917
         }
     ],
-    "licoes_aprendidas": "A maioria dos ativos principais (BTC, BNB, SOL) atingiu o nível 1.0 de Fibonacci, indicando exaustão de tendência. Com BRL insuficiente, a única via de recomposição de caixa é a venda parcial de ativos em Nível 4. Realizada venda parcial de CHZ para aproveitar o toque na banda superior de Bollinger e nível de Fibonacci. Mantida a postura conservadora devido ao RSI elevado em diversos pares.",
-    "ultima_execucao": "2026-10-03T16:06:48.374376+00:00",
+    "licoes_aprendidas": "O mercado apresenta sinais claros de exaustão nos ativos principais (BTC, BNB), com preços atingindo o topo de Fibonacci (1.0). A estratégia de preservação de capital exige a venda de ativos em sobrecompra (BNB e CHZ) para elevar a reserva de BRL, preparando a carteira para possíveis correções ou oportunidades de compra em níveis de retração (0.382 ou 0.5).",
+    "ultima_execucao": "2026-10-03T18:06:17.899270+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
