@@ -1,7 +1,7 @@
 {
-    "saldo_anterior": 14020.91,
+    "saldo_anterior": 14270.87,
     "saldos_virtuais": {
-        "brl": 37.99277991346816,
+        "brl": 128.07277991346817,
         "btc": 0.0036714341331292,
         "eth": 0.07933000619245988,
         "sol": 1.007861461379547,
@@ -10,7 +10,7 @@
         "dot": 116.84005899515019,
         "bnb": 1.2291779042246243,
         "ada": 1243.9815581864164,
-        "chz": 7173.430607126298,
+        "chz": 6173.430607126298,
         "link": 6.10329036718379,
         "sand": 0.0,
         "xrp": 126.40129984641592,
@@ -18,13 +18,6 @@
         "pol": 189.64402879106893
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-09-26T15:12:46.004152+00:00",
-            "ticker": "chzbrl",
-            "acao": "VENDER",
-            "quantidade": 10000.0,
-            "preco_estimado": 0.08849
-        },
         {
             "timestamp": "2026-09-26T17:53:35.077682+00:00",
             "ticker": "dotbrl",
@@ -367,10 +360,17 @@
             "acao": "VENDER",
             "quantidade": 50.0,
             "preco_estimado": 0.55971
+        },
+        {
+            "timestamp": "2026-10-03T16:06:48.374358+00:00",
+            "ticker": "chzbrl",
+            "acao": "VENDER",
+            "quantidade": 1000.0,
+            "preco_estimado": 0.09008
         }
     ],
-    "licoes_aprendidas": "O mercado apresenta sinais de exaustão no curto prazo, com BTC e SAND atingindo níveis críticos de Fibonacci e sobrecompra (RSI). Com o saldo de BRL extremamente baixo (R$ 37,99), a operação torna-se passiva. A estratégia agora é priorizar a preservação do capital, evitando novas compras até que ocorra uma correção para os níveis 0.382 ou 0.5 de Fibonacci nos ativos principais, ou que haja liquidação de ativos em Nível 4/5 para recompor o caixa.",
-    "ultima_execucao": "2026-10-02T23:25:11.427838+00:00",
+    "licoes_aprendidas": "A maioria dos ativos principais (BTC, BNB, SOL) atingiu o nível 1.0 de Fibonacci, indicando exaustão de tendência. Com BRL insuficiente, a única via de recomposição de caixa é a venda parcial de ativos em Nível 4. Realizada venda parcial de CHZ para aproveitar o toque na banda superior de Bollinger e nível de Fibonacci. Mantida a postura conservadora devido ao RSI elevado em diversos pares.",
+    "ultima_execucao": "2026-10-03T16:06:48.374376+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
