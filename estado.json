@@ -1,7 +1,7 @@
 {
-    "saldo_anterior": 13911.88,
+    "saldo_anterior": 14005.07,
     "saldos_virtuais": {
-        "brl": 1.4861277991346924,
+        "brl": 272.7061277991347,
         "btc": 0.0036714341331292,
         "eth": 0.09405548642718403,
         "sol": 1.3057041430921257,
@@ -9,7 +9,7 @@
         "uni": 5.495474819209284,
         "dot": 196.38940132856678,
         "bnb": 0.7291779042246244,
-        "ada": 1243.9815581864164,
+        "ada": 1043.9815581864164,
         "chz": 3173.430607126298,
         "link": 17.148773199872792,
         "sand": 0.0,
@@ -18,13 +18,6 @@
         "pol": 1246.179500973734
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-09-28T18:50:23.793164+00:00",
-            "ticker": "adabrl",
-            "acao": "COMPRAR",
-            "quantidade": 400.0,
-            "preco_estimado": 1.3005
-        },
         {
             "timestamp": "2026-09-28T20:39:54.404287+00:00",
             "ticker": "solbrl",
@@ -367,10 +360,17 @@
             "acao": "COMPRAR",
             "quantidade": 147.12665211433387,
             "preco_estimado": 0.54537
+        },
+        {
+            "timestamp": "2026-10-05T21:35:21.851790+00:00",
+            "ticker": "adabrl",
+            "acao": "VENDER",
+            "quantidade": 200.0,
+            "preco_estimado": 1.3561
         }
     ],
-    "licoes_aprendidas": "O mercado entrou em uma fase de correção generalizada, levando a maioria dos ativos a testarem seus níveis de Retração de Fibonacci (especialmente 0.5 e 0.618). A estratégia de preservação de capital foi eficaz, permitindo o uso do caixa BRL para aproveitar a queda em ativos fundamentais como ETH e SOL que retornaram às suas SMAs de 20 dias. A volatilidade de SAND alerta para o risco de ativos de menor capitalização em correções de mercado.",
-    "ultima_execucao": "2026-10-05T19:54:57.971622+00:00",
+    "licoes_aprendidas": "O mercado apresenta uma correção generalizada onde a maioria dos ativos está buscando suporte nos níveis de Fibonacci 0.5 e 0.618. A estratégia de manter caixa BRL foi vital, pois evita a compra em topos. ADA mostrou força relativa, tornando-se candidata a realização parcial (Reduzir) para capturar lucro antes de nova correção. Ativos com volatilidade excessiva, como SAND, devem ser evitados em fases de instabilidade.",
+    "ultima_execucao": "2026-10-05T21:35:21.851807+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
