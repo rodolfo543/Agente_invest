@@ -1,58 +1,23 @@
 {
-    "saldo_anterior": 14427.45,
+    "saldo_anterior": 13911.88,
     "saldos_virtuais": {
-        "brl": 1148.6127799134686,
+        "brl": 1.4861277991346924,
         "btc": 0.0036714341331292,
-        "eth": 0.07933000619245988,
-        "sol": 0.807861461379547,
+        "eth": 0.09405548642718403,
+        "sol": 1.3057041430921257,
         "ltc": 0.0,
         "uni": 5.495474819209284,
         "dot": 196.38940132856678,
         "bnb": 0.7291779042246244,
         "ada": 1243.9815581864164,
         "chz": 3173.430607126298,
-        "link": 12.84615577427222,
+        "link": 17.148773199872792,
         "sand": 0.0,
         "xrp": 126.40129984641592,
-        "snx": 777.2568249824388,
-        "pol": 976.405490459159
+        "snx": 936.7464581562825,
+        "pol": 1246.179500973734
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-09-27T22:39:16.299344+00:00",
-            "ticker": "dotbrl",
-            "acao": "VENDER",
-            "quantidade": 40.0,
-            "preco_estimado": 6.512
-        },
-        {
-            "timestamp": "2026-09-27T22:39:16.299347+00:00",
-            "ticker": "bnbbrl",
-            "acao": "COMPRAR",
-            "quantidade": 400.0,
-            "preco_estimado": 4050.6
-        },
-        {
-            "timestamp": "2026-09-27T22:39:16.299350+00:00",
-            "ticker": "xrpbrl",
-            "acao": "COMPRAR",
-            "quantidade": 300.0,
-            "preco_estimado": 7.838
-        },
-        {
-            "timestamp": "2026-09-28T18:50:23.793143+00:00",
-            "ticker": "dotbrl",
-            "acao": "VENDER",
-            "quantidade": 20.0,
-            "preco_estimado": 6.196
-        },
-        {
-            "timestamp": "2026-09-28T18:50:23.793161+00:00",
-            "ticker": "chzbrl",
-            "acao": "VENDER",
-            "quantidade": 10000.0,
-            "preco_estimado": 0.08312
-        },
         {
             "timestamp": "2026-09-28T18:50:23.793164+00:00",
             "ticker": "adabrl",
@@ -367,10 +332,45 @@
             "acao": "COMPRAR",
             "quantidade": 300.0,
             "preco_estimado": 6.314
+        },
+        {
+            "timestamp": "2026-10-05T19:54:57.971591+00:00",
+            "ticker": "ethbrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 13581.9
+        },
+        {
+            "timestamp": "2026-10-05T19:54:57.971606+00:00",
+            "ticker": "solbrl",
+            "acao": "COMPRAR",
+            "quantidade": 300.0,
+            "preco_estimado": 602.6
+        },
+        {
+            "timestamp": "2026-10-05T19:54:57.971610+00:00",
+            "ticker": "snxbrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 1.254
+        },
+        {
+            "timestamp": "2026-10-05T19:54:57.971613+00:00",
+            "ticker": "linkbrl",
+            "acao": "COMPRAR",
+            "quantidade": 300.0,
+            "preco_estimado": 69.725
+        },
+        {
+            "timestamp": "2026-10-05T19:54:57.971615+00:00",
+            "ticker": "polbrl",
+            "acao": "COMPRAR",
+            "quantidade": 147.12665211433387,
+            "preco_estimado": 0.54537
         }
     ],
-    "licoes_aprendidas": "A maioria dos ativos de alta capitalização (BTC, BNB, SOL) atingiu o teto de Fibonacci (1.0), sugerindo exaustão do movimento atual. A estratégia agora migra para a realização parcial de lucros em SOL e BNB para reforçar o caixa BRL e realocar em ativos com RSI moderado e suporte técnico em retrações (POL, DOT, LINK), mantendo a cautela com a volatilidade no topo do ciclo.",
-    "ultima_execucao": "2026-10-04T16:03:01.333204+00:00",
+    "licoes_aprendidas": "O mercado entrou em uma fase de correção generalizada, levando a maioria dos ativos a testarem seus níveis de Retração de Fibonacci (especialmente 0.5 e 0.618). A estratégia de preservação de capital foi eficaz, permitindo o uso do caixa BRL para aproveitar a queda em ativos fundamentais como ETH e SOL que retornaram às suas SMAs de 20 dias. A volatilidade de SAND alerta para o risco de ativos de menor capitalização em correções de mercado.",
+    "ultima_execucao": "2026-10-05T19:54:57.971622+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
