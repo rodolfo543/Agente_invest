@@ -1,15 +1,15 @@
 {
-    "saldo_anterior": 13828.03,
+    "saldo_anterior": 13829.96,
     "saldos_virtuais": {
-        "brl": 140.9161277991347,
+        "brl": 310.6161277991347,
         "btc": 0.0036714341331292,
-        "eth": 0.10148363763463002,
+        "eth": 0.10893736859966456,
         "sol": 1.472090725678106,
         "ltc": 0.0,
         "uni": 5.495474819209284,
         "dot": 196.38940132856678,
         "bnb": 0.7291779042246244,
-        "ada": 943.9815581864164,
+        "ada": 743.9815581864164,
         "chz": 3173.430607126298,
         "link": 17.148773199872792,
         "sand": 0.0,
@@ -18,20 +18,6 @@
         "pol": 1372.6246551546421
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-09-28T20:39:54.404312+00:00",
-            "ticker": "snxbrl",
-            "acao": "COMPRAR",
-            "quantidade": 300.0,
-            "preco_estimado": 1.2614
-        },
-        {
-            "timestamp": "2026-09-29T00:30:48.818248+00:00",
-            "ticker": "solbrl",
-            "acao": "COMPRAR",
-            "quantidade": 500.0,
-            "preco_estimado": 621.21
-        },
         {
             "timestamp": "2026-09-29T00:30:48.818263+00:00",
             "ticker": "chzbrl",
@@ -367,10 +353,24 @@
             "acao": "VENDER",
             "quantidade": 100.0,
             "preco_estimado": 1.3591
+        },
+        {
+            "timestamp": "2026-10-06T19:39:15.104860+00:00",
+            "ticker": "ethbrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 13416.1
+        },
+        {
+            "timestamp": "2026-10-06T19:39:15.104876+00:00",
+            "ticker": "adabrl",
+            "acao": "VENDER",
+            "quantidade": 200.0,
+            "preco_estimado": 1.3485
         }
     ],
-    "licoes_aprendidas": "A rodada mostra que ativos como ADA atingiram resistências críticas de Fibonacci (nível 1.0), validando a estratégia de 'Reduzir' em topos. A maioria do mercado está em fase de consolidação neutra (RSI ~50), onde a preservação de caixa BRL é fundamental. Ativos que testam a região 0.382 - 0.5 de Fibonacci com RSI neutro/baixo (como POL e ETH) apresentam a melhor relação risco/retorno para Swing Trade.",
-    "ultima_execucao": "2026-10-06T17:31:02.555646+00:00",
+    "licoes_aprendidas": "A rodada atual confirma a tendência de correção generalizada, com a maioria dos ativos testando os níveis de retração de 0.5 de Fibonacci. A estratégia de reduzir ADA no topo (Nível 1.0) foi mantida para liberar capital e mitigar riscos. O ETH apresenta a melhor oportunidade de acumulação técnica no momento, enquanto a preservação de caixa BRL continua sendo a prioridade diante de histogramas de MACD negativos na maioria dos pares principais.",
+    "ultima_execucao": "2026-10-06T19:39:15.104882+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
