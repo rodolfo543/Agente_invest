@@ -1,58 +1,23 @@
 {
-    "saldo_anterior": 13829.96,
+    "saldo_anterior": 13857.13,
     "saldos_virtuais": {
-        "brl": 310.6161277991347,
+        "brl": 198.87412779913467,
         "btc": 0.0036714341331292,
-        "eth": 0.10893736859966456,
+        "eth": 0.1200550679770734,
         "sol": 1.472090725678106,
         "ltc": 0.0,
         "uni": 5.495474819209284,
-        "dot": 196.38940132856678,
-        "bnb": 0.7291779042246244,
-        "ada": 743.9815581864164,
+        "dot": 213.02556835568373,
+        "bnb": 0.7419607241146922,
+        "ada": 643.9815581864164,
         "chz": 3173.430607126298,
         "link": 17.148773199872792,
         "sand": 0.0,
         "xrp": 126.40129984641592,
         "snx": 936.7464581562825,
-        "pol": 1372.6246551546421
+        "pol": 1272.6246551546421
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-09-29T00:30:48.818263+00:00",
-            "ticker": "chzbrl",
-            "acao": "VENDER",
-            "quantidade": 5000.0,
-            "preco_estimado": 0.08331
-        },
-        {
-            "timestamp": "2026-09-29T00:30:48.818266+00:00",
-            "ticker": "adabrl",
-            "acao": "COMPRAR",
-            "quantidade": 400.0,
-            "preco_estimado": 1.2948
-        },
-        {
-            "timestamp": "2026-09-29T00:30:48.818269+00:00",
-            "ticker": "snxbrl",
-            "acao": "COMPRAR",
-            "quantidade": 400.0,
-            "preco_estimado": 1.2791
-        },
-        {
-            "timestamp": "2026-09-29T00:30:48.818271+00:00",
-            "ticker": "unibrl",
-            "acao": "COMPRAR",
-            "quantidade": 300.0,
-            "preco_estimado": 46.186
-        },
-        {
-            "timestamp": "2026-09-29T17:07:29.770369+00:00",
-            "ticker": "chzbrl",
-            "acao": "VENDER",
-            "quantidade": 2000.0,
-            "preco_estimado": 0.08528
-        },
         {
             "timestamp": "2026-09-29T17:07:29.770387+00:00",
             "ticker": "adabrl",
@@ -367,10 +332,45 @@
             "acao": "VENDER",
             "quantidade": 200.0,
             "preco_estimado": 1.3485
+        },
+        {
+            "timestamp": "2026-10-06T23:54:34.626074+00:00",
+            "ticker": "ethbrl",
+            "acao": "COMPRAR",
+            "quantidade": 150.0,
+            "preco_estimado": 13492.0
+        },
+        {
+            "timestamp": "2026-10-06T23:54:34.626089+00:00",
+            "ticker": "dotbrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 6.011
+        },
+        {
+            "timestamp": "2026-10-06T23:54:34.626091+00:00",
+            "ticker": "bnbbrl",
+            "acao": "COMPRAR",
+            "quantidade": 50.0,
+            "preco_estimado": 3911.5
+        },
+        {
+            "timestamp": "2026-10-06T23:54:34.626094+00:00",
+            "ticker": "polbrl",
+            "acao": "VENDER",
+            "quantidade": 100.0,
+            "preco_estimado": 0.53948
+        },
+        {
+            "timestamp": "2026-10-06T23:54:34.626095+00:00",
+            "ticker": "adabrl",
+            "acao": "VENDER",
+            "quantidade": 100.0,
+            "preco_estimado": 1.3431
         }
     ],
-    "licoes_aprendidas": "A rodada atual confirma a tendência de correção generalizada, com a maioria dos ativos testando os níveis de retração de 0.5 de Fibonacci. A estratégia de reduzir ADA no topo (Nível 1.0) foi mantida para liberar capital e mitigar riscos. O ETH apresenta a melhor oportunidade de acumulação técnica no momento, enquanto a preservação de caixa BRL continua sendo a prioridade diante de histogramas de MACD negativos na maioria dos pares principais.",
-    "ultima_execucao": "2026-10-06T19:39:15.104882+00:00",
+    "licoes_aprendidas": "A rodada demonstra a eficácia dos níveis de Fibonacci 0.5 e 0.618 como suportes psicológicos e técnicos em correções. O mercado apresenta um viés pessimista no curto prazo (MACD histogramas negativos na maioria dos pares), exigindo cautela. A estratégia de redução de ADA e POL visa liberar BRL para aproveitar a zona de acumulação do ETH, mantendo a preservação de capital.",
+    "ultima_execucao": "2026-10-06T23:54:34.626101+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
