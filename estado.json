@@ -1,51 +1,23 @@
 {
-    "saldo_anterior": 14005.07,
+    "saldo_anterior": 13828.03,
     "saldos_virtuais": {
-        "brl": 272.7061277991347,
+        "brl": 140.9161277991347,
         "btc": 0.0036714341331292,
-        "eth": 0.09405548642718403,
-        "sol": 1.3057041430921257,
+        "eth": 0.10148363763463002,
+        "sol": 1.472090725678106,
         "ltc": 0.0,
         "uni": 5.495474819209284,
         "dot": 196.38940132856678,
         "bnb": 0.7291779042246244,
-        "ada": 1043.9815581864164,
+        "ada": 943.9815581864164,
         "chz": 3173.430607126298,
         "link": 17.148773199872792,
         "sand": 0.0,
         "xrp": 126.40129984641592,
         "snx": 936.7464581562825,
-        "pol": 1246.179500973734
+        "pol": 1372.6246551546421
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-09-28T20:39:54.404287+00:00",
-            "ticker": "solbrl",
-            "acao": "COMPRAR",
-            "quantidade": 500.0,
-            "preco_estimado": 622.68
-        },
-        {
-            "timestamp": "2026-09-28T20:39:54.404303+00:00",
-            "ticker": "polbrl",
-            "acao": "COMPRAR",
-            "quantidade": 300.0,
-            "preco_estimado": 0.61269
-        },
-        {
-            "timestamp": "2026-09-28T20:39:54.404307+00:00",
-            "ticker": "adabrl",
-            "acao": "COMPRAR",
-            "quantidade": 400.0,
-            "preco_estimado": 1.2836
-        },
-        {
-            "timestamp": "2026-09-28T20:39:54.404309+00:00",
-            "ticker": "chzbrl",
-            "acao": "VENDER",
-            "quantidade": 15000.0,
-            "preco_estimado": 0.08288
-        },
         {
             "timestamp": "2026-09-28T20:39:54.404312+00:00",
             "ticker": "snxbrl",
@@ -367,10 +339,38 @@
             "acao": "VENDER",
             "quantidade": 200.0,
             "preco_estimado": 1.3561
+        },
+        {
+            "timestamp": "2026-10-06T17:31:02.555620+00:00",
+            "ticker": "ethbrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 13462.3
+        },
+        {
+            "timestamp": "2026-10-06T17:31:02.555636+00:00",
+            "ticker": "solbrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 601.01
+        },
+        {
+            "timestamp": "2026-10-06T17:31:02.555638+00:00",
+            "ticker": "polbrl",
+            "acao": "COMPRAR",
+            "quantidade": 67.7,
+            "preco_estimado": 0.53541
+        },
+        {
+            "timestamp": "2026-10-06T17:31:02.555640+00:00",
+            "ticker": "adabrl",
+            "acao": "VENDER",
+            "quantidade": 100.0,
+            "preco_estimado": 1.3591
         }
     ],
-    "licoes_aprendidas": "O mercado apresenta uma correção generalizada onde a maioria dos ativos está buscando suporte nos níveis de Fibonacci 0.5 e 0.618. A estratégia de manter caixa BRL foi vital, pois evita a compra em topos. ADA mostrou força relativa, tornando-se candidata a realização parcial (Reduzir) para capturar lucro antes de nova correção. Ativos com volatilidade excessiva, como SAND, devem ser evitados em fases de instabilidade.",
-    "ultima_execucao": "2026-10-05T21:35:21.851807+00:00",
+    "licoes_aprendidas": "A rodada mostra que ativos como ADA atingiram resistências críticas de Fibonacci (nível 1.0), validando a estratégia de 'Reduzir' em topos. A maioria do mercado está em fase de consolidação neutra (RSI ~50), onde a preservação de caixa BRL é fundamental. Ativos que testam a região 0.382 - 0.5 de Fibonacci com RSI neutro/baixo (como POL e ETH) apresentam a melhor relação risco/retorno para Swing Trade.",
+    "ultima_execucao": "2026-10-06T17:31:02.555646+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
