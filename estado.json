@@ -1,9 +1,9 @@
 {
-    "saldo_anterior": 13857.13,
+    "saldo_anterior": 13328.07,
     "saldos_virtuais": {
-        "brl": 198.87412779913467,
+        "brl": 98.87412779913467,
         "btc": 0.0036714341331292,
-        "eth": 0.1200550679770734,
+        "eth": 0.12779776274456028,
         "sol": 1.472090725678106,
         "ltc": 0.0,
         "uni": 5.495474819209284,
@@ -18,13 +18,6 @@
         "pol": 1272.6246551546421
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-09-29T17:07:29.770387+00:00",
-            "ticker": "adabrl",
-            "acao": "COMPRAR",
-            "quantidade": 400.0,
-            "preco_estimado": 1.2664
-        },
         {
             "timestamp": "2026-09-29T17:07:29.770390+00:00",
             "ticker": "snxbrl",
@@ -367,10 +360,17 @@
             "acao": "VENDER",
             "quantidade": 100.0,
             "preco_estimado": 1.3431
+        },
+        {
+            "timestamp": "2026-10-07T20:04:11.589419+00:00",
+            "ticker": "ethbrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 12915.4
         }
     ],
-    "licoes_aprendidas": "A rodada demonstra a eficácia dos níveis de Fibonacci 0.5 e 0.618 como suportes psicológicos e técnicos em correções. O mercado apresenta um viés pessimista no curto prazo (MACD histogramas negativos na maioria dos pares), exigindo cautela. A estratégia de redução de ADA e POL visa liberar BRL para aproveitar a zona de acumulação do ETH, mantendo a preservação de capital.",
-    "ultima_execucao": "2026-10-06T23:54:34.626101+00:00",
+    "licoes_aprendidas": "O mercado entrou em uma fase de correção generalizada, com a maioria dos ativos testando níveis de Fibonacci entre 0.236 e 0.5. A preservação de capital foi crucial, permitindo a alocação fracionada em ETH, que apresenta a melhor relação risco/retorno no momento por estar abaixo da banda inferior de Bollinger e com RSI próximo a 40. A volatilidade de SAND alerta para a periculosidade de entradas tardias em ralis parabólicos.",
+    "ultima_execucao": "2026-10-07T20:04:11.589439+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
