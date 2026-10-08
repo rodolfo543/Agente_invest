@@ -1,9 +1,9 @@
 {
-    "saldo_anterior": 12423.77,
+    "saldo_anterior": 12713.11,
     "saldos_virtuais": {
-        "brl": 48.87412779913467,
+        "brl": 8.87412779913467,
         "btc": 0.0036714341331292,
-        "eth": 0.13191970632339658,
+        "eth": 0.13514065537603495,
         "sol": 1.472090725678106,
         "ltc": 0.0,
         "uni": 5.495474819209284,
@@ -18,13 +18,6 @@
         "pol": 1272.6246551546421
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-09-29T17:07:29.770392+00:00",
-            "ticker": "bnbbrl",
-            "acao": "COMPRAR",
-            "quantidade": 400.0,
-            "preco_estimado": 3941.0
-        },
         {
             "timestamp": "2026-09-29T19:32:29.035405+00:00",
             "ticker": "solbrl",
@@ -367,10 +360,17 @@
             "acao": "COMPRAR",
             "quantidade": 50.0,
             "preco_estimado": 12130.2
+        },
+        {
+            "timestamp": "2026-10-08T20:02:17.916835+00:00",
+            "ticker": "ethbrl",
+            "acao": "COMPRAR",
+            "quantidade": 40.0,
+            "preco_estimado": 12418.7
         }
     ],
-    "licoes_aprendidas": "O mercado entrou em um 'capitulation event' generalizado, com a maioria dos ativos atingindo ou rompendo o suporte de Fibonacci 0.236. ETH tornou-se a prioridade de compra por atingir o nível 0.0 com RSI próximo a 30. A estratégia de preservação de capital foi validada, mantendo liquidez para comprar ativos em níveis de suporte crítico (0.0 - 0.236), enquanto evitamos SAND devido à volatilidade anômala.",
-    "ultima_execucao": "2026-10-08T18:04:22.995849+00:00",
+    "licoes_aprendidas": "O mercado global de cripto continua em tendência de baixa, com a maioria dos ativos testando os níveis 0.0 e 0.236 de Fibonacci. ETH e BNB apresentam as melhores oportunidades de 'bottom fishing' devido ao RSI baixo e suporte histórico. A preservação de capital foi mantida, utilizando apenas uma fração do saldo BRL para reforçar ETH no nível crítico de suporte, mantendo liquidez para possíveis novas quedas.",
+    "ultima_execucao": "2026-10-08T20:02:17.916853+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
