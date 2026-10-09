@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 12909.24,
+    "saldo_anterior": 13095.31,
     "saldos_virtuais": {
         "brl": 8.87412779913467,
         "btc": 0.0036714341331292,
@@ -369,8 +369,8 @@
             "preco_estimado": 12418.7
         }
     ],
-    "licoes_aprendidas": "A maioria dos ativos atingiu zonas de suporte crítico (Fibonacci 0.0 a 0.236) e RSI em níveis de sobrevenda, caracterizando cenários de Nível 1 e 2. No entanto, o saldo de BRL (R$ 8,87) é insuficiente para qualquer operação de compra significativa. A estratégia agora é de Hold rigoroso para preservar o capital investido, evitando vendas em fundos técnicos, enquanto aguardamos a recuperação do caixa via vendas apenas em resistências de Fibonacci ou sinais claros de tendência de baixa persistente.",
-    "ultima_execucao": "2026-10-09T20:19:35.388423+00:00",
+    "licoes_aprendidas": "O mercado entrou em uma fase de correção generalizada, levando a maioria dos ativos para zonas de suporte de Fibonacci (0.236 a 0.500) e RSI próximo ou abaixo de 40. Tecnicamente, a carteira está em posição de 'desconto', o que seria ideal para acumulação (Níveis 1 e 2). Contudo, a ausência de liquidez em BRL (R$ 8,87) impede novas entradas. A estratégia permanece em Hold rigoroso para evitar a realização de prejuízo em fundos técnicos, aguardando a reversão da tendência para recomposição de caixa.",
+    "ultima_execucao": "2026-10-09T23:40:00.910536+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
