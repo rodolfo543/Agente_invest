@@ -1,7 +1,7 @@
 {
-    "saldo_anterior": 13298.55,
+    "saldo_anterior": 13280.43,
     "saldos_virtuais": {
-        "brl": 8.87412779913467,
+        "brl": 149.70112779913467,
         "btc": 0.0036714341331292,
         "eth": 0.13514065537603495,
         "sol": 1.472090725678106,
@@ -10,28 +10,14 @@
         "dot": 213.02556835568373,
         "bnb": 0.7419607241146922,
         "ada": 643.9815581864164,
-        "chz": 3173.430607126298,
+        "chz": 2673.430607126298,
         "link": 17.148773199872792,
         "sand": 0.0,
         "xrp": 126.40129984641592,
         "snx": 936.7464581562825,
-        "pol": 1272.6246551546421
+        "pol": 1072.6246551546421
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-09-29T19:32:29.035405+00:00",
-            "ticker": "solbrl",
-            "acao": "VENDER",
-            "quantidade": 0.3,
-            "preco_estimado": 622.69
-        },
-        {
-            "timestamp": "2026-09-29T19:32:29.035420+00:00",
-            "ticker": "polbrl",
-            "acao": "VENDER",
-            "quantidade": 100.0,
-            "preco_estimado": 0.61649
-        },
         {
             "timestamp": "2026-09-29T19:32:29.035424+00:00",
             "ticker": "linkbrl",
@@ -367,10 +353,24 @@
             "acao": "COMPRAR",
             "quantidade": 40.0,
             "preco_estimado": 12418.7
+        },
+        {
+            "timestamp": "2026-10-10T23:05:47.503896+00:00",
+            "ticker": "polbrl",
+            "acao": "VENDER",
+            "quantidade": 200.0,
+            "preco_estimado": 0.51031
+        },
+        {
+            "timestamp": "2026-10-10T23:05:47.503911+00:00",
+            "ticker": "chzbrl",
+            "acao": "VENDER",
+            "quantidade": 500.0,
+            "preco_estimado": 0.07753
         }
     ],
-    "licoes_aprendidas": "O mercado apresenta uma correção generalizada, com a maioria dos ativos testando as Bandas de Bollinger inferiores e retrações de Fibonacci entre 0.236 e 0.382. Tecnicamente, é um cenário de acumulação, mas a ausência de liquidez em BRL (R$ 8,87) impede novas entradas. O foco permanece na preservação do capital e no Hold, aguardando o cruzamento do MACD para confirmar a reversão de tendência antes de qualquer venda parcial para recomposição de caixa.",
-    "ultima_execucao": "2026-10-10T18:47:36.553847+00:00",
+    "licoes_aprendidas": "A carteira encontra-se severamente descapitalizada em BRL (R$ 8,87), impedindo a execução de compras em ativos tecnicamente atraentes (ETH, SOL). Foi necessária a venda estratégica de POL e CHZ, que apresentam fraqueza técnica e rompimento de suportes de Fibonacci, para recompor o caixa reserva e permitir futuras entradas em Nível 1 ou 2.",
+    "ultima_execucao": "2026-10-10T23:05:47.503918+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
