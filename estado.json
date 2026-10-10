@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 13322.5,
+    "saldo_anterior": 13298.55,
     "saldos_virtuais": {
         "brl": 8.87412779913467,
         "btc": 0.0036714341331292,
@@ -369,8 +369,8 @@
             "preco_estimado": 12418.7
         }
     ],
-    "licoes_aprendidas": "A maioria dos ativos atingiu zonas críticas de suporte (Bandas de Bollinger Inferiores e retrações de Fibonacci entre 0.236 e 0.500). Tecnicamente, o portfólio está posicionado em níveis de 'desconto'. A impossibilidade de operar COMPRAR devido ao saldo BRL residual (R$ 8,87) reforça a importância de manter um caixa reserva maior para aproveitar correções profundas. A estratégia atual é de Hold rigoroso, aguardando a confirmação de reversão via MACD e RSI para posterior realização de lucro e recomposição de liquidez.",
-    "ultima_execucao": "2026-10-10T16:29:31.098535+00:00",
+    "licoes_aprendidas": "O mercado apresenta uma correção generalizada, com a maioria dos ativos testando as Bandas de Bollinger inferiores e retrações de Fibonacci entre 0.236 e 0.382. Tecnicamente, é um cenário de acumulação, mas a ausência de liquidez em BRL (R$ 8,87) impede novas entradas. O foco permanece na preservação do capital e no Hold, aguardando o cruzamento do MACD para confirmar a reversão de tendência antes de qualquer venda parcial para recomposição de caixa.",
+    "ultima_execucao": "2026-10-10T18:47:36.553847+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
