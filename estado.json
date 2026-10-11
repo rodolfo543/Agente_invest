@@ -1,51 +1,23 @@
 {
-    "saldo_anterior": 13280.43,
+    "saldo_anterior": 13444.3,
     "saldos_virtuais": {
-        "brl": 149.70112779913467,
+        "brl": 144.45912779913468,
         "btc": 0.0036714341331292,
-        "eth": 0.13514065537603495,
-        "sol": 1.472090725678106,
+        "eth": 0.14294650820448573,
+        "sol": 1.5600553274480176,
         "ltc": 0.0,
         "uni": 5.495474819209284,
         "dot": 213.02556835568373,
         "bnb": 0.7419607241146922,
         "ada": 643.9815581864164,
-        "chz": 2673.430607126298,
+        "chz": 2173.430607126298,
         "link": 17.148773199872792,
         "sand": 0.0,
         "xrp": 126.40129984641592,
         "snx": 936.7464581562825,
-        "pol": 1072.6246551546421
+        "pol": 872.6246551546421
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-09-29T19:32:29.035424+00:00",
-            "ticker": "linkbrl",
-            "acao": "COMPRAR",
-            "quantidade": 300.0,
-            "preco_estimado": 76.431
-        },
-        {
-            "timestamp": "2026-09-29T19:32:29.035426+00:00",
-            "ticker": "dotbrl",
-            "acao": "COMPRAR",
-            "quantidade": 300.0,
-            "preco_estimado": 6.18
-        },
-        {
-            "timestamp": "2026-09-29T19:32:29.035429+00:00",
-            "ticker": "bnbbrl",
-            "acao": "COMPRAR",
-            "quantidade": 400.0,
-            "preco_estimado": 3943.8
-        },
-        {
-            "timestamp": "2026-09-30T17:05:19.949382+00:00",
-            "ticker": "solbrl",
-            "acao": "VENDER",
-            "quantidade": 0.3,
-            "preco_estimado": 623.83
-        },
         {
             "timestamp": "2026-09-30T17:05:19.949398+00:00",
             "ticker": "bnbbrl",
@@ -367,10 +339,38 @@
             "acao": "VENDER",
             "quantidade": 500.0,
             "preco_estimado": 0.07753
+        },
+        {
+            "timestamp": "2026-10-11T16:53:42.404657+00:00",
+            "ticker": "ethbrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 12810.9
+        },
+        {
+            "timestamp": "2026-10-11T16:53:42.404673+00:00",
+            "ticker": "solbrl",
+            "acao": "COMPRAR",
+            "quantidade": 49.7,
+            "preco_estimado": 565.0
+        },
+        {
+            "timestamp": "2026-10-11T16:53:42.404675+00:00",
+            "ticker": "polbrl",
+            "acao": "VENDER",
+            "quantidade": 200.0,
+            "preco_estimado": 0.52419
+        },
+        {
+            "timestamp": "2026-10-11T16:53:42.404677+00:00",
+            "ticker": "chzbrl",
+            "acao": "VENDER",
+            "quantidade": 500.0,
+            "preco_estimado": 0.07924
         }
     ],
-    "licoes_aprendidas": "A carteira encontra-se severamente descapitalizada em BRL (R$ 8,87), impedindo a execução de compras em ativos tecnicamente atraentes (ETH, SOL). Foi necessária a venda estratégica de POL e CHZ, que apresentam fraqueza técnica e rompimento de suportes de Fibonacci, para recompor o caixa reserva e permitir futuras entradas em Nível 1 ou 2.",
-    "ultima_execucao": "2026-10-10T23:05:47.503918+00:00",
+    "licoes_aprendidas": "A estratégia de recomposição de caixa via venda de POL e CHZ foi eficaz, permitindo novas entradas em ETH e SOL em zonas de suporte de Fibonacci. Observa-se que a maioria dos altcoins está testando retrações entre 0.236 e 0.500, sugerindo um mercado em fase de correção/estabilização. A prioridade continua sendo a preservação de capital, evitando compras em ativos com MACD descendente forte, mesmo em suportes.",
+    "ultima_execucao": "2026-10-11T16:53:42.404684+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
