@@ -1,51 +1,23 @@
 {
-    "saldo_anterior": 13041.91,
+    "saldo_anterior": 13047.38,
     "saldos_virtuais": {
-        "brl": 205.34612779913473,
+        "brl": 66.03612779913473,
         "btc": 0.00414905519812865,
-        "eth": 0.17871308701333097,
-        "sol": 2.1991565951404697,
+        "eth": 0.18665299776873406,
+        "sol": 2.3949376563801312,
         "ltc": 0.0,
         "uni": 6.593169660043532,
         "dot": 193.02556835568373,
         "bnb": 0.6419607241146922,
         "ada": 543.9815581864164,
-        "chz": 573.4306071262981,
+        "chz": 373.4306071262981,
         "link": 17.148773199872792,
         "sand": 0.0,
         "xrp": 126.40129984641592,
         "snx": 836.7464581562825,
-        "pol": 372.62465515464214
+        "pol": 272.62465515464214
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-10-05T19:54:57.971591+00:00",
-            "ticker": "ethbrl",
-            "acao": "COMPRAR",
-            "quantidade": 200.0,
-            "preco_estimado": 13581.9
-        },
-        {
-            "timestamp": "2026-10-05T19:54:57.971606+00:00",
-            "ticker": "solbrl",
-            "acao": "COMPRAR",
-            "quantidade": 300.0,
-            "preco_estimado": 602.6
-        },
-        {
-            "timestamp": "2026-10-05T19:54:57.971610+00:00",
-            "ticker": "snxbrl",
-            "acao": "COMPRAR",
-            "quantidade": 200.0,
-            "preco_estimado": 1.254
-        },
-        {
-            "timestamp": "2026-10-05T19:54:57.971613+00:00",
-            "ticker": "linkbrl",
-            "acao": "COMPRAR",
-            "quantidade": 300.0,
-            "preco_estimado": 69.725
-        },
         {
             "timestamp": "2026-10-05T19:54:57.971615+00:00",
             "ticker": "polbrl",
@@ -367,10 +339,38 @@
             "acao": "VENDER",
             "quantidade": 200.0,
             "preco_estimado": 0.07452
+        },
+        {
+            "timestamp": "2026-10-13T23:30:40.641898+00:00",
+            "ticker": "ethbrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 12594.6
+        },
+        {
+            "timestamp": "2026-10-13T23:30:40.641912+00:00",
+            "ticker": "solbrl",
+            "acao": "COMPRAR",
+            "quantidade": 105.34,
+            "preco_estimado": 538.05
+        },
+        {
+            "timestamp": "2026-10-13T23:30:40.641915+00:00",
+            "ticker": "chzbrl",
+            "acao": "VENDER",
+            "quantidade": 200.0,
+            "preco_estimado": 0.07401
+        },
+        {
+            "timestamp": "2026-10-13T23:30:40.641918+00:00",
+            "ticker": "polbrl",
+            "acao": "VENDER",
+            "quantidade": 100.0,
+            "preco_estimado": 0.51228
         }
     ],
-    "licoes_aprendidas": "A priorização de Blue Chips (BTC, ETH, SOL) em zonas de sobrevenda (RSI < 45) e proximidade com a banda inferior de Bollinger continua sendo a estratégia mais segura. A saída gradual de ativos com fraqueza estrutural (POL, CHZ) libera liquidez para aproveitar retrações de Fibonacci em ativos de alta capitalização, otimizando a relação risco-retorno do portfólio.",
-    "ultima_execucao": "2026-10-13T20:19:17.914733+00:00",
+    "licoes_aprendidas": "A rodada confirma a eficácia de comprar Blue Chips (ETH, SOL) quando o RSI cai abaixo de 41 e o preço toca a banda inferior de Bollinger simultaneamente a suportes de Fibonacci. A liquidez gerada pela venda de ativos fracos (CHZ, POL) está sendo realocada em ativos de maior capitalização em zonas de desconto, mantendo a preservação do capital enquanto se busca a reversão de tendência.",
+    "ultima_execucao": "2026-10-13T23:30:40.641924+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
