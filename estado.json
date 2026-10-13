@@ -1,58 +1,23 @@
 {
-    "saldo_anterior": 13047.2,
+    "saldo_anterior": 12802.96,
     "saldos_virtuais": {
-        "brl": 137.81712779913465,
+        "brl": 471.06412779913467,
         "btc": 0.0036714341331292,
-        "eth": 0.15084527757621763,
-        "sol": 1.6416029901764244,
+        "eth": 0.15490124999560517,
+        "sol": 1.7364796505179805,
         "ltc": 0.0,
         "uni": 6.593169660043532,
         "dot": 213.02556835568373,
-        "bnb": 0.7419607241146922,
+        "bnb": 0.6419607241146922,
         "ada": 643.9815581864164,
-        "chz": 1173.4306071262981,
+        "chz": 973.4306071262981,
         "link": 17.148773199872792,
         "sand": 0.0,
         "xrp": 126.40129984641592,
         "snx": 936.7464581562825,
-        "pol": 672.6246551546421
+        "pol": 572.6246551546421
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-10-01T17:35:42.423687+00:00",
-            "ticker": "polbrl",
-            "acao": "VENDER",
-            "quantidade": 50.0,
-            "preco_estimado": 0.56209
-        },
-        {
-            "timestamp": "2026-10-01T19:41:29.498289+00:00",
-            "ticker": "dotbrl",
-            "acao": "COMPRAR",
-            "quantidade": 100.0,
-            "preco_estimado": 6.131
-        },
-        {
-            "timestamp": "2026-10-01T19:41:29.498305+00:00",
-            "ticker": "linkbrl",
-            "acao": "COMPRAR",
-            "quantidade": 61.93,
-            "preco_estimado": 74.995
-        },
-        {
-            "timestamp": "2026-10-01T19:41:29.498308+00:00",
-            "ticker": "polbrl",
-            "acao": "VENDER",
-            "quantidade": 50.0,
-            "preco_estimado": 0.55971
-        },
-        {
-            "timestamp": "2026-10-03T16:06:48.374358+00:00",
-            "ticker": "chzbrl",
-            "acao": "VENDER",
-            "quantidade": 1000.0,
-            "preco_estimado": 0.09008
-        },
         {
             "timestamp": "2026-10-03T18:06:17.899246+00:00",
             "ticker": "bnbbrl",
@@ -367,10 +332,45 @@
             "acao": "VENDER",
             "quantidade": 100.0,
             "preco_estimado": 0.50747
+        },
+        {
+            "timestamp": "2026-10-13T01:42:35.797886+00:00",
+            "ticker": "ethbrl",
+            "acao": "COMPRAR",
+            "quantidade": 50.0,
+            "preco_estimado": 12327.5
+        },
+        {
+            "timestamp": "2026-10-13T01:42:35.797899+00:00",
+            "ticker": "solbrl",
+            "acao": "COMPRAR",
+            "quantidade": 50.0,
+            "preco_estimado": 527.0
+        },
+        {
+            "timestamp": "2026-10-13T01:42:35.797903+00:00",
+            "ticker": "bnbbrl",
+            "acao": "VENDER",
+            "quantidade": 0.1,
+            "preco_estimado": 3686.0
+        },
+        {
+            "timestamp": "2026-10-13T01:42:35.797906+00:00",
+            "ticker": "chzbrl",
+            "acao": "VENDER",
+            "quantidade": 200.0,
+            "preco_estimado": 0.0726
+        },
+        {
+            "timestamp": "2026-10-13T01:42:35.797908+00:00",
+            "ticker": "polbrl",
+            "acao": "VENDER",
+            "quantidade": 100.0,
+            "preco_estimado": 0.50127
         }
     ],
-    "licoes_aprendidas": "O mercado entrou em uma fase de teste de suportes históricos (Fibonacci 0.0 a 0.236) para a maioria dos ativos. A correlação negativa permanece alta. A estratégia agora foca em liquidar frações de ativos com momentum descendente (POL, CHZ) para manter liquidez e reforçar Blue Chips (ETH, SOL) que estão em zonas de sobrevenda técnica (RSI < 40), priorizando a preservação de capital sobre a especulação em altcoins de baixa volatilidade.",
-    "ultima_execucao": "2026-10-12T22:17:39.336929+00:00",
+    "licoes_aprendidas": "A rodada confirma a tendência de 'capitulação' em altcoins de menor capitalização (POL, CHZ), enquanto Blue Chips (ETH, SOL) mostram sinais de exaustão de venda ao tocarem a Banda de Bollinger inferior e níveis 0.0-0.236 de Fibonacci. A estratégia de converter ativos em queda livre para reforçar posições em ativos de alta qualidade em zonas de sobrevenda (RSI < 40) é a via mais segura para a recuperação do portfólio.",
+    "ultima_execucao": "2026-10-13T01:42:35.797915+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
