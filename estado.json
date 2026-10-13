@@ -1,58 +1,23 @@
 {
-    "saldo_anterior": 12977.92,
+    "saldo_anterior": 13041.91,
     "saldos_virtuais": {
-        "brl": 589.3591277991347,
-        "btc": 0.0036714341331292,
-        "eth": 0.16682361157698722,
-        "sol": 2.013954261591067,
+        "brl": 205.34612779913473,
+        "btc": 0.00414905519812865,
+        "eth": 0.17871308701333097,
+        "sol": 2.1991565951404697,
         "ltc": 0.0,
         "uni": 6.593169660043532,
         "dot": 193.02556835568373,
         "bnb": 0.6419607241146922,
         "ada": 543.9815581864164,
-        "chz": 773.4306071262981,
+        "chz": 573.4306071262981,
         "link": 17.148773199872792,
         "sand": 0.0,
         "xrp": 126.40129984641592,
         "snx": 836.7464581562825,
-        "pol": 472.62465515464214
+        "pol": 372.62465515464214
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-10-04T16:03:01.333168+00:00",
-            "ticker": "solbrl",
-            "acao": "VENDER",
-            "quantidade": 0.2,
-            "preco_estimado": 637.15
-        },
-        {
-            "timestamp": "2026-10-04T16:03:01.333186+00:00",
-            "ticker": "polbrl",
-            "acao": "COMPRAR",
-            "quantidade": 300.0,
-            "preco_estimado": 0.57077
-        },
-        {
-            "timestamp": "2026-10-04T16:03:01.333189+00:00",
-            "ticker": "linkbrl",
-            "acao": "COMPRAR",
-            "quantidade": 300.0,
-            "preco_estimado": 74.284
-        },
-        {
-            "timestamp": "2026-10-04T16:03:01.333192+00:00",
-            "ticker": "bnbbrl",
-            "acao": "VENDER",
-            "quantidade": 0.1,
-            "preco_estimado": 4146.3
-        },
-        {
-            "timestamp": "2026-10-04T16:03:01.333194+00:00",
-            "ticker": "dotbrl",
-            "acao": "COMPRAR",
-            "quantidade": 300.0,
-            "preco_estimado": 6.314
-        },
         {
             "timestamp": "2026-10-05T19:54:57.971591+00:00",
             "ticker": "ethbrl",
@@ -367,10 +332,45 @@
             "acao": "VENDER",
             "quantidade": 100.0,
             "preco_estimado": 1.1845
+        },
+        {
+            "timestamp": "2026-10-13T20:19:17.914707+00:00",
+            "ticker": "btcbrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 418742.0
+        },
+        {
+            "timestamp": "2026-10-13T20:19:17.914720+00:00",
+            "ticker": "ethbrl",
+            "acao": "COMPRAR",
+            "quantidade": 150.0,
+            "preco_estimado": 12616.2
+        },
+        {
+            "timestamp": "2026-10-13T20:19:17.914723+00:00",
+            "ticker": "solbrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 539.95
+        },
+        {
+            "timestamp": "2026-10-13T20:19:17.914725+00:00",
+            "ticker": "polbrl",
+            "acao": "VENDER",
+            "quantidade": 100.0,
+            "preco_estimado": 0.51083
+        },
+        {
+            "timestamp": "2026-10-13T20:19:17.914727+00:00",
+            "ticker": "chzbrl",
+            "acao": "VENDER",
+            "quantidade": 200.0,
+            "preco_estimado": 0.07452
         }
     ],
-    "licoes_aprendidas": "A estratégia de rotação de capital de altcoins fracas (POL, CHZ, SNX) para Blue Chips em zonas de sobrevenda (ETH, SOL) continua sendo a prioridade. A observação dos níveis de Fibonacci 0.236 e a Banda de Bollinger inferior tem sido eficaz para identificar pontos de entrada de baixo risco em ativos de alta qualidade.",
-    "ultima_execucao": "2026-10-13T18:35:02.112906+00:00",
+    "licoes_aprendidas": "A priorização de Blue Chips (BTC, ETH, SOL) em zonas de sobrevenda (RSI < 45) e proximidade com a banda inferior de Bollinger continua sendo a estratégia mais segura. A saída gradual de ativos com fraqueza estrutural (POL, CHZ) libera liquidez para aproveitar retrações de Fibonacci em ativos de alta capitalização, otimizando a relação risco-retorno do portfólio.",
+    "ultima_execucao": "2026-10-13T20:19:17.914733+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
