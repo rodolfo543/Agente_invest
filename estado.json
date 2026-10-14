@@ -1,7 +1,7 @@
 {
-    "saldo_anterior": 13047.38,
+    "saldo_anterior": 12711.0,
     "saldos_virtuais": {
-        "brl": 66.03612779913473,
+        "brl": 128.99212779913472,
         "btc": 0.00414905519812865,
         "eth": 0.18665299776873406,
         "sol": 2.3949376563801312,
@@ -10,28 +10,14 @@
         "dot": 193.02556835568373,
         "bnb": 0.6419607241146922,
         "ada": 543.9815581864164,
-        "chz": 373.4306071262981,
+        "chz": 173.43060712629813,
         "link": 17.148773199872792,
         "sand": 0.0,
         "xrp": 126.40129984641592,
         "snx": 836.7464581562825,
-        "pol": 272.62465515464214
+        "pol": 172.62465515464214
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-10-05T19:54:57.971615+00:00",
-            "ticker": "polbrl",
-            "acao": "COMPRAR",
-            "quantidade": 147.12665211433387,
-            "preco_estimado": 0.54537
-        },
-        {
-            "timestamp": "2026-10-05T21:35:21.851790+00:00",
-            "ticker": "adabrl",
-            "acao": "VENDER",
-            "quantidade": 200.0,
-            "preco_estimado": 1.3561
-        },
         {
             "timestamp": "2026-10-06T17:31:02.555620+00:00",
             "ticker": "ethbrl",
@@ -367,10 +353,24 @@
             "acao": "VENDER",
             "quantidade": 100.0,
             "preco_estimado": 0.51228
+        },
+        {
+            "timestamp": "2026-10-14T16:02:39.972748+00:00",
+            "ticker": "polbrl",
+            "acao": "VENDER",
+            "quantidade": 100.0,
+            "preco_estimado": 0.48608
+        },
+        {
+            "timestamp": "2026-10-14T16:02:39.972764+00:00",
+            "ticker": "chzbrl",
+            "acao": "VENDER",
+            "quantidade": 200.0,
+            "preco_estimado": 0.07174
         }
     ],
-    "licoes_aprendidas": "A rodada confirma a eficácia de comprar Blue Chips (ETH, SOL) quando o RSI cai abaixo de 41 e o preço toca a banda inferior de Bollinger simultaneamente a suportes de Fibonacci. A liquidez gerada pela venda de ativos fracos (CHZ, POL) está sendo realocada em ativos de maior capitalização em zonas de desconto, mantendo a preservação do capital enquanto se busca a reversão de tendência.",
-    "ultima_execucao": "2026-10-13T23:30:40.641924+00:00",
+    "licoes_aprendidas": "O mercado apresenta uma correção generalizada, levando Blue Chips (ETH, SOL, BNB) a níveis críticos de suporte (Fibonacci 0.0 e Bandas Inferiores). A estratégia de preservar caixa (BRL) foi correta, permitindo a manutenção de posições em ativos de alta qualidade enquanto se reduz a exposição a altcoins de baixa performance (POL, CHZ) que não mostram sinais de reversão técnica apesar da queda.",
+    "ultima_execucao": "2026-10-14T16:02:39.972769+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
