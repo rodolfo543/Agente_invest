@@ -1,65 +1,23 @@
 {
-    "saldo_anterior": 12660.81,
+    "saldo_anterior": 12761.75,
     "saldos_virtuais": {
-        "brl": 262.1106277991347,
+        "brl": 177.1350720631347,
         "btc": 0.00414905519812865,
-        "eth": 0.1907495116354335,
-        "sol": 2.490441342822428,
+        "eth": 0.19886599946881822,
+        "sol": 2.6771652714938874,
         "ltc": 0.0,
         "uni": 6.593169660043532,
         "dot": 193.02556835568373,
-        "bnb": 0.6498549593351263,
+        "bnb": 0.6666600676984478,
         "ada": 443.98155818641635,
-        "chz": 73.43060712629813,
+        "chz": 7.126298129378483e-06,
         "link": 17.148773199872792,
         "sand": 0.0,
         "xrp": 126.40129984641592,
-        "snx": 736.7464581562825,
-        "pol": 122.62465515464214
+        "snx": 636.7464581562825,
+        "pol": 5.515464214056465e-05
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-10-06T23:54:34.626089+00:00",
-            "ticker": "dotbrl",
-            "acao": "COMPRAR",
-            "quantidade": 100.0,
-            "preco_estimado": 6.011
-        },
-        {
-            "timestamp": "2026-10-06T23:54:34.626091+00:00",
-            "ticker": "bnbbrl",
-            "acao": "COMPRAR",
-            "quantidade": 50.0,
-            "preco_estimado": 3911.5
-        },
-        {
-            "timestamp": "2026-10-06T23:54:34.626094+00:00",
-            "ticker": "polbrl",
-            "acao": "VENDER",
-            "quantidade": 100.0,
-            "preco_estimado": 0.53948
-        },
-        {
-            "timestamp": "2026-10-06T23:54:34.626095+00:00",
-            "ticker": "adabrl",
-            "acao": "VENDER",
-            "quantidade": 100.0,
-            "preco_estimado": 1.3431
-        },
-        {
-            "timestamp": "2026-10-07T20:04:11.589419+00:00",
-            "ticker": "ethbrl",
-            "acao": "COMPRAR",
-            "quantidade": 100.0,
-            "preco_estimado": 12915.4
-        },
-        {
-            "timestamp": "2026-10-08T18:04:22.995830+00:00",
-            "ticker": "ethbrl",
-            "acao": "COMPRAR",
-            "quantidade": 50.0,
-            "preco_estimado": 12130.2
-        },
         {
             "timestamp": "2026-10-08T20:02:17.916835+00:00",
             "ticker": "ethbrl",
@@ -367,10 +325,52 @@
             "acao": "VENDER",
             "quantidade": 50.0,
             "preco_estimado": 0.48241
+        },
+        {
+            "timestamp": "2026-10-15T15:51:35.468292+00:00",
+            "ticker": "ethbrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 12320.6
+        },
+        {
+            "timestamp": "2026-10-15T15:51:35.468305+00:00",
+            "ticker": "solbrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 535.55
+        },
+        {
+            "timestamp": "2026-10-15T15:51:35.468309+00:00",
+            "ticker": "bnbbrl",
+            "acao": "COMPRAR",
+            "quantidade": 62.11,
+            "preco_estimado": 3695.9
+        },
+        {
+            "timestamp": "2026-10-15T15:51:35.468312+00:00",
+            "ticker": "snxbrl",
+            "acao": "VENDER",
+            "quantidade": 100.0,
+            "preco_estimado": 1.1276
+        },
+        {
+            "timestamp": "2026-10-15T15:51:35.468314+00:00",
+            "ticker": "chzbrl",
+            "acao": "VENDER",
+            "quantidade": 73.4306,
+            "preco_estimado": 0.07171
+        },
+        {
+            "timestamp": "2026-10-15T15:51:35.468316+00:00",
+            "ticker": "polbrl",
+            "acao": "VENDER",
+            "quantidade": 122.6246,
+            "preco_estimado": 0.48203
         }
     ],
-    "licoes_aprendidas": "O mercado entrou em fase de capitulação técnica, com a maioria dos ativos testando os níveis 0.0 de Fibonacci de 30 dias. A estratégia de priorizar Blue Chips (ETH, BNB) em níveis de desconto extremo enquanto se liquida altcoins de baixa performance (POL, CHZ) é essencial para evitar a erosão do capital. O uso conjunto de Bandas de Bollinger e Fibonacci permitiu identificar zonas de exaustão de venda.",
-    "ultima_execucao": "2026-10-14T18:47:20.417423+00:00",
+    "licoes_aprendidas": "A rodada confirma a importância de liquidar ativos de baixa correlação e tendência descendente (POL, CHZ) para concentrar liquidez em Blue Chips (ETH, SOL, BNB) quando estas atingem níveis críticos de Fibonacci (0.0 - 0.236). A estratégia de 'caixa reserva' foi utilizada para compras fracionadas em zonas de sobrevenda do RSI (<40) e toque na banda inferior de Bollinger.",
+    "ultima_execucao": "2026-10-15T15:51:35.468323+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
