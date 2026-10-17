@@ -1,72 +1,23 @@
 {
-    "saldo_anterior": 12750.59,
+    "saldo_anterior": 12705.23,
     "saldos_virtuais": {
-        "brl": 893.3950991837708,
-        "btc": 0.00511196631508343,
-        "eth": 0.2471946580692752,
-        "sol": 3.706218974048835,
+        "brl": 839.1400991837708,
+        "btc": 0.0055941170932747855,
+        "eth": 0.26339121953927513,
+        "sol": 4.0827604406778475,
         "ltc": 0.0,
         "uni": 6.593169660043532,
         "dot": 173.02556835568373,
-        "bnb": 0.4666600676984478,
-        "ada": 143.98155818641635,
+        "bnb": 0.36666006769844783,
+        "ada": 93.98155818641635,
         "chz": 0.0,
         "link": 17.148773199872792,
         "sand": 0.0,
-        "xrp": 36.401299846415924,
-        "snx": 236.74645815628253,
+        "xrp": 26.401299846415924,
+        "snx": 186.74645815628253,
         "pol": 0.0
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-10-13T20:19:17.914723+00:00",
-            "ticker": "solbrl",
-            "acao": "COMPRAR",
-            "quantidade": 100.0,
-            "preco_estimado": 539.95
-        },
-        {
-            "timestamp": "2026-10-13T20:19:17.914725+00:00",
-            "ticker": "polbrl",
-            "acao": "VENDER",
-            "quantidade": 100.0,
-            "preco_estimado": 0.51083
-        },
-        {
-            "timestamp": "2026-10-13T20:19:17.914727+00:00",
-            "ticker": "chzbrl",
-            "acao": "VENDER",
-            "quantidade": 200.0,
-            "preco_estimado": 0.07452
-        },
-        {
-            "timestamp": "2026-10-13T23:30:40.641898+00:00",
-            "ticker": "ethbrl",
-            "acao": "COMPRAR",
-            "quantidade": 100.0,
-            "preco_estimado": 12594.6
-        },
-        {
-            "timestamp": "2026-10-13T23:30:40.641912+00:00",
-            "ticker": "solbrl",
-            "acao": "COMPRAR",
-            "quantidade": 105.34,
-            "preco_estimado": 538.05
-        },
-        {
-            "timestamp": "2026-10-13T23:30:40.641915+00:00",
-            "ticker": "chzbrl",
-            "acao": "VENDER",
-            "quantidade": 200.0,
-            "preco_estimado": 0.07401
-        },
-        {
-            "timestamp": "2026-10-13T23:30:40.641918+00:00",
-            "ticker": "polbrl",
-            "acao": "VENDER",
-            "quantidade": 100.0,
-            "preco_estimado": 0.51228
-        },
         {
             "timestamp": "2026-10-14T16:02:39.972748+00:00",
             "ticker": "polbrl",
@@ -367,10 +318,59 @@
             "acao": "VENDER",
             "quantidade": 0.1,
             "preco_estimado": 3670.2
+        },
+        {
+            "timestamp": "2026-10-17T14:31:37.419694+00:00",
+            "ticker": "btcbrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 414808.0
+        },
+        {
+            "timestamp": "2026-10-17T14:31:37.419708+00:00",
+            "ticker": "ethbrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 12348.3
+        },
+        {
+            "timestamp": "2026-10-17T14:31:37.419711+00:00",
+            "ticker": "solbrl",
+            "acao": "COMPRAR",
+            "quantidade": 200.0,
+            "preco_estimado": 531.15
+        },
+        {
+            "timestamp": "2026-10-17T14:31:37.419713+00:00",
+            "ticker": "bnbbrl",
+            "acao": "VENDER",
+            "quantidade": 0.1,
+            "preco_estimado": 3672.7
+        },
+        {
+            "timestamp": "2026-10-17T14:31:37.419716+00:00",
+            "ticker": "adabrl",
+            "acao": "VENDER",
+            "quantidade": 50.0,
+            "preco_estimado": 1.1289
+        },
+        {
+            "timestamp": "2026-10-17T14:31:37.419718+00:00",
+            "ticker": "xrpbrl",
+            "acao": "VENDER",
+            "quantidade": 10.0,
+            "preco_estimado": 6.624
+        },
+        {
+            "timestamp": "2026-10-17T14:31:37.419720+00:00",
+            "ticker": "snxbrl",
+            "acao": "VENDER",
+            "quantidade": 50.0,
+            "preco_estimado": 1.1158
         }
     ],
-    "licoes_aprendidas": "A correlação negativa generalizada reforça a tese de refúgio em Blue Chips (BTC, ETH, SOL) quando estas atingem os níveis 0.0 a 0.382 de Fibonacci. Ativos de maior volatilidade (SNX, BNB) estão demonstrando incapacidade de sustentar suportes, justificando a redução de exposição para preservação de capital em BRL.",
-    "ultima_execucao": "2026-10-16T22:19:58.478346+00:00",
+    "licoes_aprendidas": "O mercado apresenta uma correção generalizada, levando a maioria dos ativos a testarem o nível 0.0 de Fibonacci. A estratégia de focar em Blue Chips (BTC, ETH, SOL) em níveis de suporte extremo é validada, enquanto altcoins de maior volatilidade (ADA, SNX, XRP) falham em sustentar suportes, exigindo a liquidação parcial para aumentar a reserva de BRL e mitigar riscos.",
+    "ultima_execucao": "2026-10-17T14:31:37.419728+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
