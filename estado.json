@@ -1,13 +1,13 @@
 {
-    "saldo_anterior": 12458.69,
+    "saldo_anterior": 12465.61,
     "saldos_virtuais": {
-        "brl": 8.544197183770748,
+        "brl": 281.2441971837707,
         "btc": 0.006441955193794379,
         "eth": 0.2906905624468791,
         "sol": 4.463720078004273,
         "ltc": 0.0,
         "uni": 6.593169660043532,
-        "dot": 173.02556835568373,
+        "dot": 123.02556835568373,
         "bnb": 0.3942105539645304,
         "ada": 50.00155818641635,
         "chz": 0.0,
@@ -18,13 +18,6 @@
         "pol": 0.0
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-10-15T18:28:28.850658+00:00",
-            "ticker": "ethbrl",
-            "acao": "COMPRAR",
-            "quantidade": 50.0,
-            "preco_estimado": 12366.9
-        },
         {
             "timestamp": "2026-10-15T18:28:28.850673+00:00",
             "ticker": "solbrl",
@@ -367,10 +360,17 @@
             "acao": "COMPRAR",
             "quantidade": 50.0,
             "preco_estimado": 12079.9
+        },
+        {
+            "timestamp": "2026-10-18T17:51:09.168519+00:00",
+            "ticker": "dotbrl",
+            "acao": "VENDER",
+            "quantidade": 50.0,
+            "preco_estimado": 5.454
         }
     ],
-    "licoes_aprendidas": "O mercado entrou em um estado de capitulação generalizada, com a maioria dos ativos atingindo simultaneamente o nível 0.0 de Fibonacci de 30 dias. A estratégia agora é a compra fracionada em suportes históricos para capturar o 'dead cat bounce' ou a reversão de tendência, mantendo a cautela com o saldo de BRL para evitar exposição total em um mercado de alta volatilidade.",
-    "ultima_execucao": "2026-10-18T14:59:08.328300+00:00",
+    "licoes_aprendidas": "O mercado atingiu um ponto de exaustão extrema, com a maioria dos ativos tocando o nível 0.0 de Fibonacci de 30 dias simultaneamente. O saldo em BRL está criticamente baixo (R$ 8,54), impossibilitando novas compras. A prioridade agora é a preservação do capital restante e a venda parcial de ativos em tendência de baixa clara (como DOT) para recompor o caixa reserva e permitir novas entradas em ativos com RSI mais próximo de 30.",
+    "ultima_execucao": "2026-10-18T17:51:09.168536+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
