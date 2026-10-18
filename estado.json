@@ -1,58 +1,23 @@
 {
-    "saldo_anterior": 12465.61,
+    "saldo_anterior": 12443.24,
     "saldos_virtuais": {
-        "brl": 281.2441971837707,
-        "btc": 0.006441955193794379,
-        "eth": 0.2906905624468791,
-        "sol": 4.463720078004273,
+        "brl": 214.93419718377072,
+        "btc": 0.006684110570370205,
+        "eth": 0.2989783818387189,
+        "sol": 4.62030014122222,
         "ltc": 0.0,
         "uni": 6.593169660043532,
-        "dot": 123.02556835568373,
+        "dot": 93.02556835568373,
         "bnb": 0.3942105539645304,
         "ada": 50.00155818641635,
         "chz": 0.0,
         "link": 18.80180237583775,
         "sand": 0.0,
         "xrp": 10.001299846415924,
-        "snx": 100.00645815628252,
+        "snx": 50.00645815628252,
         "pol": 0.0
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-10-15T18:28:28.850673+00:00",
-            "ticker": "solbrl",
-            "acao": "COMPRAR",
-            "quantidade": 50.0,
-            "preco_estimado": 534.47
-        },
-        {
-            "timestamp": "2026-10-15T18:28:28.850676+00:00",
-            "ticker": "adabrl",
-            "acao": "VENDER",
-            "quantidade": 100.0,
-            "preco_estimado": 1.1702
-        },
-        {
-            "timestamp": "2026-10-15T18:28:28.850679+00:00",
-            "ticker": "dotbrl",
-            "acao": "VENDER",
-            "quantidade": 20.0,
-            "preco_estimado": 5.734
-        },
-        {
-            "timestamp": "2026-10-15T18:28:28.850681+00:00",
-            "ticker": "snxbrl",
-            "acao": "VENDER",
-            "quantidade": 100.0,
-            "preco_estimado": 1.1411
-        },
-        {
-            "timestamp": "2026-10-15T18:28:28.850684+00:00",
-            "ticker": "polbrl",
-            "acao": "VENDER",
-            "quantidade": 5e-05,
-            "preco_estimado": 0.48158
-        },
         {
             "timestamp": "2026-10-15T18:28:28.850686+00:00",
             "ticker": "chzbrl",
@@ -367,10 +332,45 @@
             "acao": "VENDER",
             "quantidade": 50.0,
             "preco_estimado": 5.454
+        },
+        {
+            "timestamp": "2026-10-18T22:01:04.562209+00:00",
+            "ticker": "btcbrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 412958.0
+        },
+        {
+            "timestamp": "2026-10-18T22:01:04.562224+00:00",
+            "ticker": "ethbrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 12065.9
+        },
+        {
+            "timestamp": "2026-10-18T22:01:04.562227+00:00",
+            "ticker": "solbrl",
+            "acao": "COMPRAR",
+            "quantidade": 81.24,
+            "preco_estimado": 518.84
+        },
+        {
+            "timestamp": "2026-10-18T22:01:04.562230+00:00",
+            "ticker": "snxbrl",
+            "acao": "VENDER",
+            "quantidade": 50.0,
+            "preco_estimado": 1.0412
+        },
+        {
+            "timestamp": "2026-10-18T22:01:04.562233+00:00",
+            "ticker": "dotbrl",
+            "acao": "VENDER",
+            "quantidade": 30.0,
+            "preco_estimado": 5.429
         }
     ],
-    "licoes_aprendidas": "O mercado atingiu um ponto de exaustão extrema, com a maioria dos ativos tocando o nível 0.0 de Fibonacci de 30 dias simultaneamente. O saldo em BRL está criticamente baixo (R$ 8,54), impossibilitando novas compras. A prioridade agora é a preservação do capital restante e a venda parcial de ativos em tendência de baixa clara (como DOT) para recompor o caixa reserva e permitir novas entradas em ativos com RSI mais próximo de 30.",
-    "ultima_execucao": "2026-10-18T17:51:09.168536+00:00",
+    "licoes_aprendidas": "O mercado entrou em uma zona de suporte crítico (Fibonacci 0.0) para quase todos os ativos principais. Estratégia de alocação focada nos 'Blue Chips' (BTC, ETH, SOL) devido ao RSIต่ำ e toque nas Bandas de Bollinger inferiores. Venda parcial de SNX e DOT realizada para garantir liquidez futura e reduzir exposição a ativos com momentum de baixa mais agressivo.",
+    "ultima_execucao": "2026-10-18T22:01:04.562240+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
