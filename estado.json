@@ -1,9 +1,9 @@
 {
-    "saldo_anterior": 12516.48,
+    "saldo_anterior": 12458.69,
     "saldos_virtuais": {
-        "brl": 108.54419718377075,
-        "btc": 0.006320734550403692,
-        "eth": 0.2865514553350652,
+        "brl": 8.544197183770748,
+        "btc": 0.006441955193794379,
+        "eth": 0.2906905624468791,
         "sol": 4.463720078004273,
         "ltc": 0.0,
         "uni": 6.593169660043532,
@@ -18,20 +18,6 @@
         "pol": 0.0
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-10-15T15:51:35.468314+00:00",
-            "ticker": "chzbrl",
-            "acao": "VENDER",
-            "quantidade": 73.4306,
-            "preco_estimado": 0.07171
-        },
-        {
-            "timestamp": "2026-10-15T15:51:35.468316+00:00",
-            "ticker": "polbrl",
-            "acao": "VENDER",
-            "quantidade": 122.6246,
-            "preco_estimado": 0.48203
-        },
         {
             "timestamp": "2026-10-15T18:28:28.850658+00:00",
             "ticker": "ethbrl",
@@ -367,10 +353,24 @@
             "acao": "VENDER",
             "quantidade": 23.98,
             "preco_estimado": 1.1055
+        },
+        {
+            "timestamp": "2026-10-18T14:59:08.328280+00:00",
+            "ticker": "btcbrl",
+            "acao": "COMPRAR",
+            "quantidade": 50.0,
+            "preco_estimado": 412471.0
+        },
+        {
+            "timestamp": "2026-10-18T14:59:08.328295+00:00",
+            "ticker": "ethbrl",
+            "acao": "COMPRAR",
+            "quantidade": 50.0,
+            "preco_estimado": 12079.9
         }
     ],
-    "licoes_aprendidas": "A rodada confirma um 'flush' de mercado onde múltiplos Blue Chips (BTC, ETH, SOL, BNB, LINK) testaram simultaneamente o nível 0.0 de Fibonacci de 30 dias. A estratégia de liquidar altcoins fracas (SNX, ADA, XRP) para concentrar em ativos de alta capitalização em suportes extremos é a via mais segura para preservação de capital e potencial de bounce rápido.",
-    "ultima_execucao": "2026-10-17T21:51:52.365765+00:00",
+    "licoes_aprendidas": "O mercado entrou em um estado de capitulação generalizada, com a maioria dos ativos atingindo simultaneamente o nível 0.0 de Fibonacci de 30 dias. A estratégia agora é a compra fracionada em suportes históricos para capturar o 'dead cat bounce' ou a reversão de tendência, mantendo a cautela com o saldo de BRL para evitar exposição total em um mercado de alta volatilidade.",
+    "ultima_execucao": "2026-10-18T14:59:08.328300+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
