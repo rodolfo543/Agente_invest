@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 12559.39,
+    "saldo_anterior": 12626.62,
     "saldos_virtuais": {
         "brl": 34.93419718377072,
         "btc": 0.006804627636791981,
@@ -369,8 +369,8 @@
             "preco_estimado": 12112.4
         }
     ],
-    "licoes_aprendidas": "A maioria dos ativos principais (BTC, ETH, SOL, ADA, XRP, LINK) convergiu simultaneamente para o nível de retração Fibonacci 0.0, indicando um fundo sistêmico de curto prazo. O RSI abaixo de 40 em múltiplos ativos confirma a condição de sobrevenda. Devido ao saldo BRL reduzido (R$ 64,93), a alocação foi cirúrgica no ETH, que apresentou a maior precisão de toque no suporte 0.0, mantendo a reserva mínima para volatilidade residual.",
-    "ultima_execucao": "2026-10-19T20:03:43.557870+00:00",
+    "licoes_aprendidas": "O mercado entrou em uma fase de teste de suportes críticos (Fibonacci 0.0) para a maioria dos ativos (ETH, ADA, LINK, XRP). O saldo de BRL (R$ 34,93) é insuficiente para novas compras significativas sem comprometer a reserva de capital. A estratégia agora é a paciência: manter as posições acumuladas nos níveis de desconto e aguardar o cruzamento de médias (SMA 10 > SMA 20) e a melhora do MACD para confirmar a reversão da tendência.",
+    "ultima_execucao": "2026-10-19T23:12:08.596431+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
