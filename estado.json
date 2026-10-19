@@ -1,10 +1,10 @@
 {
-    "saldo_anterior": 12443.24,
+    "saldo_anterior": 12605.78,
     "saldos_virtuais": {
-        "brl": 214.93419718377072,
-        "btc": 0.006684110570370205,
-        "eth": 0.2989783818387189,
-        "sol": 4.62030014122222,
+        "brl": 64.93419718377072,
+        "btc": 0.006804627636791981,
+        "eth": 0.3030961839206796,
+        "sol": 4.715214623273892,
         "ltc": 0.0,
         "uni": 6.593169660043532,
         "dot": 93.02556835568373,
@@ -18,27 +18,6 @@
         "pol": 0.0
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-10-15T18:28:28.850686+00:00",
-            "ticker": "chzbrl",
-            "acao": "VENDER",
-            "quantidade": 7e-06,
-            "preco_estimado": 0.07257
-        },
-        {
-            "timestamp": "2026-10-15T22:45:31.516944+00:00",
-            "ticker": "ethbrl",
-            "acao": "COMPRAR",
-            "quantidade": 150.0,
-            "preco_estimado": 12543.8
-        },
-        {
-            "timestamp": "2026-10-15T22:45:31.516962+00:00",
-            "ticker": "solbrl",
-            "acao": "COMPRAR",
-            "quantidade": 150.0,
-            "preco_estimado": 540.4
-        },
         {
             "timestamp": "2026-10-15T22:45:31.516965+00:00",
             "ticker": "polbrl",
@@ -367,10 +346,31 @@
             "acao": "VENDER",
             "quantidade": 30.0,
             "preco_estimado": 5.429
+        },
+        {
+            "timestamp": "2026-10-19T17:52:36.977520+00:00",
+            "ticker": "btcbrl",
+            "acao": "COMPRAR",
+            "quantidade": 50.0,
+            "preco_estimado": 414879.0
+        },
+        {
+            "timestamp": "2026-10-19T17:52:36.977535+00:00",
+            "ticker": "ethbrl",
+            "acao": "COMPRAR",
+            "quantidade": 50.0,
+            "preco_estimado": 12142.4
+        },
+        {
+            "timestamp": "2026-10-19T17:52:36.977536+00:00",
+            "ticker": "solbrl",
+            "acao": "COMPRAR",
+            "quantidade": 50.0,
+            "preco_estimado": 526.79
         }
     ],
-    "licoes_aprendidas": "O mercado entrou em uma zona de suporte crítico (Fibonacci 0.0) para quase todos os ativos principais. Estratégia de alocação focada nos 'Blue Chips' (BTC, ETH, SOL) devido ao RSIต่ำ e toque nas Bandas de Bollinger inferiores. Venda parcial de SNX e DOT realizada para garantir liquidez futura e reduzir exposição a ativos com momentum de baixa mais agressivo.",
-    "ultima_execucao": "2026-10-18T22:01:04.562240+00:00",
+    "licoes_aprendidas": "Identificada convergência de suportes históricos e Fibonacci 0.0 em ETH, BTC e SOL. A estratégia de 'buy the dip' foi aplicada moderadamente para preservar o caixa BRL, focando especialmente em ETH que atingiu o limite inferior de retração. O mercado demonstra exaustão de venda (RSI < 40 nos principais ativos), sugerindo que a fase de capitulação imediata pode ter terminado.",
+    "ultima_execucao": "2026-10-19T17:52:36.977542+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
