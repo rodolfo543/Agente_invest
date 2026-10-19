@@ -1,9 +1,9 @@
 {
-    "saldo_anterior": 12605.78,
+    "saldo_anterior": 12559.39,
     "saldos_virtuais": {
-        "brl": 64.93419718377072,
+        "brl": 34.93419718377072,
         "btc": 0.006804627636791981,
-        "eth": 0.3030961839206796,
+        "eth": 0.3055729845547406,
         "sol": 4.715214623273892,
         "ltc": 0.0,
         "uni": 6.593169660043532,
@@ -18,13 +18,6 @@
         "pol": 0.0
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-10-15T22:45:31.516965+00:00",
-            "ticker": "polbrl",
-            "acao": "VENDER",
-            "quantidade": 5.154642140564645e-06,
-            "preco_estimado": 0.48977
-        },
         {
             "timestamp": "2026-10-15T22:45:31.516972+00:00",
             "ticker": "adabrl",
@@ -367,10 +360,17 @@
             "acao": "COMPRAR",
             "quantidade": 50.0,
             "preco_estimado": 526.79
+        },
+        {
+            "timestamp": "2026-10-19T20:03:43.557852+00:00",
+            "ticker": "ethbrl",
+            "acao": "COMPRAR",
+            "quantidade": 30.0,
+            "preco_estimado": 12112.4
         }
     ],
-    "licoes_aprendidas": "Identificada convergência de suportes históricos e Fibonacci 0.0 em ETH, BTC e SOL. A estratégia de 'buy the dip' foi aplicada moderadamente para preservar o caixa BRL, focando especialmente em ETH que atingiu o limite inferior de retração. O mercado demonstra exaustão de venda (RSI < 40 nos principais ativos), sugerindo que a fase de capitulação imediata pode ter terminado.",
-    "ultima_execucao": "2026-10-19T17:52:36.977542+00:00",
+    "licoes_aprendidas": "A maioria dos ativos principais (BTC, ETH, SOL, ADA, XRP, LINK) convergiu simultaneamente para o nível de retração Fibonacci 0.0, indicando um fundo sistêmico de curto prazo. O RSI abaixo de 40 em múltiplos ativos confirma a condição de sobrevenda. Devido ao saldo BRL reduzido (R$ 64,93), a alocação foi cirúrgica no ETH, que apresentou a maior precisão de toque no suporte 0.0, mantendo a reserva mínima para volatilidade residual.",
+    "ultima_execucao": "2026-10-19T20:03:43.557870+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
