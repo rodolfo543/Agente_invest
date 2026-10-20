@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 12626.62,
+    "saldo_anterior": 12621.04,
     "saldos_virtuais": {
         "brl": 34.93419718377072,
         "btc": 0.006804627636791981,
@@ -369,8 +369,8 @@
             "preco_estimado": 12112.4
         }
     ],
-    "licoes_aprendidas": "O mercado entrou em uma fase de teste de suportes críticos (Fibonacci 0.0) para a maioria dos ativos (ETH, ADA, LINK, XRP). O saldo de BRL (R$ 34,93) é insuficiente para novas compras significativas sem comprometer a reserva de capital. A estratégia agora é a paciência: manter as posições acumuladas nos níveis de desconto e aguardar o cruzamento de médias (SMA 10 > SMA 20) e a melhora do MACD para confirmar a reversão da tendência.",
-    "ultima_execucao": "2026-10-19T23:12:08.596431+00:00",
+    "licoes_aprendidas": "A maioria dos ativos atingiu a zona de suporte crítico (Fibonacci 0.0), configurando cenários de Nível 1 e 2. No entanto, a ausência de liquidez em BRL (apenas R$ 34,93) impossibilita a execução de novas compras sem a venda de ativos. O mercado permanece em tendência de baixa (SMA 10 < SMA 20 em quase todos os pares), exigindo a manutenção do caixa reserva e paciência até que o MACD histograma vire para positivo, confirmando a reversão.",
+    "ultima_execucao": "2026-10-20T16:27:52.211206+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
