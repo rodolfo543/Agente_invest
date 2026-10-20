@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 12685.67,
+    "saldo_anterior": 12827.43,
     "saldos_virtuais": {
         "brl": 34.93419718377072,
         "btc": 0.006804627636791981,
@@ -369,8 +369,8 @@
             "preco_estimado": 12112.4
         }
     ],
-    "licoes_aprendidas": "O portfólio encontra-se majoritariamente em zonas de suporte Fibonacci 0.0, o que tecnicamente classifica os ativos como Nível 2 (Acumular). Contudo, a liquidez em BRL é crítica (R$ 34,93), impedindo a execução de compras. As médias móveis (SMA10 < SMA20) e o MACD negativo confirmam que a tendência macro ainda é de baixa. A estratégia agora é de 'Hold' paciente: não vender ativos em suporte crítico para evitar 'vender no fundo', e aguardar a virada do MACD para confirmar a entrada de fluxo comprador.",
-    "ultima_execucao": "2026-10-20T18:36:19.905602+00:00",
+    "licoes_aprendidas": "A maioria dos ativos testou os níveis de Fibonacci 0.0 e iniciou uma leve recuperação, com a SMA 10 começando a inclinar para cima em vários pares (BTC, ETH, SOL). O saldo em BRL continua extremamente baixo (R$ 34,93), impossibilitando novas compras significativas. A estratégia permanece em 'Hold' nos suportes, evitando vendas prematuras enquanto o MACD não confirma a reversão total, mas observando a redução da pressão vendedora.",
+    "ultima_execucao": "2026-10-20T22:47:18.573513+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
