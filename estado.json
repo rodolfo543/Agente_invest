@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 12555.58,
+    "saldo_anterior": 12461.92,
     "saldos_virtuais": {
         "brl": 34.93419718377072,
         "btc": 0.006804627636791981,
@@ -369,8 +369,8 @@
             "preco_estimado": 12112.4
         }
     ],
-    "licoes_aprendidas": "O mercado entrou em uma correção generalizada, com a maioria dos ativos testando a base (Nível 0.0) de suas retrações de Fibonacci de 30 dias. O RSI de vários ativos (ETH, ADA, POL) caiu para a zona de 35-40, sinalizando a proximidade de suportes importantes. Devido ao saldo de BRL extremamente baixo (R$ 34,93), a estratégia permanece em 'Hold' forçado, aguardando a estabilização dos preços acima das SMAs de 10 dias para confirmar a reversão da tendência antes de qualquer nova alocação.",
-    "ultima_execucao": "2026-10-22T16:17:41.673326+00:00",
+    "licoes_aprendidas": "A correção de mercado foi profunda, levando quase todos os ativos monitorados ao nível 0.0 de retração de Fibonacci de 30 dias. Tecnicamente, os ativos estão em zonas de compra (RSI < 40 e proximidade com Bandas de Bollinger Inferiores). No entanto, a ausência de liquidez em BRL (R$ 34,93) impede a execução de compras estratégicas em níveis de desconto extremo. A lição principal é a necessidade de manter um caixa reserva (Cash Reserve) mais robusto para aproveitar correções sistêmicas, evitando o 'Hold' forçado enquanto os indicadores técnicos gritam 'Compra'.",
+    "ultima_execucao": "2026-10-22T19:21:11.713399+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
