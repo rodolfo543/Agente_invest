@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 13095.98,
+    "saldo_anterior": 12555.58,
     "saldos_virtuais": {
         "brl": 34.93419718377072,
         "btc": 0.006804627636791981,
@@ -369,8 +369,8 @@
             "preco_estimado": 12112.4
         }
     ],
-    "licoes_aprendidas": "A carteira entrou em uma fase de 'Hold Estratégico'. BTC, ETH e SOL confirmaram a reversão ao romperem a SMA 10 e testarem níveis iniciais de Fibonacci (0.236 e 0.382). O RSI de quase todos os ativos está na zona neutra (45-55), indicando que não há sobrecompra, o que valida a manutenção dos ativos. A escassez de saldo em BRL (R$ 34,93) impede a acumulação em níveis de suporte, tornando a preservação do capital e a valorização orgânica do portfólio a prioridade absoluta no momento.",
-    "ultima_execucao": "2026-10-21T18:50:53.068947+00:00",
+    "licoes_aprendidas": "O mercado entrou em uma correção generalizada, com a maioria dos ativos testando a base (Nível 0.0) de suas retrações de Fibonacci de 30 dias. O RSI de vários ativos (ETH, ADA, POL) caiu para a zona de 35-40, sinalizando a proximidade de suportes importantes. Devido ao saldo de BRL extremamente baixo (R$ 34,93), a estratégia permanece em 'Hold' forçado, aguardando a estabilização dos preços acima das SMAs de 10 dias para confirmar a reversão da tendência antes de qualquer nova alocação.",
+    "ultima_execucao": "2026-10-22T16:17:41.673326+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
