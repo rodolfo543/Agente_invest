@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 12483.6,
+    "saldo_anterior": 12350.04,
     "saldos_virtuais": {
         "brl": 34.93419718377072,
         "btc": 0.006804627636791981,
@@ -369,8 +369,8 @@
             "preco_estimado": 12112.4
         }
     ],
-    "licoes_aprendidas": "O mercado entrou em uma fase de 'testes de fundo', com BTC, ETH e SOL atingindo simultaneamente o nível 0.0 de Fibonacci de 30 dias. Tecnicamente, a configuração é de compra (Nível 1), porém a carência de liquidez BRL (R$ 34,93) impossibilita a execução. A estratégia agora é 'Hold' rigoroso, aguardando a reversão do MACD e a subida dos preços para realizar vendas parciais nos níveis 0.382 ou 0.5 de Fibonacci para recompor o caixa operacional.",
-    "ultima_execucao": "2026-10-23T18:35:26.716485+00:00",
+    "licoes_aprendidas": "O mercado entrou em um estado de capitulação sistêmica, onde a maioria dos ativos principais (BTC, ETH, SOL, LINK, ADA, XRP, DOT) atingiram simultaneamente o nível 0.0 de Fibonacci de 30 dias. Embora a classificação técnica seja de 'Compra' (Nível 1) devido ao desconto extremo e proximidade com as Bandas de Bollinger inferiores, a ausência de liquidez em BRL (R$ 34,93) impede qualquer nova entrada. A estratégia permanece em 'Hold' rigoroso. O risco atual é a quebra dos suportes de 30 dias, transformando o suporte em resistência. A prioridade é aguardar a virada do MACD e a recuperação para os níveis 0.236 - 0.382 de Fibonacci para realizar lucros parciais e recompor o caixa.",
+    "ultima_execucao": "2026-10-23T22:44:37.027918+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
