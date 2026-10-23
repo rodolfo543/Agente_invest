@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 12524.99,
+    "saldo_anterior": 12483.6,
     "saldos_virtuais": {
         "brl": 34.93419718377072,
         "btc": 0.006804627636791981,
@@ -369,8 +369,8 @@
             "preco_estimado": 12112.4
         }
     ],
-    "licoes_aprendidas": "O mercado atingiu a zona de 'capitulação técnica', com a maioria dos ativos tocando o nível 0.0 de Fibonacci de 30 dias e RSIs entrando em zonas de sobrevenda (<40). A estratégia de preservação de capital foi eficaz ao evitar quedas maiores, porém a liquidez atual (R$ 34,93) é insuficiente para operar as oportunidades de Nível 1. A prioridade absoluta para as próximas rodadas deve ser a regeneração do caixa BRL através de vendas parciais apenas em resistências Fibonacci (0.618) ou reversões de tendência confirmadas por cruzamento de MACD.",
-    "ultima_execucao": "2026-10-22T22:52:32.428382+00:00",
+    "licoes_aprendidas": "O mercado entrou em uma fase de 'testes de fundo', com BTC, ETH e SOL atingindo simultaneamente o nível 0.0 de Fibonacci de 30 dias. Tecnicamente, a configuração é de compra (Nível 1), porém a carência de liquidez BRL (R$ 34,93) impossibilita a execução. A estratégia agora é 'Hold' rigoroso, aguardando a reversão do MACD e a subida dos preços para realizar vendas parciais nos níveis 0.382 ou 0.5 de Fibonacci para recompor o caixa operacional.",
+    "ultima_execucao": "2026-10-23T18:35:26.716485+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
