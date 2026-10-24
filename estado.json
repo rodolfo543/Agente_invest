@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 12131.49,
+    "saldo_anterior": 12074.38,
     "saldos_virtuais": {
         "brl": 34.93419718377072,
         "btc": 0.006804627636791981,
@@ -369,8 +369,8 @@
             "preco_estimado": 12112.4
         }
     ],
-    "licoes_aprendidas": "O mercado atingiu um estado de 'Capitulação Total'. Quase todos os ativos analisados estão simultaneamente no nível 0.0 de Fibonacci de 30 dias e com RSI em zona de sobrevenda (< 40). Tecnicamente, este é o cenário ideal para compras (Nível 1), porém a gestão de risco impede a entrada devido à liquidez residual de BRL (R$ 34,93), que é insuficiente para compras significativas. A estratégia agora é a paciência absoluta: manter a custódia e aguardar o fechamento de velas acima das SMAs de 10 dias e a inversão do MACD para confirmar o fundo antes de qualquer tentativa de rebalanceamento.",
-    "ultima_execucao": "2026-10-24T15:01:52.603868+00:00",
+    "licoes_aprendidas": "O mercado entrou em um estado de exaustão vendedora generalizada, com a maioria dos ativos atingindo simultaneamente o nível 0.0 de Fibonacci de 30 dias e RSI abaixo de 40. Tecnicamente, este é o ponto de entrada ideal (Nível 1), porém, a ausência de liquidez em BRL (R$ 34,93) impede qualquer operação de compra. A estratégia permanece em 'Hold' forçado. A lição principal é a importância de manter um caixa reserva maior para aproveitar capitulações sistêmicas, onde a análise técnica aponta compra, mas a gestão de capital limita a execução.",
+    "ultima_execucao": "2026-10-24T17:35:49.596343+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
