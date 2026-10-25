@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 12178.43,
+    "saldo_anterior": 12192.55,
     "saldos_virtuais": {
         "brl": 34.93419718377072,
         "btc": 0.006804627636791981,
@@ -369,8 +369,8 @@
             "preco_estimado": 12112.4
         }
     ],
-    "licoes_aprendidas": "A maioria dos ativos atingiu a zona de 'capitulação extrema', coincidindo com o nível 0.0 de Fibonacci de 30 dias e RSI abaixo de 40. Tecnicamente, o portfólio está em zona de compra máxima (Nível 1). No entanto, a estratégia de preservação de capital impede a utilização do saldo residual de R$ 34,93, que é insignificante para a escala do portfólio. O bot permanece em modo de observação, aguardando a formação de um pivô de alta no gráfico diário para confirmar a reversão antes de qualquer tentativa de rebalanceamento via venda parcial de ativos fortes para gerar caixa.",
-    "ultima_execucao": "2026-10-25T15:10:32.950974+00:00",
+    "licoes_aprendidas": "O mercado entrou em uma fase de capitulação generalizada, com a maioria dos ativos (BTC, ETH, SOL, ADA, LINK) testando o nível 0.0 de Fibonacci de 30 dias e apresentando RSI abaixo de 40. Tecnicamente, estamos em uma zona de 'Compra Máxima'. No entanto, a preservação de capital é prioritária e o saldo atual de BRL (R$ 34,93) é insuficiente para realizar compras que alterem o preço médio ou a composição do portfólio. A estratégia agora é HOLD rigoroso, aguardando que o RSI saia da zona de sobrevenda e ocorra o cruzamento de médias móveis (SMA 10 > SMA 20) para confirmar a reversão de tendência.",
+    "ultima_execucao": "2026-10-25T17:47:48.077125+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
