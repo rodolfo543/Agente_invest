@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 12181.68,
+    "saldo_anterior": 12178.43,
     "saldos_virtuais": {
         "brl": 34.93419718377072,
         "btc": 0.006804627636791981,
@@ -369,8 +369,8 @@
             "preco_estimado": 12112.4
         }
     ],
-    "licoes_aprendidas": "A capitulação sistêmica se intensificou, com quase todos os ativos atingindo o nível 0.0 de Fibonacci de 30 dias e RSI em zonas de sobrevenda (33-40). Tecnicamente, o cenário é de compra agressiva (Nível 1), porém o bot permanece em 'Hold forçado' devido ao saldo de BRL (R$ 34,93) ser insuficiente para compras significativas sem comprometer a preservação de capital. A dependência de liquidez em BRL tornou-se o principal gargalo operacional diante de sinais técnicos de reversão iminente.",
-    "ultima_execucao": "2026-10-24T22:06:28.663291+00:00",
+    "licoes_aprendidas": "A maioria dos ativos atingiu a zona de 'capitulação extrema', coincidindo com o nível 0.0 de Fibonacci de 30 dias e RSI abaixo de 40. Tecnicamente, o portfólio está em zona de compra máxima (Nível 1). No entanto, a estratégia de preservação de capital impede a utilização do saldo residual de R$ 34,93, que é insignificante para a escala do portfólio. O bot permanece em modo de observação, aguardando a formação de um pivô de alta no gráfico diário para confirmar a reversão antes de qualquer tentativa de rebalanceamento via venda parcial de ativos fortes para gerar caixa.",
+    "ultima_execucao": "2026-10-25T15:10:32.950974+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
