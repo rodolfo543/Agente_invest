@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 12192.55,
+    "saldo_anterior": 12139.69,
     "saldos_virtuais": {
         "brl": 34.93419718377072,
         "btc": 0.006804627636791981,
@@ -369,8 +369,8 @@
             "preco_estimado": 12112.4
         }
     ],
-    "licoes_aprendidas": "O mercado entrou em uma fase de capitulação generalizada, com a maioria dos ativos (BTC, ETH, SOL, ADA, LINK) testando o nível 0.0 de Fibonacci de 30 dias e apresentando RSI abaixo de 40. Tecnicamente, estamos em uma zona de 'Compra Máxima'. No entanto, a preservação de capital é prioritária e o saldo atual de BRL (R$ 34,93) é insuficiente para realizar compras que alterem o preço médio ou a composição do portfólio. A estratégia agora é HOLD rigoroso, aguardando que o RSI saia da zona de sobrevenda e ocorra o cruzamento de médias móveis (SMA 10 > SMA 20) para confirmar a reversão de tendência.",
-    "ultima_execucao": "2026-10-25T17:47:48.077125+00:00",
+    "licoes_aprendidas": "O mercado atingiu um estado de 'Capitulação Total', onde quase todos os ativos principais (BTC, ETH, SOL, ADA, LINK, DOT) tocaram simultaneamente o nível 0.0 de Fibonacci de 30 dias e as Bandas Inferiores de Bollinger. Tecnicamente, a probabilidade de repique é alta devido aos RSIs em zona de sobrevenda. Entretanto, com um saldo de BRL extremamente reduzido (R$ 34,93), não há margem para compras significativas que impactem o preço médio. A estratégia permanece em HOLD rigoroso, priorizando a preservação do pouco caixa restante até que ocorra um sinal de confirmação (cruzamento de SMA10 > SMA20 ou histograma do MACD virando para positivo).",
+    "ultima_execucao": "2026-10-25T22:12:36.852955+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
