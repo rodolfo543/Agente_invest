@@ -1,58 +1,23 @@
 {
-    "saldo_anterior": 13175.86,
+    "saldo_anterior": 13196.86,
     "saldos_virtuais": {
-        "brl": 217.55144074011884,
-        "btc": 0.0033046276367919803,
+        "brl": 235.21494074011883,
+        "btc": 0.0028046276367919803,
         "eth": 0.3055729845547406,
         "sol": 4.715214623273892,
         "ltc": 0.9732532683141484,
         "uni": 11.812240143590412,
-        "dot": 195.51117174104346,
+        "dot": 204.73116067705672,
         "bnb": 0.0,
-        "ada": 670.4935910090679,
+        "ada": 715.779344111142,
         "chz": 0.0,
         "link": 21.24834541052973,
-        "sand": 764.2338555598013,
+        "sand": 955.2923194497516,
         "xrp": 7.0012998464159235,
-        "snx": 709.5692202512265,
+        "snx": 755.5589185588057,
         "pol": 335.50526908796405
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-10-17T21:51:52.365737+00:00",
-            "ticker": "btcbrl",
-            "acao": "COMPRAR",
-            "quantidade": 100.0,
-            "preco_estimado": 412816.0
-        },
-        {
-            "timestamp": "2026-10-17T21:51:52.365750+00:00",
-            "ticker": "ethbrl",
-            "acao": "COMPRAR",
-            "quantidade": 82.37,
-            "preco_estimado": 12114.1
-        },
-        {
-            "timestamp": "2026-10-17T21:51:52.365753+00:00",
-            "ticker": "xrpbrl",
-            "acao": "VENDER",
-            "quantidade": 6.4,
-            "preco_estimado": 6.565
-        },
-        {
-            "timestamp": "2026-10-17T21:51:52.365756+00:00",
-            "ticker": "snxbrl",
-            "acao": "VENDER",
-            "quantidade": 36.74,
-            "preco_estimado": 1.0892
-        },
-        {
-            "timestamp": "2026-10-17T21:51:52.365759+00:00",
-            "ticker": "adabrl",
-            "acao": "VENDER",
-            "quantidade": 23.98,
-            "preco_estimado": 1.1055
-        },
         {
             "timestamp": "2026-10-18T14:59:08.328280+00:00",
             "ticker": "btcbrl",
@@ -367,10 +332,45 @@
             "acao": "COMPRAR",
             "quantidade": 33.69,
             "preco_estimado": 1.0975
+        },
+        {
+            "timestamp": "2026-10-28T23:54:56.104468+00:00",
+            "ticker": "btcbrl",
+            "acao": "VENDER",
+            "quantidade": 0.0005,
+            "preco_estimado": 435327.0
+        },
+        {
+            "timestamp": "2026-10-28T23:54:56.104482+00:00",
+            "ticker": "dotbrl",
+            "acao": "COMPRAR",
+            "quantidade": 50.0,
+            "preco_estimado": 5.423
+        },
+        {
+            "timestamp": "2026-10-28T23:54:56.104485+00:00",
+            "ticker": "adabrl",
+            "acao": "COMPRAR",
+            "quantidade": 50.0,
+            "preco_estimado": 1.1041
+        },
+        {
+            "timestamp": "2026-10-28T23:54:56.104488+00:00",
+            "ticker": "snxbrl",
+            "acao": "COMPRAR",
+            "quantidade": 50.0,
+            "preco_estimado": 1.0872
+        },
+        {
+            "timestamp": "2026-10-28T23:54:56.104490+00:00",
+            "ticker": "sandbrl",
+            "acao": "COMPRAR",
+            "quantidade": 50.0,
+            "preco_estimado": 0.2617
         }
     ],
-    "licoes_aprendidas": "A rodada reforça a necessidade de realizar lucros parciais em BTC quando o preço excede a Banda Superior de Bollinger e a retração 0.618 simultaneamente. A estratégia de acumular ativos com RSI < 45 (ADA, DOT, SNX) em suportes de Fibonacci continua sendo a base para capturar reversões de Swing Trade, mantendo a preservação de capital através de compras fracionadas.",
-    "ultima_execucao": "2026-10-28T20:08:44.115241+00:00",
+    "licoes_aprendidas": "A rodada confirma a eficácia de realizar lucros parciais em BTC ao romper a Banda Superior e o nível 0.618 de Fibonacci, evitando a exposição em topos locais. A estratégia de acumular ativos com RSI < 45 (DOT, ADA, SNX, SAND) em suportes de Fibonacci (0.0 a 0.236) mantém a carteira diversificada para capturar a reversão de tendência, enquanto a preservação de capital é mantida através de compras fracionadas de R$ 50,00.",
+    "ultima_execucao": "2026-10-28T23:54:56.104497+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
