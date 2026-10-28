@@ -1,58 +1,23 @@
 {
-    "saldo_anterior": 13097.22,
+    "saldo_anterior": 13065.11,
     "saldos_virtuais": {
-        "brl": 216.9084407401188,
-        "btc": 0.00430462763679198,
+        "brl": 183.69644074011882,
+        "btc": 0.0038046276367919804,
         "eth": 0.3055729845547406,
         "sol": 4.715214623273892,
-        "ltc": 0.660087791676293,
+        "ltc": 0.9732532683141484,
         "uni": 11.812240143590412,
-        "dot": 176.95500952517017,
+        "dot": 186.31830540532,
         "bnb": 0.0,
-        "ada": 593.74755615281,
+        "ada": 639.7965522846944,
         "chz": 0.0,
         "link": 21.24834541052973,
         "sand": 573.175391669851,
         "xrp": 7.0012998464159235,
-        "snx": 615.7398551645255,
+        "snx": 663.074892559205,
         "pol": 335.50526908796405
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-10-17T14:31:37.419718+00:00",
-            "ticker": "xrpbrl",
-            "acao": "VENDER",
-            "quantidade": 10.0,
-            "preco_estimado": 6.624
-        },
-        {
-            "timestamp": "2026-10-17T14:31:37.419720+00:00",
-            "ticker": "snxbrl",
-            "acao": "VENDER",
-            "quantidade": 50.0,
-            "preco_estimado": 1.1158
-        },
-        {
-            "timestamp": "2026-10-17T17:25:19.845114+00:00",
-            "ticker": "btcbrl",
-            "acao": "COMPRAR",
-            "quantidade": 200.0,
-            "preco_estimado": 412900.0
-        },
-        {
-            "timestamp": "2026-10-17T17:25:19.845130+00:00",
-            "ticker": "ethbrl",
-            "acao": "COMPRAR",
-            "quantidade": 200.0,
-            "preco_estimado": 12224.4
-        },
-        {
-            "timestamp": "2026-10-17T17:25:19.845132+00:00",
-            "ticker": "solbrl",
-            "acao": "COMPRAR",
-            "quantidade": 200.0,
-            "preco_estimado": 524.99
-        },
         {
             "timestamp": "2026-10-17T17:25:19.845135+00:00",
             "ticker": "bnbbrl",
@@ -367,10 +332,45 @@
             "acao": "COMPRAR",
             "quantidade": 65.43,
             "preco_estimado": 0.49464
+        },
+        {
+            "timestamp": "2026-10-28T17:38:37.807302+00:00",
+            "ticker": "btcbrl",
+            "acao": "VENDER",
+            "quantidade": 0.0005,
+            "preco_estimado": 433576.0
+        },
+        {
+            "timestamp": "2026-10-28T17:38:37.807319+00:00",
+            "ticker": "ltcbrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 319.32
+        },
+        {
+            "timestamp": "2026-10-28T17:38:37.807322+00:00",
+            "ticker": "snxbrl",
+            "acao": "COMPRAR",
+            "quantidade": 50.0,
+            "preco_estimado": 1.0563
+        },
+        {
+            "timestamp": "2026-10-28T17:38:37.807325+00:00",
+            "ticker": "dotbrl",
+            "acao": "COMPRAR",
+            "quantidade": 50.0,
+            "preco_estimado": 5.34
+        },
+        {
+            "timestamp": "2026-10-28T17:38:37.807327+00:00",
+            "ticker": "adabrl",
+            "acao": "COMPRAR",
+            "quantidade": 50.0,
+            "preco_estimado": 1.0858
         }
     ],
-    "licoes_aprendidas": "Nesta rodada, BTC mostrou sinais claros de sobrecompra ao romper a Banda Superior de Bollinger e atingir a retração de 0.618, justificando a realização parcial de lucro. Ativos como ADA e SNX continuam em zona de acumulação (RSI < 45 e suporte Fib), enquanto POL demonstra força relativa ao cruzar a SMA 10. A gestão de caixa foi priorizada para ativos com maior probabilidade de reversão altista imediata.",
-    "ultima_execucao": "2026-10-27T23:25:22.066332+00:00",
+    "licoes_aprendidas": "A rodada destaca a importância de realizar lucros parciais em BTC ao atingir a retração 0.618 e romper a banda superior de Bollinger, evitando a exposição total em topos locais. A estratégia de acumular ativos com RSI < 45 e próximos ao suporte Fibonacci 0.0 (como ADA, DOT e SNX) visa capturar a reversão de tendência. LTC demonstrou a melhor força relativa imediata com cruzamento de médias móveis.",
+    "ultima_execucao": "2026-10-28T17:38:37.807335+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
