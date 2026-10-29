@@ -1,15 +1,15 @@
 {
-    "saldo_anterior": 13113.04,
+    "saldo_anterior": 12438.99,
     "saldos_virtuais": {
-        "brl": 203.25994074011885,
+        "brl": 3.25994074011885,
         "btc": 0.0023046276367919803,
-        "eth": 0.3055729845547406,
-        "sol": 4.807812360185202,
+        "eth": 0.30967111007212894,
+        "sol": 4.904040227775656,
         "ltc": 0.9732532683141484,
-        "uni": 11.812240143590412,
+        "uni": 13.241873585575886,
         "dot": 214.1936890646419,
         "bnb": 0.0,
-        "ada": 761.5710832813957,
+        "ada": 810.1242003915141,
         "chz": 0.0,
         "link": 21.24834541052973,
         "sand": 1144.959264294604,
@@ -18,34 +18,6 @@
         "pol": 335.50526908796405
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-10-18T22:01:04.562230+00:00",
-            "ticker": "snxbrl",
-            "acao": "VENDER",
-            "quantidade": 50.0,
-            "preco_estimado": 1.0412
-        },
-        {
-            "timestamp": "2026-10-18T22:01:04.562233+00:00",
-            "ticker": "dotbrl",
-            "acao": "VENDER",
-            "quantidade": 30.0,
-            "preco_estimado": 5.429
-        },
-        {
-            "timestamp": "2026-10-19T17:52:36.977520+00:00",
-            "ticker": "btcbrl",
-            "acao": "COMPRAR",
-            "quantidade": 50.0,
-            "preco_estimado": 414879.0
-        },
-        {
-            "timestamp": "2026-10-19T17:52:36.977535+00:00",
-            "ticker": "ethbrl",
-            "acao": "COMPRAR",
-            "quantidade": 50.0,
-            "preco_estimado": 12142.4
-        },
         {
             "timestamp": "2026-10-19T17:52:36.977536+00:00",
             "ticker": "solbrl",
@@ -367,10 +339,38 @@
             "acao": "COMPRAR",
             "quantidade": 50.0,
             "preco_estimado": 0.26362
+        },
+        {
+            "timestamp": "2026-10-29T23:44:41.882403+00:00",
+            "ticker": "ethbrl",
+            "acao": "COMPRAR",
+            "quantidade": 50.0,
+            "preco_estimado": 12200.7
+        },
+        {
+            "timestamp": "2026-10-29T23:44:41.882418+00:00",
+            "ticker": "solbrl",
+            "acao": "COMPRAR",
+            "quantidade": 50.0,
+            "preco_estimado": 519.6
+        },
+        {
+            "timestamp": "2026-10-29T23:44:41.882421+00:00",
+            "ticker": "adabrl",
+            "acao": "COMPRAR",
+            "quantidade": 50.0,
+            "preco_estimado": 1.0298
+        },
+        {
+            "timestamp": "2026-10-29T23:44:41.882424+00:00",
+            "ticker": "unibrl",
+            "acao": "COMPRAR",
+            "quantidade": 50.0,
+            "preco_estimado": 34.974
         }
     ],
-    "licoes_aprendidas": "A estratégia de venda parcial de BTC na banda superior continua a proteger o lucro contra correções locais. A identificação de ativos com RSI < 45 e preços próximos aos níveis 0.0 e 0.236 de Fibonacci (DOT, SOL, ADA, SNX, SAND) permite a montagem de posições em zonas de desconto, mantendo a disciplina de compras fracionadas para mitigar riscos de volatilidade.",
-    "ultima_execucao": "2026-10-29T20:24:51.779728+00:00",
+    "licoes_aprendidas": "A rodada atual apresenta uma correção generalizada, levando múltiplos ativos (DOT, LINK, SNX, SAND, ADA) a testarem seus níveis 0.0 de Fibonacci e as bandas inferiores de Bollinger simultaneamente. A estratégia de compras fracionadas é ativada para aproveitar a zona de desconto extremo, enquanto o caixa reserva é utilizado para capturar a reversão técnica esperada em ativos com RSI < 40.",
+    "ultima_execucao": "2026-10-29T23:44:41.882431+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
