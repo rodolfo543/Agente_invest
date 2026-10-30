@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 12438.99,
+    "saldo_anterior": 12613.35,
     "saldos_virtuais": {
         "brl": 3.25994074011885,
         "btc": 0.0023046276367919803,
@@ -369,8 +369,8 @@
             "preco_estimado": 34.974
         }
     ],
-    "licoes_aprendidas": "A rodada atual apresenta uma correção generalizada, levando múltiplos ativos (DOT, LINK, SNX, SAND, ADA) a testarem seus níveis 0.0 de Fibonacci e as bandas inferiores de Bollinger simultaneamente. A estratégia de compras fracionadas é ativada para aproveitar a zona de desconto extremo, enquanto o caixa reserva é utilizado para capturar a reversão técnica esperada em ativos com RSI < 40.",
-    "ultima_execucao": "2026-10-29T23:44:41.882431+00:00",
+    "licoes_aprendidas": "A carteira encontra-se com BRL quase zerado (R$ 3,25), impedindo novas compras apesar de diversos ativos (ADA, DOT, SNX, SOL) terem atingido Nível 1 de classificação (suportes de Fibonacci 0.0 e Bandas Inferiores). O mercado apresenta correção generalizada, mas a força relativa de POL destaca-se. A prioridade agora é aguardar a reversão dos ativos em suporte ou realizar vendas estratégicas em topos de curto prazo para recompor o caixa reserva.",
+    "ultima_execucao": "2026-10-30T17:38:09.404507+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
