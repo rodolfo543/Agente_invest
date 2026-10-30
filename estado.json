@@ -1,7 +1,7 @@
 {
-    "saldo_anterior": 12613.35,
+    "saldo_anterior": 11802.0,
     "saldos_virtuais": {
-        "brl": 3.25994074011885,
+        "brl": 28.37594074011885,
         "btc": 0.0023046276367919803,
         "eth": 0.30967111007212894,
         "sol": 4.904040227775656,
@@ -15,16 +15,9 @@
         "sand": 1144.959264294604,
         "xrp": 7.0012998464159235,
         "snx": 801.8637898312635,
-        "pol": 335.50526908796405
+        "pol": 285.50526908796405
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-10-19T17:52:36.977536+00:00",
-            "ticker": "solbrl",
-            "acao": "COMPRAR",
-            "quantidade": 50.0,
-            "preco_estimado": 526.79
-        },
         {
             "timestamp": "2026-10-19T20:03:43.557852+00:00",
             "ticker": "ethbrl",
@@ -367,10 +360,17 @@
             "acao": "COMPRAR",
             "quantidade": 50.0,
             "preco_estimado": 34.974
+        },
+        {
+            "timestamp": "2026-10-30T19:35:50.572079+00:00",
+            "ticker": "polbrl",
+            "acao": "VENDER",
+            "quantidade": 50.0,
+            "preco_estimado": 0.50232
         }
     ],
-    "licoes_aprendidas": "A carteira encontra-se com BRL quase zerado (R$ 3,25), impedindo novas compras apesar de diversos ativos (ADA, DOT, SNX, SOL) terem atingido Nível 1 de classificação (suportes de Fibonacci 0.0 e Bandas Inferiores). O mercado apresenta correção generalizada, mas a força relativa de POL destaca-se. A prioridade agora é aguardar a reversão dos ativos em suporte ou realizar vendas estratégicas em topos de curto prazo para recompor o caixa reserva.",
-    "ultima_execucao": "2026-10-30T17:38:09.404507+00:00",
+    "licoes_aprendidas": "A carteira continua com severa escassez de liquidez em BRL, impedindo a entrada em ativos Nível 1 (ADA) e Nível 2 (SOL, DOT). Foi executada a venda parcial de POL, que apresentou a melhor performance relativa e atingiu zona de resistência, visando criar caixa para aproveitar as correções dos ativos principais. A estratégia agora foca na recomposição de liquidez para agir nos suportes de Fibonacci 0.0 identificados.",
+    "ultima_execucao": "2026-10-30T19:35:50.572100+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
