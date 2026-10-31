@@ -1,37 +1,23 @@
 {
-    "saldo_anterior": 12822.72,
+    "saldo_anterior": 12787.52,
     "saldos_virtuais": {
-        "brl": 4.007440740118852,
+        "brl": 210.20944074011885,
         "btc": 0.0023046276367919803,
         "eth": 0.3113007433231658,
         "sol": 4.932720916112176,
         "ltc": 0.9732532683141484,
-        "uni": 13.241873585575886,
+        "uni": 11.241873585575886,
         "dot": 214.1936890646419,
         "bnb": 0.0,
         "ada": 810.1242003915141,
         "chz": 0.0,
-        "link": 21.24834541052973,
+        "link": 19.24834541052973,
         "sand": 1144.959264294604,
         "xrp": 7.0012998464159235,
         "snx": 816.6961837796467,
         "pol": 235.50526908796405
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-10-26T20:05:55.990716+00:00",
-            "ticker": "dotbrl",
-            "acao": "COMPRAR",
-            "quantidade": 200.0,
-            "preco_estimado": 5.45
-        },
-        {
-            "timestamp": "2026-10-26T20:05:55.990719+00:00",
-            "ticker": "adabrl",
-            "acao": "COMPRAR",
-            "quantidade": 200.0,
-            "preco_estimado": 1.1129
-        },
         {
             "timestamp": "2026-10-26T20:05:55.990721+00:00",
             "ticker": "snxbrl",
@@ -367,10 +353,24 @@
             "acao": "COMPRAR",
             "quantidade": 15.0,
             "preco_estimado": 1.0113
+        },
+        {
+            "timestamp": "2026-10-31T22:58:11.643424+00:00",
+            "ticker": "unibrl",
+            "acao": "VENDER",
+            "quantidade": 2.0,
+            "preco_estimado": 38.785
+        },
+        {
+            "timestamp": "2026-10-31T22:58:11.643438+00:00",
+            "ticker": "linkbrl",
+            "acao": "VENDER",
+            "quantidade": 2.0,
+            "preco_estimado": 64.316
         }
     ],
-    "licoes_aprendidas": "O saldo em BRL (R$ 4,00) está criticamente baixo, impedindo novas compras mesmo para ativos Nível 1 (ADA, SNX). A estratégia agora deve focar em 'Hold' e monitorar resistências de Fibonacci para realizar vendas parciais e recompor o caixa reserva, evitando a exposição total do capital em ativos.",
-    "ultima_execucao": "2026-10-31T18:58:34.182977+00:00",
+    "licoes_aprendidas": "A carência de liquidez (BRL < R$ 5,00) continua sendo o principal gargalo operacional, impedindo a compra de ativos em zonas de suporte Fibonacci (ADA, SNX, DOT). Foi necessária a venda parcial de UNI e LINK, que atingiram níveis de resistência técnica, para iniciar a recomposição do caixa reserva, priorizando a sobrevivência da carteira sobre o hold prolongado em ativos laterais.",
+    "ultima_execucao": "2026-10-31T22:58:11.643445+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
