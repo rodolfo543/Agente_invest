@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 12789.34,
+    "saldo_anterior": 12822.72,
     "saldos_virtuais": {
         "brl": 4.007440740118852,
         "btc": 0.0023046276367919803,
@@ -369,8 +369,8 @@
             "preco_estimado": 1.0113
         }
     ],
-    "licoes_aprendidas": "A recomposição parcial do caixa via vendas de POL permitiu a retomada de compras fracionadas em ativos que atingiram níveis de Fibonacci 0.0 ou 0.236 (SNX, DOT, ADA). A estratégia de preservar capital continua prioritária, utilizando apenas R$ 75,00 do saldo de R$ 54,00 (ajustado para a realidade do saldo disponível, focando em micro-aportes para evitar zerar o BRL).",
-    "ultima_execucao": "2026-10-31T16:27:11.839030+00:00",
+    "licoes_aprendidas": "O saldo em BRL (R$ 4,00) está criticamente baixo, impedindo novas compras mesmo para ativos Nível 1 (ADA, SNX). A estratégia agora deve focar em 'Hold' e monitorar resistências de Fibonacci para realizar vendas parciais e recompor o caixa reserva, evitando a exposição total do capital em ativos.",
+    "ultima_execucao": "2026-10-31T18:58:34.182977+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
