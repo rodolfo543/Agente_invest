@@ -1,13 +1,13 @@
 {
-    "saldo_anterior": 12789.48,
+    "saldo_anterior": 12752.66,
     "saldos_virtuais": {
-        "brl": 89.18444074011884,
+        "brl": 9.184440740118845,
         "btc": 0.0023046276367919803,
         "eth": 0.3153371680196267,
-        "sol": 5.029268378844855,
+        "sol": 5.106822327310256,
         "ltc": 0.9732532683141484,
         "uni": 10.241873585575886,
-        "dot": 214.1936890646419,
+        "dot": 221.88008414534903,
         "bnb": 0.0,
         "ada": 810.1242003915141,
         "chz": 0.0,
@@ -18,20 +18,6 @@
         "pol": 235.50526908796405
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-10-27T16:59:43.527776+00:00",
-            "ticker": "sandbrl",
-            "acao": "COMPRAR",
-            "quantidade": 150.0,
-            "preco_estimado": 0.2617
-        },
-        {
-            "timestamp": "2026-10-27T16:59:43.527779+00:00",
-            "ticker": "xrpbrl",
-            "acao": "VENDER",
-            "quantidade": 2.0,
-            "preco_estimado": 7.064
-        },
         {
             "timestamp": "2026-10-27T16:59:43.527781+00:00",
             "ticker": "adabrl",
@@ -367,10 +353,24 @@
             "acao": "VENDER",
             "quantidade": 1.0,
             "preco_estimado": 39.175
+        },
+        {
+            "timestamp": "2026-11-01T19:10:49.791855+00:00",
+            "ticker": "solbrl",
+            "acao": "COMPRAR",
+            "quantidade": 40.0,
+            "preco_estimado": 515.77
+        },
+        {
+            "timestamp": "2026-11-01T19:10:49.791871+00:00",
+            "ticker": "dotbrl",
+            "acao": "COMPRAR",
+            "quantidade": 40.0,
+            "preco_estimado": 5.204
         }
     ],
-    "licoes_aprendidas": "A estratégia de recomposição de caixa via vendas parciais (UNI) permitiu a alocação em ativos de maior peso (ETH, SOL) em zonas de suporte Fibonacci. A observação do RSI abaixo de 40 combinada com o suporte 0.0 de Fibonacci em SNX confirmou uma oportunidade de compra por exaustão, enquanto a manutenção de BTC reflete a cautela diante de resistências próximas.",
-    "ultima_execucao": "2026-11-01T17:26:30.104928+00:00",
+    "licoes_aprendidas": "A rodada atual demonstra uma correção generalizada em Altcoins (SOL, DOT, SNX), levando os preços a testarem níveis críticos de Fibonacci (0.0 e 0.236). A estratégia priorizou a utilização do saldo residual de BRL para reforçar posições em SOL e DOT, que apresentam RSI em zonas de acumulação, enquanto manteve a preservação de capital em BRL para possíveis quedas adicionais até os suportes de Bollinger.",
+    "ultima_execucao": "2026-11-01T19:10:49.791878+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
