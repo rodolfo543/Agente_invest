@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 12721.26,
+    "saldo_anterior": 12516.0,
     "saldos_virtuais": {
         "brl": 0.004440740118845099,
         "btc": 0.0023046276367919803,
@@ -369,8 +369,8 @@
             "preco_estimado": 5.163
         }
     ],
-    "licoes_aprendidas": "A rodada atual confirmou a validade dos níveis 0.0 de Fibonacci como suportes psicológicos e técnicos fortes para SOL, DOT e SNX. A estratégia de preservação de capital foi mantida, utilizando apenas a parcela residual do BRL para reforçar ativos com RSI próximo a 40 e preços em suportes críticos, evitando a exposição total em um cenário de correção lateral do BTC.",
-    "ultima_execucao": "2026-11-01T23:15:55.016332+00:00",
+    "licoes_aprendidas": "A rodada atual demonstra que a maioria dos ativos (SOL, SNX, ADA) atingiram simultaneamente seus níveis de Fibonacci 0.0, confirmando a natureza correlacionada da correção. Devido ao saldo de BRL virtual estar próximo de zero (0.0044), as recomendações de 'COMPRAR' (Nível 1) foram emitidas para sinalização técnica, mas não puderam ser executadas financeiramente, reforçando a necessidade de liquidez (caixa reserva) para aproveitar topos de sobrevenda.",
+    "ultima_execucao": "2026-11-02T21:13:17.570101+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
