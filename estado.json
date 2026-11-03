@@ -1,10 +1,10 @@
 {
-    "saldo_anterior": 12786.17,
+    "saldo_anterior": 12736.42,
     "saldos_virtuais": {
-        "brl": 85.12284074011885,
+        "brl": 15.274840740118847,
         "btc": 0.0023046276367919803,
         "eth": 0.3153371680196267,
-        "sol": 5.116557529802468,
+        "sol": 5.194471006886166,
         "ltc": 0.9732532683141484,
         "uni": 8.241873585575886,
         "dot": 222.68969096309064,
@@ -14,31 +14,10 @@
         "link": 19.24834541052973,
         "sand": 1144.959264294604,
         "xrp": 7.0012998464159235,
-        "snx": 876.9443823384938,
-        "pol": 225.50526908796405
+        "snx": 918.1093509502052,
+        "pol": 205.50526908796405
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-10-27T19:35:07.187669+00:00",
-            "ticker": "polbrl",
-            "acao": "COMPRAR",
-            "quantidade": 100.0,
-            "preco_estimado": 0.49206
-        },
-        {
-            "timestamp": "2026-10-27T19:35:07.187672+00:00",
-            "ticker": "adabrl",
-            "acao": "COMPRAR",
-            "quantidade": 100.0,
-            "preco_estimado": 1.0966
-        },
-        {
-            "timestamp": "2026-10-27T19:35:07.187675+00:00",
-            "ticker": "snxbrl",
-            "acao": "COMPRAR",
-            "quantidade": 100.0,
-            "preco_estimado": 1.056
-        },
         {
             "timestamp": "2026-10-27T19:35:07.187677+00:00",
             "ticker": "xrpbrl",
@@ -367,10 +346,31 @@
             "acao": "VENDER",
             "quantidade": 10.0,
             "preco_estimado": 0.50884
+        },
+        {
+            "timestamp": "2026-11-03T20:39:58.579403+00:00",
+            "ticker": "solbrl",
+            "acao": "COMPRAR",
+            "quantidade": 40.0,
+            "preco_estimado": 513.39
+        },
+        {
+            "timestamp": "2026-11-03T20:39:58.579420+00:00",
+            "ticker": "snxbrl",
+            "acao": "COMPRAR",
+            "quantidade": 40.0,
+            "preco_estimado": 0.9717
+        },
+        {
+            "timestamp": "2026-11-03T20:39:58.579423+00:00",
+            "ticker": "polbrl",
+            "acao": "VENDER",
+            "quantidade": 20.0,
+            "preco_estimado": 0.5076
         }
     ],
-    "licoes_aprendidas": "A carteira encontra-se severamente desbalanceada com falta de liquidez em BRL, impedindo a compra de ativos em Nível 1 (SAND) e Nível 2 (SOL, ADA, SNX). Foi necessária a realização de lucros parciais em UNI e POL, que apresentaram sinais de sobrecompra ou resistência Fibonacci, para iniciar a recomposição do caixa reserva.",
-    "ultima_execucao": "2026-11-03T18:46:56.148854+00:00",
+    "licoes_aprendidas": "A estratégia de recomposição de caixa via vendas parciais (POL) permitiu a entrada em ativos com RSI baixo (SNX e SOL), aproveitando suportes de Fibonacci 0.0. A priorização de ativos em Nível 1 e 2 é essencial para maximizar o retorno no Swing Trade, mantendo a preservação de capital.",
+    "ultima_execucao": "2026-11-03T20:39:58.579431+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
