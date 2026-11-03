@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 12551.36,
+    "saldo_anterior": 11609.08,
     "saldos_virtuais": {
         "brl": 0.004440740118845099,
         "btc": 0.0023046276367919803,
@@ -369,8 +369,8 @@
             "preco_estimado": 5.163
         }
     ],
-    "licoes_aprendidas": "A análise técnica confirma que SOL, ADA, SNX e SAND atingiram simultaneamente o nível 0.0 de Fibonacci, indicando um fundo local correlacionado. O bot identifica oportunidades claras de compra (Nível 1), porém a ausência de saldo em BRL (caixa reserva) impede a execução. A lição central permanece a necessidade de liquidez estratégica para operar em zonas de sobrevenda (RSI < 40) e suportes chave de Fibonacci.",
-    "ultima_execucao": "2026-11-02T22:53:04.117522+00:00",
+    "licoes_aprendidas": "O mercado entrou em uma fase de correção coordenada, com SOL, SNX, ADA e SAND testando simultaneamente seus suportes de Fibonacci 0.0. Tecnicamente, existem múltiplos gatilhos de Nível 1 (Compra), porém o saldo de BRL é praticamente zero (0.0044), impossibilitando a execução de novas compras. A estratégia de Swing Trade agora exige a realização de lucros parciais em ativos de Nível 3/4 para recompor o caixa reserva, caso a queda se intensifique.",
+    "ultima_execucao": "2026-11-03T02:14:26.110939+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
