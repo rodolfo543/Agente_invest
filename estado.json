@@ -1,65 +1,23 @@
 {
-    "saldo_anterior": 12738.71,
+    "saldo_anterior": 13158.27,
     "saldos_virtuais": {
-        "brl": 20.350040740118846,
-        "btc": 0.0023046276367919803,
-        "eth": 0.3153371680196267,
+        "brl": 933.2210407401188,
+        "btc": 0.0018046276367919803,
+        "eth": 0.2653371680196267,
         "sol": 5.194471006886166,
         "ltc": 0.9732532683141484,
-        "uni": 8.241873585575886,
+        "uni": 7.2418735855758865,
         "dot": 222.68969096309064,
         "bnb": 0.0,
         "ada": 810.1242003915141,
         "chz": 0.0,
         "link": 19.24834541052973,
-        "sand": 1144.959264294604,
+        "sand": 1183.5053075432645,
         "xrp": 7.0012998464159235,
-        "snx": 918.1093509502052,
-        "pol": 195.50526908796405
+        "snx": 928.1113513502852,
+        "pol": 175.50526908796405
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-10-27T23:25:22.066307+00:00",
-            "ticker": "btcbrl",
-            "acao": "VENDER",
-            "quantidade": 0.0005,
-            "preco_estimado": 433807.0
-        },
-        {
-            "timestamp": "2026-10-27T23:25:22.066323+00:00",
-            "ticker": "adabrl",
-            "acao": "COMPRAR",
-            "quantidade": 100.0,
-            "preco_estimado": 1.103
-        },
-        {
-            "timestamp": "2026-10-27T23:25:22.066325+00:00",
-            "ticker": "snxbrl",
-            "acao": "COMPRAR",
-            "quantidade": 100.0,
-            "preco_estimado": 1.0759
-        },
-        {
-            "timestamp": "2026-10-27T23:25:22.066327+00:00",
-            "ticker": "polbrl",
-            "acao": "COMPRAR",
-            "quantidade": 65.43,
-            "preco_estimado": 0.49464
-        },
-        {
-            "timestamp": "2026-10-28T17:38:37.807302+00:00",
-            "ticker": "btcbrl",
-            "acao": "VENDER",
-            "quantidade": 0.0005,
-            "preco_estimado": 433576.0
-        },
-        {
-            "timestamp": "2026-10-28T17:38:37.807319+00:00",
-            "ticker": "ltcbrl",
-            "acao": "COMPRAR",
-            "quantidade": 100.0,
-            "preco_estimado": 319.32
-        },
         {
             "timestamp": "2026-10-28T17:38:37.807322+00:00",
             "ticker": "snxbrl",
@@ -367,10 +325,52 @@
             "acao": "VENDER",
             "quantidade": 10.0,
             "preco_estimado": 0.50752
+        },
+        {
+            "timestamp": "2026-11-04T18:57:52.178918+00:00",
+            "ticker": "btcbrl",
+            "acao": "VENDER",
+            "quantidade": 0.0005,
+            "preco_estimado": 439026.0
+        },
+        {
+            "timestamp": "2026-11-04T18:57:52.178936+00:00",
+            "ticker": "ethbrl",
+            "acao": "VENDER",
+            "quantidade": 0.05,
+            "preco_estimado": 13224.4
+        },
+        {
+            "timestamp": "2026-11-04T18:57:52.178939+00:00",
+            "ticker": "snxbrl",
+            "acao": "COMPRAR",
+            "quantidade": 10.0,
+            "preco_estimado": 0.9998
+        },
+        {
+            "timestamp": "2026-11-04T18:57:52.178941+00:00",
+            "ticker": "sandbrl",
+            "acao": "COMPRAR",
+            "quantidade": 10.0,
+            "preco_estimado": 0.25943
+        },
+        {
+            "timestamp": "2026-11-04T18:57:52.178943+00:00",
+            "ticker": "unibrl",
+            "acao": "VENDER",
+            "quantidade": 1.0,
+            "preco_estimado": 41.66
+        },
+        {
+            "timestamp": "2026-11-04T18:57:52.178945+00:00",
+            "ticker": "polbrl",
+            "acao": "VENDER",
+            "quantidade": 20.0,
+            "preco_estimado": 0.5239
         }
     ],
-    "licoes_aprendidas": "A rodada atual demonstra uma fase de consolidação lateral para a maioria dos ativos. O foco mudou para a preservação de capital, dada a escassez de liquidez em BRL (15.27). A venda parcial de POL em zona de resistência (Fibonacci 0.618) é estratégica para recuperar margem de manobra para futuras entradas em ativos Nível 1 (SNX, SAND) que estão em zonas de suporte crítico.",
-    "ultima_execucao": "2026-11-04T00:17:46.392251+00:00",
+    "licoes_aprendidas": "A rodada atual mostra um forte movimento de alta em BTC, ETH e UNI, levando-os a zonas de sobrecompra (Bandas Superiores e Fib 1.0). A estratégia agora é a realização parcial de lucros para aumentar a reserva de BRL, enquanto se mantém a posição em ativos subvalorizados como SNX e SAND, que operam próximos a suportes históricos de Fibonacci.",
+    "ultima_execucao": "2026-11-04T18:57:52.178954+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
