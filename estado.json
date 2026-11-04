@@ -1,7 +1,7 @@
 {
-    "saldo_anterior": 12736.42,
+    "saldo_anterior": 12738.71,
     "saldos_virtuais": {
-        "brl": 15.274840740118847,
+        "brl": 20.350040740118846,
         "btc": 0.0023046276367919803,
         "eth": 0.3153371680196267,
         "sol": 5.194471006886166,
@@ -15,16 +15,9 @@
         "sand": 1144.959264294604,
         "xrp": 7.0012998464159235,
         "snx": 918.1093509502052,
-        "pol": 205.50526908796405
+        "pol": 195.50526908796405
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-10-27T19:35:07.187677+00:00",
-            "ticker": "xrpbrl",
-            "acao": "VENDER",
-            "quantidade": 1.0,
-            "preco_estimado": 7.072
-        },
         {
             "timestamp": "2026-10-27T23:25:22.066307+00:00",
             "ticker": "btcbrl",
@@ -367,10 +360,17 @@
             "acao": "VENDER",
             "quantidade": 20.0,
             "preco_estimado": 0.5076
+        },
+        {
+            "timestamp": "2026-11-04T00:17:46.392227+00:00",
+            "ticker": "polbrl",
+            "acao": "VENDER",
+            "quantidade": 10.0,
+            "preco_estimado": 0.50752
         }
     ],
-    "licoes_aprendidas": "A estratégia de recomposição de caixa via vendas parciais (POL) permitiu a entrada em ativos com RSI baixo (SNX e SOL), aproveitando suportes de Fibonacci 0.0. A priorização de ativos em Nível 1 e 2 é essencial para maximizar o retorno no Swing Trade, mantendo a preservação de capital.",
-    "ultima_execucao": "2026-11-03T20:39:58.579431+00:00",
+    "licoes_aprendidas": "A rodada atual demonstra uma fase de consolidação lateral para a maioria dos ativos. O foco mudou para a preservação de capital, dada a escassez de liquidez em BRL (15.27). A venda parcial de POL em zona de resistência (Fibonacci 0.618) é estratégica para recuperar margem de manobra para futuras entradas em ativos Nível 1 (SNX, SAND) que estão em zonas de suporte crítico.",
+    "ultima_execucao": "2026-11-04T00:17:46.392251+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
