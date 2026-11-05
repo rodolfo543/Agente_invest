@@ -1,93 +1,23 @@
 {
-    "saldo_anterior": 13158.27,
+    "saldo_anterior": 13191.9,
     "saldos_virtuais": {
-        "brl": 933.2210407401188,
-        "btc": 0.0018046276367919803,
-        "eth": 0.2653371680196267,
-        "sol": 5.194471006886166,
+        "brl": 1334.104240740119,
+        "btc": 0.0013046276367919803,
+        "eth": 0.2153371680196267,
+        "sol": 5.385128776190266,
         "ltc": 0.9732532683141484,
-        "uni": 7.2418735855758865,
-        "dot": 222.68969096309064,
-        "bnb": 0.0,
+        "uni": 6.2418735855758865,
+        "dot": 241.81746449025206,
+        "bnb": 0.038217534204693114,
         "ada": 810.1242003915141,
         "chz": 0.0,
         "link": 19.24834541052973,
-        "sand": 1183.5053075432645,
-        "xrp": 7.0012998464159235,
-        "snx": 928.1113513502852,
-        "pol": 175.50526908796405
+        "sand": 1568.9657400298697,
+        "xrp": 5.0012998464159235,
+        "snx": 1029.2440374344276,
+        "pol": 155.50526908796405
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-10-28T17:38:37.807322+00:00",
-            "ticker": "snxbrl",
-            "acao": "COMPRAR",
-            "quantidade": 50.0,
-            "preco_estimado": 1.0563
-        },
-        {
-            "timestamp": "2026-10-28T17:38:37.807325+00:00",
-            "ticker": "dotbrl",
-            "acao": "COMPRAR",
-            "quantidade": 50.0,
-            "preco_estimado": 5.34
-        },
-        {
-            "timestamp": "2026-10-28T17:38:37.807327+00:00",
-            "ticker": "adabrl",
-            "acao": "COMPRAR",
-            "quantidade": 50.0,
-            "preco_estimado": 1.0858
-        },
-        {
-            "timestamp": "2026-10-28T20:08:44.115212+00:00",
-            "ticker": "btcbrl",
-            "acao": "VENDER",
-            "quantidade": 0.0005,
-            "preco_estimado": 435090.0
-        },
-        {
-            "timestamp": "2026-10-28T20:08:44.115228+00:00",
-            "ticker": "sandbrl",
-            "acao": "COMPRAR",
-            "quantidade": 50.0,
-            "preco_estimado": 0.2617
-        },
-        {
-            "timestamp": "2026-10-28T20:08:44.115231+00:00",
-            "ticker": "dotbrl",
-            "acao": "COMPRAR",
-            "quantidade": 50.0,
-            "preco_estimado": 5.439
-        },
-        {
-            "timestamp": "2026-10-28T20:08:44.115233+00:00",
-            "ticker": "snxbrl",
-            "acao": "COMPRAR",
-            "quantidade": 50.0,
-            "preco_estimado": 1.0754
-        },
-        {
-            "timestamp": "2026-10-28T20:08:44.115235+00:00",
-            "ticker": "adabrl",
-            "acao": "COMPRAR",
-            "quantidade": 33.69,
-            "preco_estimado": 1.0975
-        },
-        {
-            "timestamp": "2026-10-28T23:54:56.104468+00:00",
-            "ticker": "btcbrl",
-            "acao": "VENDER",
-            "quantidade": 0.0005,
-            "preco_estimado": 435327.0
-        },
-        {
-            "timestamp": "2026-10-28T23:54:56.104482+00:00",
-            "ticker": "dotbrl",
-            "acao": "COMPRAR",
-            "quantidade": 50.0,
-            "preco_estimado": 5.423
-        },
         {
             "timestamp": "2026-10-28T23:54:56.104485+00:00",
             "ticker": "adabrl",
@@ -367,10 +297,80 @@
             "acao": "VENDER",
             "quantidade": 20.0,
             "preco_estimado": 0.5239
+        },
+        {
+            "timestamp": "2026-11-05T00:37:39.104304+00:00",
+            "ticker": "btcbrl",
+            "acao": "VENDER",
+            "quantidade": 0.0005,
+            "preco_estimado": 440666.0
+        },
+        {
+            "timestamp": "2026-11-05T00:37:39.104320+00:00",
+            "ticker": "ethbrl",
+            "acao": "VENDER",
+            "quantidade": 0.05,
+            "preco_estimado": 13267.8
+        },
+        {
+            "timestamp": "2026-11-05T00:37:39.104322+00:00",
+            "ticker": "solbrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 524.5
+        },
+        {
+            "timestamp": "2026-11-05T00:37:39.104325+00:00",
+            "ticker": "dotbrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 5.228
+        },
+        {
+            "timestamp": "2026-11-05T00:37:39.104326+00:00",
+            "ticker": "bnbbrl",
+            "acao": "COMPRAR",
+            "quantidade": 150.0,
+            "preco_estimado": 3924.9
+        },
+        {
+            "timestamp": "2026-11-05T00:37:39.104328+00:00",
+            "ticker": "sandbrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 0.25943
+        },
+        {
+            "timestamp": "2026-11-05T00:37:39.104329+00:00",
+            "ticker": "unibrl",
+            "acao": "VENDER",
+            "quantidade": 1.0,
+            "preco_estimado": 42.295
+        },
+        {
+            "timestamp": "2026-11-05T00:37:39.104330+00:00",
+            "ticker": "xrpbrl",
+            "acao": "VENDER",
+            "quantidade": 2.0,
+            "preco_estimado": 7.153
+        },
+        {
+            "timestamp": "2026-11-05T00:37:39.104332+00:00",
+            "ticker": "snxbrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 0.9888
+        },
+        {
+            "timestamp": "2026-11-05T00:37:39.104333+00:00",
+            "ticker": "polbrl",
+            "acao": "VENDER",
+            "quantidade": 20.0,
+            "preco_estimado": 0.52796
         }
     ],
-    "licoes_aprendidas": "A rodada atual mostra um forte movimento de alta em BTC, ETH e UNI, levando-os a zonas de sobrecompra (Bandas Superiores e Fib 1.0). A estratégia agora é a realização parcial de lucros para aumentar a reserva de BRL, enquanto se mantém a posição em ativos subvalorizados como SNX e SAND, que operam próximos a suportes históricos de Fibonacci.",
-    "ultima_execucao": "2026-11-04T18:57:52.178954+00:00",
+    "licoes_aprendidas": "A rodada confirma a correlação de topo entre BTC, ETH, UNI e POL, todos atingindo níveis de Fib 1.0 simultaneamente. A estratégia de preservar capital via vendas parciais em zonas de sobrecompra (Banda Superior) é essencial para financiar a entrada em ativos descontados (SNX, SAND) que operam em suportes históricos (Fib 0.0), otimizando o custo médio da carteira.",
+    "ultima_execucao": "2026-11-05T00:37:39.104341+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
