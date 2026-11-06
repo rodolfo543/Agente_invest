@@ -1,10 +1,10 @@
 {
-    "saldo_anterior": 12573.17,
+    "saldo_anterior": 12561.62,
     "saldos_virtuais": {
-        "brl": 26.595342407401187,
+        "brl": 16.818342407401186,
         "btc": 0.0013046276367919803,
         "eth": 0.2153371680196267,
-        "sol": 5.7921291831906725,
+        "sol": 5.832449325117572,
         "ltc": 1.263804262251817,
         "uni": 10.267746529025791,
         "dot": 271.69199147690813,
@@ -15,23 +15,9 @@
         "sand": 2446.0433175416006,
         "xrp": 5.0012998464159235,
         "snx": 1252.5580168895415,
-        "pol": 105.50526908796405
+        "pol": 85.50526908796405
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-10-29T23:44:41.882418+00:00",
-            "ticker": "solbrl",
-            "acao": "COMPRAR",
-            "quantidade": 50.0,
-            "preco_estimado": 519.6
-        },
-        {
-            "timestamp": "2026-10-29T23:44:41.882421+00:00",
-            "ticker": "adabrl",
-            "acao": "COMPRAR",
-            "quantidade": 50.0,
-            "preco_estimado": 1.0298
-        },
         {
             "timestamp": "2026-10-29T23:44:41.882424+00:00",
             "ticker": "unibrl",
@@ -367,10 +353,24 @@
             "acao": "VENDER",
             "quantidade": 20.0,
             "preco_estimado": 0.50857
+        },
+        {
+            "timestamp": "2026-11-06T20:31:36.482136+00:00",
+            "ticker": "solbrl",
+            "acao": "COMPRAR",
+            "quantidade": 20.0,
+            "preco_estimado": 496.03
+        },
+        {
+            "timestamp": "2026-11-06T20:31:36.482151+00:00",
+            "ticker": "polbrl",
+            "acao": "VENDER",
+            "quantidade": 20.0,
+            "preco_estimado": 0.51115
         }
     ],
-    "licoes_aprendidas": "A carteira encontra-se severamente descapitalizada em BRL (16.42), impedindo a entrada em ativos de Nível 1 (SNX, CHZ) que estão em zonas de suporte Fibonacci 0.0. A estratégia atual exige a liquidação parcial de ativos que atingiram níveis de resistência ou neutralidade (como POL) para recuperar a liquidez necessária para aproveitar reversões de fundo de mercado.",
-    "ultima_execucao": "2026-11-06T18:36:21.364930+00:00",
+    "licoes_aprendidas": "A carteira continua com baixa liquidez em BRL, o que limita a capacidade de aproveitar ativos em Nível 1 (CHZ). A venda parcial de POL foi executada para converter a força relativa do ativo em capital de giro, permitindo a acumulação de SOL, que atingiu seu suporte crítico de 30 dias (Fibonacci 0.0). A estratégia segue focada em 'esticar' a liquidez através de vendas em resistências para alimentar compras em suportes extremos.",
+    "ultima_execucao": "2026-11-06T20:31:36.482158+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
