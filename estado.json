@@ -1,10 +1,10 @@
 {
-    "saldo_anterior": 12561.62,
+    "saldo_anterior": 12603.3,
     "saldos_virtuais": {
-        "brl": 16.818342407401186,
+        "brl": 17.108742407401188,
         "btc": 0.0013046276367919803,
         "eth": 0.2153371680196267,
-        "sol": 5.832449325117572,
+        "sol": 5.852446925405538,
         "ltc": 1.263804262251817,
         "uni": 10.267746529025791,
         "dot": 271.69199147690813,
@@ -15,23 +15,9 @@
         "sand": 2446.0433175416006,
         "xrp": 5.0012998464159235,
         "snx": 1252.5580168895415,
-        "pol": 85.50526908796405
+        "pol": 65.50526908796405
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-10-29T23:44:41.882424+00:00",
-            "ticker": "unibrl",
-            "acao": "COMPRAR",
-            "quantidade": 50.0,
-            "preco_estimado": 34.974
-        },
-        {
-            "timestamp": "2026-10-30T19:35:50.572079+00:00",
-            "ticker": "polbrl",
-            "acao": "VENDER",
-            "quantidade": 50.0,
-            "preco_estimado": 0.50232
-        },
         {
             "timestamp": "2026-10-30T23:30:31.763088+00:00",
             "ticker": "polbrl",
@@ -367,10 +353,24 @@
             "acao": "VENDER",
             "quantidade": 20.0,
             "preco_estimado": 0.51115
+        },
+        {
+            "timestamp": "2026-11-06T23:53:27.122137+00:00",
+            "ticker": "solbrl",
+            "acao": "COMPRAR",
+            "quantidade": 10.0,
+            "preco_estimado": 500.06
+        },
+        {
+            "timestamp": "2026-11-06T23:53:27.122154+00:00",
+            "ticker": "polbrl",
+            "acao": "VENDER",
+            "quantidade": 20.0,
+            "preco_estimado": 0.51452
         }
     ],
-    "licoes_aprendidas": "A carteira continua com baixa liquidez em BRL, o que limita a capacidade de aproveitar ativos em Nível 1 (CHZ). A venda parcial de POL foi executada para converter a força relativa do ativo em capital de giro, permitindo a acumulação de SOL, que atingiu seu suporte crítico de 30 dias (Fibonacci 0.0). A estratégia segue focada em 'esticar' a liquidez através de vendas em resistências para alimentar compras em suportes extremos.",
-    "ultima_execucao": "2026-11-06T20:31:36.482158+00:00",
+    "licoes_aprendidas": "A liquidez em BRL permanece o principal gargalo. Foi necessária a venda parcial de POL (Nível 4) para capturar lucro em resistência e financiar a acumulação de SOL, que apresenta a melhor relação risco/retorno ao testar o suporte Fibonacci 0.0. Ativos como SAND e CHZ estão em níveis de desconto extremo (Nível 1), mas a preservação de capital impede entradas agressivas sem a liquidação de ativos em tendência de alta.",
+    "ultima_execucao": "2026-11-06T23:53:27.122163+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
