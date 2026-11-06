@@ -1,7 +1,7 @@
 {
-    "saldo_anterior": 12491.54,
+    "saldo_anterior": 12552.52,
     "saldos_virtuais": {
-        "brl": 0.84104240740119,
+        "brl": 16.42394240740119,
         "btc": 0.0013046276367919803,
         "eth": 0.2153371680196267,
         "sol": 5.7921291831906725,
@@ -15,16 +15,9 @@
         "sand": 2446.0433175416006,
         "xrp": 5.0012998464159235,
         "snx": 1252.5580168895415,
-        "pol": 155.50526908796405
+        "pol": 125.50526908796405
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-10-29T20:24:51.779721+00:00",
-            "ticker": "sandbrl",
-            "acao": "COMPRAR",
-            "quantidade": 50.0,
-            "preco_estimado": 0.26362
-        },
         {
             "timestamp": "2026-10-29T23:44:41.882403+00:00",
             "ticker": "ethbrl",
@@ -367,10 +360,17 @@
             "acao": "COMPRAR",
             "quantidade": 83.26319833271775,
             "preco_estimado": 286.57
+        },
+        {
+            "timestamp": "2026-11-06T00:36:40.731101+00:00",
+            "ticker": "polbrl",
+            "acao": "VENDER",
+            "quantidade": 30.0,
+            "preco_estimado": 0.51943
         }
     ],
-    "licoes_aprendidas": "A rodada atual confirmou a tese de correção profunda, com ativos como SOL, ADA e SNX atingindo o suporte Fibonacci 0.0. O saldo em BRL está virtualmente zerado, impossibilitando novas compras, o que reforça a importância de realizar lucros parciais em ativos de Nível 4/5 (como POL) em ciclos futuros para regenerar a liquidez de oportunidade.",
-    "ultima_execucao": "2026-11-05T21:10:15.751935+00:00",
+    "licoes_aprendidas": "A rodada demonstra uma correção generalizada, com a maioria dos ativos testando os níveis de suporte Fibonacci 0.0. A ausência de liquidez em BRL impede a entrada em ativos de Nível 1 (SNX, CHZ), evidenciando a necessidade de vendas estratégicas em ativos que atingiram resistências (POL Nível 4) para regenerar a capacidade de compra em fundos de mercado.",
+    "ultima_execucao": "2026-11-06T00:36:40.731119+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
