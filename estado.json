@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 12603.3,
+    "saldo_anterior": 12621.31,
     "saldos_virtuais": {
         "brl": 17.108742407401188,
         "btc": 0.0013046276367919803,
@@ -369,8 +369,8 @@
             "preco_estimado": 0.51452
         }
     ],
-    "licoes_aprendidas": "A liquidez em BRL permanece o principal gargalo. Foi necessária a venda parcial de POL (Nível 4) para capturar lucro em resistência e financiar a acumulação de SOL, que apresenta a melhor relação risco/retorno ao testar o suporte Fibonacci 0.0. Ativos como SAND e CHZ estão em níveis de desconto extremo (Nível 1), mas a preservação de capital impede entradas agressivas sem a liquidação de ativos em tendência de alta.",
-    "ultima_execucao": "2026-11-06T23:53:27.122163+00:00",
+    "licoes_aprendidas": "A carteira encontra-se altamente exposta em ativos que agora testam suportes críticos de Fibonacci 0.0 (SOL, XRP, SNX, SAND). O saldo de BRL é insuficiente (R$ 17,10) para novas compras, impossibilitando a execução de Nível 1 e 2. A estratégia agora deve focar em 'Hold' para aguardar a reversão desses suportes ou a liquidação de ativos em Nível 3/4 para recomposição de caixa.",
+    "ultima_execucao": "2026-11-07T17:05:18.801592+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
