@@ -1,12 +1,12 @@
 {
-    "saldo_anterior": 12621.31,
+    "saldo_anterior": 12665.36,
     "saldos_virtuais": {
-        "brl": 17.108742407401188,
+        "brl": 97.4667424074012,
         "btc": 0.0013046276367919803,
         "eth": 0.2153371680196267,
         "sol": 5.852446925405538,
         "ltc": 1.263804262251817,
-        "uni": 10.267746529025791,
+        "uni": 8.267746529025791,
         "dot": 271.69199147690813,
         "bnb": 0.038217534204693114,
         "ada": 1009.5458775278189,
@@ -18,13 +18,6 @@
         "pol": 65.50526908796405
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-10-30T23:30:31.763088+00:00",
-            "ticker": "polbrl",
-            "acao": "VENDER",
-            "quantidade": 50.0,
-            "preco_estimado": 0.51263
-        },
         {
             "timestamp": "2026-10-31T16:27:11.839004+00:00",
             "ticker": "ethbrl",
@@ -367,10 +360,17 @@
             "acao": "VENDER",
             "quantidade": 20.0,
             "preco_estimado": 0.51452
+        },
+        {
+            "timestamp": "2026-11-07T18:59:38.387158+00:00",
+            "ticker": "unibrl",
+            "acao": "VENDER",
+            "quantidade": 2.0,
+            "preco_estimado": 40.179
         }
     ],
-    "licoes_aprendidas": "A carteira encontra-se altamente exposta em ativos que agora testam suportes críticos de Fibonacci 0.0 (SOL, XRP, SNX, SAND). O saldo de BRL é insuficiente (R$ 17,10) para novas compras, impossibilitando a execução de Nível 1 e 2. A estratégia agora deve focar em 'Hold' para aguardar a reversão desses suportes ou a liquidação de ativos em Nível 3/4 para recomposição de caixa.",
-    "ultima_execucao": "2026-11-07T17:05:18.801592+00:00",
+    "licoes_aprendidas": "A carteira continua com baixa liquidez em BRL, limitando a capacidade de aproveitar ativos em Nível 1 e 2. A venda parcial de UNI visa recompor o caixa reserva, aproveitando que o ativo atingiu a resistência Fibonacci 1.0. Observa-se que a maioria dos ativos (SOL, XRP, SNX, DOT) está testando seus suportes absolutos de 30 dias (Fibonacci 0.0), exigindo paciência para aguardar a confirmação de reversão via MACD e RSI.",
+    "ultima_execucao": "2026-11-07T18:59:38.387178+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
