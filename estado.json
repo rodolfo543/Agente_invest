@@ -1,10 +1,10 @@
 {
-    "saldo_anterior": 12634.88,
+    "saldo_anterior": 12229.87,
     "saldos_virtuais": {
-        "brl": 76.83774240740121,
+        "brl": 26.83774240740121,
         "btc": 0.0013046276367919803,
         "eth": 0.2153371680196267,
-        "sol": 6.1312703146747225,
+        "sol": 6.234043125099997,
         "ltc": 1.263804262251817,
         "uni": 4.267746529025791,
         "dot": 271.69199147690813,
@@ -18,13 +18,6 @@
         "pol": 65.50526908796405
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-11-01T17:26:30.104921+00:00",
-            "ticker": "snxbrl",
-            "acao": "COMPRAR",
-            "quantidade": 60.2,
-            "preco_estimado": 0.9992
-        },
         {
             "timestamp": "2026-11-01T17:26:30.104922+00:00",
             "ticker": "unibrl",
@@ -367,10 +360,17 @@
             "acao": "VENDER",
             "quantidade": 1.0,
             "preco_estimado": 39.551
+        },
+        {
+            "timestamp": "2026-11-08T23:34:32.849169+00:00",
+            "ticker": "solbrl",
+            "acao": "COMPRAR",
+            "quantidade": 50.0,
+            "preco_estimado": 486.51
         }
     ],
-    "licoes_aprendidas": "A maioria dos altcoins permanece em zona de suporte Fibonacci 0.0, confirmando a tese de fundo de mercado. O saldo de BRL é extremamente limitado (R$ 87.28), impossibilitando compras agressivas. A estratégia agora foca em micro-ajustes: reduzindo UNI para gerar liquidez e reforçando SOL, que apresenta melhor relação risco/retorno próximo ao suporte.",
-    "ultima_execucao": "2026-11-08T18:57:21.866359+00:00",
+    "licoes_aprendidas": "O mercado entrou em uma fase de correção generalizada, levando a maioria dos ativos (SOL, DOT, SNX, LTC, XRP) aos seus suportes de Fibonacci 0.0. Esta é a zona ideal para compras de Swing Trade. Devido ao caixa BRL limitado (R$ 76,83), a prioridade foi alocada para SOL, que apresenta a convergência mais forte entre suporte Fib 0.0, Banda de Bollinger inferior e RSI de sobrevenda.",
+    "ultima_execucao": "2026-11-08T23:34:32.849190+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
