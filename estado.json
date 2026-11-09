@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 12229.87,
+    "saldo_anterior": 12106.23,
     "saldos_virtuais": {
         "brl": 26.83774240740121,
         "btc": 0.0013046276367919803,
@@ -369,8 +369,8 @@
             "preco_estimado": 486.51
         }
     ],
-    "licoes_aprendidas": "O mercado entrou em uma fase de correção generalizada, levando a maioria dos ativos (SOL, DOT, SNX, LTC, XRP) aos seus suportes de Fibonacci 0.0. Esta é a zona ideal para compras de Swing Trade. Devido ao caixa BRL limitado (R$ 76,83), a prioridade foi alocada para SOL, que apresenta a convergência mais forte entre suporte Fib 0.0, Banda de Bollinger inferior e RSI de sobrevenda.",
-    "ultima_execucao": "2026-11-08T23:34:32.849190+00:00",
+    "licoes_aprendidas": "A maioria dos ativos atingiu simultaneamente o nível 0.0 de Fibonacci e a Banda de Bollinger inferior, caracterizando um 'bottom' generalizado do mercado. No entanto, a liquidez em BRL (R$ 26,83) é insuficiente para realizar compras significativas sem comprometer totalmente a reserva de capital. A estratégia agora é a de espera (Hold) para observar a confirmação de reversão via MACD e RSI antes de alocar o restante do caixa.",
+    "ultima_execucao": "2026-11-09T21:42:44.064178+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
