@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 12112.84,
+    "saldo_anterior": 12067.22,
     "saldos_virtuais": {
         "brl": 26.83774240740121,
         "btc": 0.0013046276367919803,
@@ -369,8 +369,8 @@
             "preco_estimado": 486.51
         }
     ],
-    "licoes_aprendidas": "O mercado entrou em uma fase de 'capitulação' técnica, com múltiplos ativos (SOL, DOT, ADA, SNX, XRP, ETH) atingindo simultaneamente a base de Fibonacci (0.0) e as Bandas de Bollinger inferiores. Apesar dos sinais técnicos fortíssimos de compra (Nível 1), a liquidez de BRL disponível (R$ 26,83) é irrelevante para a execução de trades de swing trade. A prioridade permanece a preservação do capital e a espera por um sinal de reversão confirmado no MACD para evitar 'tentar pegar a faca caindo'.",
-    "ultima_execucao": "2026-11-09T23:32:45.478465+00:00",
+    "licoes_aprendidas": "A análise técnica confirma que a maioria dos ativos (ETH, SOL, DOT, XRP, ADA, SNX, LTC) atingiu simultaneamente o nível 0.0 de Fibonacci e a Banda de Bollinger inferior, caracterizando um 'cluster' de suportes extremamente forte. No entanto, a liquidez em BRL (R$ 26,83) é insuficiente para realizar qualquer operação de Swing Trade significativa. A estratégia mantém a preservação do capital e a observação dos ativos, aguardando a entrada de volume ou a recuperação do saldo em BRL via vendas estratégicas futuras para aproveitar estas zonas de desconto extremo.",
+    "ultima_execucao": "2026-11-10T02:31:20.868276+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
