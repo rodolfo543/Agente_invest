@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 11909.2,
+    "saldo_anterior": 11888.36,
     "saldos_virtuais": {
         "brl": 26.83774240740121,
         "btc": 0.0013046276367919803,
@@ -369,8 +369,8 @@
             "preco_estimado": 486.51
         }
     ],
-    "licoes_aprendidas": "O mercado entrou em uma fase de correção profunda, com a maioria dos ativos (SOL, DOT, ADA, XRP, ETH) atingindo simultaneamente a base de Fibonacci (0.0) e as Bandas de Bollinger inferiores. Tecnicamente, é um cenário de alta probabilidade para reversão ('Buy the Dip'). Entretanto, o saldo de BRL (R$ 26,83) é insuficiente para realizar compras significativas sem vender posições atuais. A decisão estratégica é manter a custódia (Hold) para evitar realizar prejuízo em suportes críticos e aguardar a recuperação orgânica dos preços para recomposição do caixa.",
-    "ultima_execucao": "2026-11-10T20:56:49.946329+00:00",
+    "licoes_aprendidas": "A maioria dos ativos principais (BTC, ETH, SOL, DOT, ADA, XRP) atingiu simultaneamente o nível 0.0 de Fibonacci e as Bandas de Bollinger inferiores, configurando um cenário de 'capitulação' ou fundo técnico. Embora as classificações sejam Nível 1 e 2 (Compra/Acumulação), a falta de liquidez em BRL (R$ 26,83) impede novas entradas. A estratégia correta agora é a paciência: manter as posições em suportes históricos e não vender no prejuízo, aguardando a reversão do MACD e o cruzamento de médias para a retomada da alta.",
+    "ultima_execucao": "2026-11-11T00:18:02.880303+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
