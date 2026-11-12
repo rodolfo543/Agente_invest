@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 11888.36,
+    "saldo_anterior": 11816.4,
     "saldos_virtuais": {
         "brl": 26.83774240740121,
         "btc": 0.0013046276367919803,
@@ -369,8 +369,8 @@
             "preco_estimado": 486.51
         }
     ],
-    "licoes_aprendidas": "A maioria dos ativos principais (BTC, ETH, SOL, DOT, ADA, XRP) atingiu simultaneamente o nível 0.0 de Fibonacci e as Bandas de Bollinger inferiores, configurando um cenário de 'capitulação' ou fundo técnico. Embora as classificações sejam Nível 1 e 2 (Compra/Acumulação), a falta de liquidez em BRL (R$ 26,83) impede novas entradas. A estratégia correta agora é a paciência: manter as posições em suportes históricos e não vender no prejuízo, aguardando a reversão do MACD e o cruzamento de médias para a retomada da alta.",
-    "ultima_execucao": "2026-11-11T00:18:02.880303+00:00",
+    "licoes_aprendidas": "O mercado entrou em um estado de capitulação generalizada, com quase todos os ativos principais testando simultaneamente a Banda de Bollinger inferior e o nível 0.0 de Fibonacci de 30 dias. Tecnicamente, as recomendações são de compra (Nível 1 e 2), porém a liquidez em BRL é inexistente (R$ 26,83), impedindo novas entradas. A estratégia atual deve ser a de 'Hold' rigoroso, pois vender agora significaria realizar prejuízos em zonas de suporte histórico. Aguarda-se a reversão do MACD e o RSI sair da zona de sobrevenda para confirmar a retomada da tendência.",
+    "ultima_execucao": "2026-11-12T21:32:18.021368+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
