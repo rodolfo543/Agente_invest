@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 11855.15,
+    "saldo_anterior": 11670.58,
     "saldos_virtuais": {
         "brl": 26.83774240740121,
         "btc": 0.0013046276367919803,
@@ -369,8 +369,8 @@
             "preco_estimado": 486.51
         }
     ],
-    "licoes_aprendidas": "A carteira permanece em estado de 'Hold' forçado devido à ausência de liquidez em BRL (R$ 26,83), apesar de múltiplos ativos (SOL, XRP, DOT) terem atingido Níveis 1 e 2 de recomendação técnica. A observação principal é a correlação positiva da queda, onde a maioria dos ativos testou a banda inferior de Bollinger simultaneamente. O sinal de reversão mais promissor reside no SNX, com o histograma do MACD tornando-se positivo, enquanto XRP e SOL apresentam as condições de sobrevenda mais agudas (RSI < 31), tornando-os alvos prioritários assim que houver caixa disponível.",
-    "ultima_execucao": "2026-11-13T00:49:06.805197+00:00",
+    "licoes_aprendidas": "O mercado entrou em um ciclo de correção generalizada, levando a maioria dos ativos a testarem os níveis de Fibonacci 0.0 (mínimas de 30 dias) e as Bandas Inferiores de Bollinger. SOL e XRP apresentam as condições técnicas mais favoráveis para reversão (RSI < 30), porém a liquidez em BRL (R$ 26,83) permanece insuficiente para novas entradas. O SNX é o único ativo demonstrando força relativa com MACD positivo. A estratégia mantém-se em 'Hold' preventivo, aguardando a estabilização do BTC para evitar a compra de 'facas caindo', apesar do desconto técnico.",
+    "ultima_execucao": "2026-11-13T19:35:50.319145+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
