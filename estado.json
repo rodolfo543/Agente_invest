@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 10848.38,
+    "saldo_anterior": 10840.46,
     "saldos_virtuais": {
         "brl": 26.83774240740121,
         "btc": 0.0013046276367919803,
@@ -369,8 +369,8 @@
             "preco_estimado": 486.51
         }
     ],
-    "licoes_aprendidas": "O mercado atingiu um estado de 'capitulação' técnica, com a maioria dos ativos (BTC, ETH, SOL, XRP, DOT) operando em RSI < 30 e atingindo o nível 0.0 de Fibonacci de 30 dias. Embora existam múltiplas oportunidades de Nível 1 (Compra Extrema), o saldo de BRL (R$ 26,83) é insuficiente para qualquer alocação significativa sem violar a regra de preservação de capital. A estratégia permanece em HOLD rigoroso, aguardando a formação de um fundo (estabilização do MACD) ou um repique para realocação de ativos menos promissores para os de Nível 1.",
-    "ultima_execucao": "2026-11-14T17:23:36.295998+00:00",
+    "licoes_aprendidas": "O mercado entrou em um estado de 'crash' generalizado, com a vasta maioria dos ativos atingindo simultaneamente o nível 0.0 de Fibonacci de 30 dias e RSI < 30. Tecnicamente, estamos diante de oportunidades de Nível 1 em quase todo o portfólio. Contudo, a regra de Preservação de Capital e a escassez de BRL (R$ 26,83) impedem qualquer compra. A estratégia agora é a paciência absoluta: não vender ativos em baixa extrema (evitar realizar prejuízo no fundo) e aguardar a estabilização do MACD para identificar a reversão da tendência.",
+    "ultima_execucao": "2026-11-14T19:21:41.837161+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
