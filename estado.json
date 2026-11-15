@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 10294.68,
+    "saldo_anterior": 10700.07,
     "saldos_virtuais": {
         "brl": 26.83774240740121,
         "btc": 0.0013046276367919803,
@@ -369,8 +369,8 @@
             "preco_estimado": 486.51
         }
     ],
-    "licoes_aprendidas": "O mercado permanece em estado de capitulação extrema, com quase todos os ativos testando ou rompendo o nível 0.0 de Fibonacci e apresentando RSI < 30. Tecnicamente, as condições de compra são ideais (Nível 1), porém a gestão de risco e a falta de liquidez em BRL (R$ 26,83) proíbem a entrada. A estratégia mantém-se em 'Hold' para evitar a realização de prejuízos no fundo do poço, aguardando a convergência do MACD e a estabilização dos preços.",
-    "ultima_execucao": "2026-11-14T23:28:29.693409+00:00",
+    "licoes_aprendidas": "O mercado atingiu níveis de sobrevenda extrema (RSI < 30 em vários ativos) e a maioria dos tickers está testando o nível 0.0 de Fibonacci de 30 dias. Tecnicamente, é a zona de compra ideal para Swing Trade. No entanto, a liquidez em BRL (R$ 26,83) é insuficiente para executar novas entradas. A estratégia permanece em 'Hold' rigoroso, pois vender agora significaria realizar prejuízos no suporte histórico. O foco deve ser a preservação do capital restante e a espera por sinais de reversão no MACD.",
+    "ultima_execucao": "2026-11-15T18:05:56.266722+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
