@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 10741.15,
+    "saldo_anterior": 10818.91,
     "saldos_virtuais": {
         "brl": 26.83774240740121,
         "btc": 0.0013046276367919803,
@@ -369,8 +369,8 @@
             "preco_estimado": 486.51
         }
     ],
-    "licoes_aprendidas": "A carteira encontra-se em estado de exposição máxima com liquidez BRL residual (R$ 26.83), impossibilitando novas compras apesar de múltiplos ativos (SOL, DOT, ADA, SNX) terem atingido Nível 1 (Suporte Fibonacci 0.0 + RSI < 30). A estratégia de Swing Trade agora exige paciência: a venda de ativos em suporte histórico resultaria em prejuízo irrecuperável. A prioridade é aguardar a inversão do MACD e o rompimento das SMAs 10/20 para iniciar a realização de lucros.",
-    "ultima_execucao": "2026-11-15T19:55:21.977253+00:00",
+    "licoes_aprendidas": "O mercado apresenta um cenário de sobrecompra generalizada (RSI baixo) e preços testando suportes de Fibonacci 0.0 em quase todos os ativos principais. Apesar de diversas oportunidades de Nível 1 e 2, a liquidez em BRL (R$ 26.83) é insuficiente para novas entradas. A estratégia atual deve ser rigorosamente a de HOLD, evitando vendas em suportes históricos para não realizar prejuízos em zonas de potencial reversão. A prioridade total é aguardar o cruzamento positivo do MACD e o rompimento das SMAs 10/20 para iniciar a saída gradual.",
+    "ultima_execucao": "2026-11-15T23:42:41.008200+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
