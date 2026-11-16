@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 10833.58,
+    "saldo_anterior": 10871.95,
     "saldos_virtuais": {
         "brl": 26.83774240740121,
         "btc": 0.0013046276367919803,
@@ -369,8 +369,8 @@
             "preco_estimado": 486.51
         }
     ],
-    "licoes_aprendidas": "O mercado permanece em estado de capitulação, com a maioria dos ativos testando os níveis 0.0 de Fibonacci e as bandas inferiores de Bollinger. O RSI generalizado abaixo de 35 confirma a condição de sobrevenda. Apesar de existirem inúmeras oportunidades de Nível 1 e 2 (especialmente em SOL e DOT), a escassez de saldo em BRL (R$ 26.83) impede novas compras. A estratégia de HOLD é a única viável para evitar a realização de prejuízos em zonas de suporte crítico. Aguarda-se a inversão do MACD e o rompimento das SMAs para considerar a saída.",
-    "ultima_execucao": "2026-11-16T21:21:30.950011+00:00",
+    "licoes_aprendidas": "O mercado continua em tendência de baixa, com a maioria dos ativos operando nas bandas inferiores de Bollinger e testando os níveis 0.0 de Fibonacci. Embora haja abundância de sinais de Nível 1 e 2 (especialmente em SOL e DOT), o saldo em BRL (R$ 26.83) é insuficiente para executar novas entradas. A estratégia permanece em HOLD rigoroso para evitar a realização de prejuízos em zonas de suporte crítico. A prioridade agora é aguardar a inversão do MACD e o RSI sair da zona de sobrevenda para validar a reversão da tendência.",
+    "ultima_execucao": "2026-11-16T23:34:10.741659+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
