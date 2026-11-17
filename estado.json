@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 10842.71,
+    "saldo_anterior": 10962.75,
     "saldos_virtuais": {
         "brl": 26.83774240740121,
         "btc": 0.0013046276367919803,
@@ -369,8 +369,8 @@
             "preco_estimado": 486.51
         }
     ],
-    "licoes_aprendidas": "O mercado entrou em uma fase de correção profunda, levando quase todos os ativos para as Bandas Inferiores de Bollinger e níveis 0.0 de Fibonacci. O RSI abaixo de 35 em múltiplos ativos confirma a sobrevenda. Com o saldo em BRL exaurido (R$ 26.83), a única ação prudente é o HOLD. Vender agora seria realizar prejuízo no ponto de maior probabilidade de reversão técnica. O foco permanece na preservação do capital e aguardo de sinais de alta no MACD e RSI.",
-    "ultima_execucao": "2026-11-17T20:09:28.627302+00:00",
+    "licoes_aprendidas": "A carteira permanece em estado de 'estresse técnico', com a maioria dos ativos em zonas de sobrevenda (RSI < 35) e testando suportes críticos de Fibonacci (0.0). A falta de liquidez em BRL (R$ 26.83) impede a capitalização de reversões no nível 1 e 2. A estratégia de preservação de capital dita a manutenção dos ativos (Hold), pois vender agora significaria realizar prejuízos em níveis de suporte histórico, onde a probabilidade de repique técnico é máxima. O foco deve ser a monitoria do MACD para a primeira confirmação de tendência altista.",
+    "ultima_execucao": "2026-11-17T22:32:32.600701+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
