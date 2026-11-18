@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 10970.94,
+    "saldo_anterior": 10430.07,
     "saldos_virtuais": {
         "brl": 26.83774240740121,
         "btc": 0.0013046276367919803,
@@ -369,8 +369,8 @@
             "preco_estimado": 486.51
         }
     ],
-    "licoes_aprendidas": "A maioria dos ativos atingiu a região de suporte Fibonacci 0.0 ou a Banda Inferior de Bollinger, configurando zonas de 'Desconto Extremo' (Níveis 1 e 2). Entretanto, o saldo de BRL (R$ 26.83) é insuficiente para realizar compras significativas. A estratégia de preservação de capital impediu perdas maiores, mas a falta de liquidez agora limita a capacidade de aproveitar a reversão. A prioridade total é manter a posição atual e aguardar a confirmação de alta (RSI > 40 e MACD cruzando para cima) antes de realizar qualquer venda estratégica para gerar caixa.",
-    "ultima_execucao": "2026-11-18T19:41:04.331946+00:00",
+    "licoes_aprendidas": "O mercado entrou em uma fase de correção profunda, com a maioria dos ativos testando os níveis 0.0 de Fibonacci e as Bandas Inferiores de Bollinger. Tecnicamente, estamos em zonas de 'Compra Forte' (Níveis 1 e 2), porém a escassez de BRL (R$ 26.83) impossibilita a execução de novas entradas. A estratégia atual deve ser a paciência: não vender ativos em níveis de suporte extremo para evitar a realização de prejuízo no fundo, aguardando a reversão do RSI e o cruzamento positivo do MACD para recuperar liquidez.",
+    "ultima_execucao": "2026-11-18T22:12:29.554483+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
