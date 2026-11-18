@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 10962.75,
+    "saldo_anterior": 11009.07,
     "saldos_virtuais": {
         "brl": 26.83774240740121,
         "btc": 0.0013046276367919803,
@@ -369,8 +369,8 @@
             "preco_estimado": 486.51
         }
     ],
-    "licoes_aprendidas": "A carteira permanece em estado de 'estresse técnico', com a maioria dos ativos em zonas de sobrevenda (RSI < 35) e testando suportes críticos de Fibonacci (0.0). A falta de liquidez em BRL (R$ 26.83) impede a capitalização de reversões no nível 1 e 2. A estratégia de preservação de capital dita a manutenção dos ativos (Hold), pois vender agora significaria realizar prejuízos em níveis de suporte histórico, onde a probabilidade de repique técnico é máxima. O foco deve ser a monitoria do MACD para a primeira confirmação de tendência altista.",
-    "ultima_execucao": "2026-11-17T22:32:32.600701+00:00",
+    "licoes_aprendidas": "O mercado permanece em tendência de baixa generalizada, com quase todos os ativos testando os níveis 0.0 de Retração de Fibonacci de 30 dias. A estratégia de preservação de capital foi correta ao evitar vendas no fundo, mas a falta de liquidez em BRL (R$ 26.83) impede a execução de compras em níveis de desconto extremo (Nível 1 e 2), como no caso do DOT. A prioridade agora é aguardar a inversão do MACD e a estabilização do RSI acima de 40 para confirmar a reversão de tendência antes de qualquer nova movimentação de venda para gerar caixa.",
+    "ultima_execucao": "2026-11-18T01:56:54.370266+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
