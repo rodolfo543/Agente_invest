@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 10430.07,
+    "saldo_anterior": 8661.73,
     "saldos_virtuais": {
         "brl": 26.83774240740121,
         "btc": 0.0013046276367919803,
@@ -369,8 +369,8 @@
             "preco_estimado": 486.51
         }
     ],
-    "licoes_aprendidas": "O mercado entrou em uma fase de correção profunda, com a maioria dos ativos testando os níveis 0.0 de Fibonacci e as Bandas Inferiores de Bollinger. Tecnicamente, estamos em zonas de 'Compra Forte' (Níveis 1 e 2), porém a escassez de BRL (R$ 26.83) impossibilita a execução de novas entradas. A estratégia atual deve ser a paciência: não vender ativos em níveis de suporte extremo para evitar a realização de prejuízo no fundo, aguardando a reversão do RSI e o cruzamento positivo do MACD para recuperar liquidez.",
-    "ultima_execucao": "2026-11-18T22:12:29.554483+00:00",
+    "licoes_aprendidas": "O mercado permanece em regime de baixa (bearish), com a maioria dos ativos operando próximos aos níveis 0.0 de Fibonacci e com RSIs em zonas de sobrevenda (abaixo de 35). Embora as classificações sejam de 'Acumular' (Nível 2), a liquidez em BRL (R$ 26.83) é insuficiente para novas entradas significativas. A estratégia de preservação de capital dita a manutenção dos ativos atuais, evitando vendas em suportes históricos para não realizar prejuízos no fundo do ciclo. Aguarda-se a convergência do MACD e a subida do RSI para confirmar reversões.",
+    "ultima_execucao": "2026-11-19T01:33:53.541677+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
