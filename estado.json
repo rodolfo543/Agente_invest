@@ -1,12 +1,12 @@
 {
-    "saldo_anterior": 11195.8,
+    "saldo_anterior": 11091.91,
     "saldos_virtuais": {
-        "brl": 126.14774240740121,
-        "btc": 0.0013046276367919803,
-        "eth": 0.2153371680196267,
+        "brl": 0.007742407401210016,
+        "btc": 0.001439825620719644,
+        "eth": 0.22012249811169646,
         "sol": 6.234043125099997,
         "ltc": 1.263804262251817,
-        "uni": 4.267746529025791,
+        "uni": 5.159044946919954,
         "dot": 271.69199147690813,
         "bnb": 0.038217534204693114,
         "ada": 1009.5458775278189,
@@ -18,27 +18,6 @@
         "pol": 65.50526908796405
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-11-01T19:10:49.791855+00:00",
-            "ticker": "solbrl",
-            "acao": "COMPRAR",
-            "quantidade": 40.0,
-            "preco_estimado": 515.77
-        },
-        {
-            "timestamp": "2026-11-01T19:10:49.791871+00:00",
-            "ticker": "dotbrl",
-            "acao": "COMPRAR",
-            "quantidade": 40.0,
-            "preco_estimado": 5.204
-        },
-        {
-            "timestamp": "2026-11-01T23:15:55.016310+00:00",
-            "ticker": "solbrl",
-            "acao": "COMPRAR",
-            "quantidade": 5.0,
-            "preco_estimado": 513.6
-        },
         {
             "timestamp": "2026-11-01T23:15:55.016326+00:00",
             "ticker": "dotbrl",
@@ -367,10 +346,31 @@
             "acao": "VENDER",
             "quantidade": 100.0,
             "preco_estimado": 0.9931
+        },
+        {
+            "timestamp": "2026-11-19T22:25:14.466930+00:00",
+            "ticker": "btcbrl",
+            "acao": "COMPRAR",
+            "quantidade": 50.0,
+            "preco_estimado": 369828.0
+        },
+        {
+            "timestamp": "2026-11-19T22:25:14.466945+00:00",
+            "ticker": "ethbrl",
+            "acao": "COMPRAR",
+            "quantidade": 50.0,
+            "preco_estimado": 10448.6
+        },
+        {
+            "timestamp": "2026-11-19T22:25:14.466948+00:00",
+            "ticker": "unibrl",
+            "acao": "COMPRAR",
+            "quantidade": 26.14,
+            "preco_estimado": 29.328
         }
     ],
-    "licoes_aprendidas": "A maioria dos ativos principais (BTC, ETH, DOT, LTC) atingiu níveis críticos de suporte (Fibonacci 0.0) e RSI de sobrevenda, configurando cenário de acumulação. A venda parcial de SNX foi executada para aproveitar a volatilidade positiva (>9%) e aumentar a reserva de BRL, já que a liquidez anterior (R$ 26.83) era insuficiente para operar. A estratégia permanece conservadora, evitando vendas em fundos históricos.",
-    "ultima_execucao": "2026-11-19T19:41:42.981151+00:00",
+    "licoes_aprendidas": "O mercado apresenta um cenário generalizado de sobrevenda (RSI < 35) em ativos core (BTC, ETH, DOT, LTC), com a maioria testando os níveis 0.0 de Fibonacci de 30 dias. A estratégia focou em distribuir o saldo residual de BRL (R$ 126,14) nos ativos com maior probabilidade de repique imediato (BTC, ETH, UNI) para maximizar a recuperação do capital, mantendo a prudência operacional.",
+    "ultima_execucao": "2026-11-19T22:25:14.466954+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
