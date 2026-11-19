@@ -1,7 +1,7 @@
 {
-    "saldo_anterior": 8661.73,
+    "saldo_anterior": 11195.8,
     "saldos_virtuais": {
-        "brl": 26.83774240740121,
+        "brl": 126.14774240740121,
         "btc": 0.0013046276367919803,
         "eth": 0.2153371680196267,
         "sol": 6.234043125099997,
@@ -14,17 +14,10 @@
         "link": 21.79771826480758,
         "sand": 2446.0433175416006,
         "xrp": 5.0012998464159235,
-        "snx": 1295.5872767862713,
+        "snx": 1195.5872767862713,
         "pol": 65.50526908796405
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-11-01T17:26:30.104922+00:00",
-            "ticker": "unibrl",
-            "acao": "VENDER",
-            "quantidade": 1.0,
-            "preco_estimado": 39.175
-        },
         {
             "timestamp": "2026-11-01T19:10:49.791855+00:00",
             "ticker": "solbrl",
@@ -367,10 +360,17 @@
             "acao": "COMPRAR",
             "quantidade": 50.0,
             "preco_estimado": 486.51
+        },
+        {
+            "timestamp": "2026-11-19T19:41:42.981133+00:00",
+            "ticker": "snxbrl",
+            "acao": "VENDER",
+            "quantidade": 100.0,
+            "preco_estimado": 0.9931
         }
     ],
-    "licoes_aprendidas": "O mercado permanece em regime de baixa (bearish), com a maioria dos ativos operando próximos aos níveis 0.0 de Fibonacci e com RSIs em zonas de sobrevenda (abaixo de 35). Embora as classificações sejam de 'Acumular' (Nível 2), a liquidez em BRL (R$ 26.83) é insuficiente para novas entradas significativas. A estratégia de preservação de capital dita a manutenção dos ativos atuais, evitando vendas em suportes históricos para não realizar prejuízos no fundo do ciclo. Aguarda-se a convergência do MACD e a subida do RSI para confirmar reversões.",
-    "ultima_execucao": "2026-11-19T01:33:53.541677+00:00",
+    "licoes_aprendidas": "A maioria dos ativos principais (BTC, ETH, DOT, LTC) atingiu níveis críticos de suporte (Fibonacci 0.0) e RSI de sobrevenda, configurando cenário de acumulação. A venda parcial de SNX foi executada para aproveitar a volatilidade positiva (>9%) e aumentar a reserva de BRL, já que a liquidez anterior (R$ 26.83) era insuficiente para operar. A estratégia permanece conservadora, evitando vendas em fundos históricos.",
+    "ultima_execucao": "2026-11-19T19:41:42.981151+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
