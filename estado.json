@@ -1,9 +1,9 @@
 {
-    "saldo_anterior": 11219.82,
+    "saldo_anterior": 10346.15,
     "saldos_virtuais": {
-        "brl": 198.00774240740122,
-        "btc": 0.001439825620719644,
-        "eth": 0.22012249811169646,
+        "brl": 48.007742407401224,
+        "btc": 0.0017264521978823848,
+        "eth": 0.2253574972217466,
         "sol": 6.234043125099997,
         "ltc": 1.263804262251817,
         "uni": 5.159044946919954,
@@ -18,20 +18,6 @@
         "pol": 65.50526908796405
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-11-03T18:46:56.148827+00:00",
-            "ticker": "unibrl",
-            "acao": "VENDER",
-            "quantidade": 2.0,
-            "preco_estimado": 40.015
-        },
-        {
-            "timestamp": "2026-11-03T18:46:56.148845+00:00",
-            "ticker": "polbrl",
-            "acao": "VENDER",
-            "quantidade": 10.0,
-            "preco_estimado": 0.50884
-        },
         {
             "timestamp": "2026-11-03T20:39:58.579403+00:00",
             "ticker": "solbrl",
@@ -367,10 +353,24 @@
             "acao": "VENDER",
             "quantidade": 200.0,
             "preco_estimado": 0.99
+        },
+        {
+            "timestamp": "2026-11-20T19:19:33.508602+00:00",
+            "ticker": "btcbrl",
+            "acao": "COMPRAR",
+            "quantidade": 100.0,
+            "preco_estimado": 348886.0
+        },
+        {
+            "timestamp": "2026-11-20T19:19:33.508616+00:00",
+            "ticker": "ethbrl",
+            "acao": "COMPRAR",
+            "quantidade": 50.0,
+            "preco_estimado": 9551.1
         }
     ],
-    "licoes_aprendidas": "A maioria dos ativos core (BTC, ETH, DOT, LTC) permanece em zona de sobrevenda (RSI < 35) e testando suportes críticos de Fibonacci (0.0), sugerindo que a queda perdeu força. A venda parcial de SNX visa realizar lucro em um ativo que atingiu resistência (Fib 0.618) para recompor o caixa BRL, essencial para aproveitar possíveis repiques nos ativos de Nível 2.",
-    "ultima_execucao": "2026-11-20T01:31:04.154904+00:00",
+    "licoes_aprendidas": "O mercado entrou em um estado de 'capitulação' generalizada, com BTC e ETH atingindo simultaneamente o nível 0.0 de Fibonacci e RSI < 30. A estratégia de preservação de capital foi eficaz, permitindo a compra de ativos core em níveis de desconto extremo. A prioridade agora é a recomposição de posições em BTC e ETH, aproveitando a exaustão da tendência de baixa.",
+    "ultima_execucao": "2026-11-20T19:19:33.508624+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
