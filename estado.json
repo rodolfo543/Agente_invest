@@ -1,7 +1,7 @@
 {
-    "saldo_anterior": 11091.91,
+    "saldo_anterior": 11219.82,
     "saldos_virtuais": {
-        "brl": 0.007742407401210016,
+        "brl": 198.00774240740122,
         "btc": 0.001439825620719644,
         "eth": 0.22012249811169646,
         "sol": 6.234043125099997,
@@ -14,17 +14,10 @@
         "link": 21.79771826480758,
         "sand": 2446.0433175416006,
         "xrp": 5.0012998464159235,
-        "snx": 1195.5872767862713,
+        "snx": 995.5872767862713,
         "pol": 65.50526908796405
     },
     "historico_trades": [
-        {
-            "timestamp": "2026-11-01T23:15:55.016326+00:00",
-            "ticker": "dotbrl",
-            "acao": "COMPRAR",
-            "quantidade": 4.18,
-            "preco_estimado": 5.163
-        },
         {
             "timestamp": "2026-11-03T18:46:56.148827+00:00",
             "ticker": "unibrl",
@@ -367,10 +360,17 @@
             "acao": "COMPRAR",
             "quantidade": 26.14,
             "preco_estimado": 29.328
+        },
+        {
+            "timestamp": "2026-11-20T01:31:04.154886+00:00",
+            "ticker": "snxbrl",
+            "acao": "VENDER",
+            "quantidade": 200.0,
+            "preco_estimado": 0.99
         }
     ],
-    "licoes_aprendidas": "O mercado apresenta um cenário generalizado de sobrevenda (RSI < 35) em ativos core (BTC, ETH, DOT, LTC), com a maioria testando os níveis 0.0 de Fibonacci de 30 dias. A estratégia focou em distribuir o saldo residual de BRL (R$ 126,14) nos ativos com maior probabilidade de repique imediato (BTC, ETH, UNI) para maximizar a recuperação do capital, mantendo a prudência operacional.",
-    "ultima_execucao": "2026-11-19T22:25:14.466954+00:00",
+    "licoes_aprendidas": "A maioria dos ativos core (BTC, ETH, DOT, LTC) permanece em zona de sobrevenda (RSI < 35) e testando suportes críticos de Fibonacci (0.0), sugerindo que a queda perdeu força. A venda parcial de SNX visa realizar lucro em um ativo que atingiu resistência (Fib 0.618) para recompor o caixa BRL, essencial para aproveitar possíveis repiques nos ativos de Nível 2.",
+    "ultima_execucao": "2026-11-20T01:31:04.154904+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
