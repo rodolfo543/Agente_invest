@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 10590.93,
+    "saldo_anterior": 9182.87,
     "saldos_virtuais": {
         "brl": 8.007742407401224,
         "btc": 0.0017823092262326196,
@@ -369,8 +369,8 @@
             "preco_estimado": 9825.6
         }
     ],
-    "licoes_aprendidas": "A capitulação se aprofundou, com quase todos os ativos atingindo o nível 0.0 de Fibonacci simultaneamente. A estratégia de preservar BRL foi crucial. Concentrei a compra final do caixa disponível nos ativos de maior liquidez (BTC e ETH) por apresentarem os RSIs mais baixos e maior probabilidade de recuperação estrutural, mantendo o restante da carteira em Hold para evitar a erosão do capital em ativos de maior volatilidade.",
-    "ultima_execucao": "2026-11-20T21:55:17.963214+00:00",
+    "licoes_aprendidas": "O mercado entrou em um estado de capitulação generalizada, com BTC e ETH atingindo níveis críticos de sobrevenda (RSI < 30) e testando o suporte 0.0 de Fibonacci. Dado que o caixa disponível em BRL é extremamente baixo (R$ 8,00), não há margem para novas compras. A estratégia agora é a preservação total dos ativos em Hold, aguardando a convergência do MACD e o rompimento das SMAs para possíveis saídas parciais em níveis de Fibonacci superiores.",
+    "ultima_execucao": "2026-11-21T01:01:24.914531+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
