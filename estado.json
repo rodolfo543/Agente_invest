@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 10822.66,
+    "saldo_anterior": 10949.37,
     "saldos_virtuais": {
         "brl": 8.007742407401224,
         "btc": 0.0017823092262326196,
@@ -369,8 +369,8 @@
             "preco_estimado": 9825.6
         }
     ],
-    "licoes_aprendidas": "A carteira encontra-se em posição de 'Hold' forçado devido à exaustão do caixa (BRL < 10). Tecnicamente, a maioria dos ativos (BTC, ETH, DOT, LTC) atingiu níveis críticos de sobrevenda (RSI < 35) e suportes Fibonacci 0.0, configurando oportunidades de compra nível 1 e 2. A estratégia de preservação de capital impede a venda no fundo, aguardando a recuperação orgânica para rebalancear a carteira.",
-    "ultima_execucao": "2026-11-22T00:09:02.975254+00:00",
+    "licoes_aprendidas": "O mercado apresenta uma convergência de ativos em zonas de sobrevenda (RSI < 40) e suportes Fibonacci 0.0 (LTC, DOT, SAND). Tecnicamente, a carteira está posicionada para uma reversão altista. Contudo, a restrição de capital (BRL < 10) impede novas compras, mantendo a estratégia de 'Hold' preventivo para evitar a venda em fundos técnicos. A prioridade agora é aguardar a subida para SMA 20 para realizar lucros parciais e recompor o caixa.",
+    "ultima_execucao": "2026-11-22T18:54:24.950671+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
