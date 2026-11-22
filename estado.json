@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 10949.37,
+    "saldo_anterior": 10875.8,
     "saldos_virtuais": {
         "brl": 8.007742407401224,
         "btc": 0.0017823092262326196,
@@ -369,8 +369,8 @@
             "preco_estimado": 9825.6
         }
     ],
-    "licoes_aprendidas": "O mercado apresenta uma convergência de ativos em zonas de sobrevenda (RSI < 40) e suportes Fibonacci 0.0 (LTC, DOT, SAND). Tecnicamente, a carteira está posicionada para uma reversão altista. Contudo, a restrição de capital (BRL < 10) impede novas compras, mantendo a estratégia de 'Hold' preventivo para evitar a venda em fundos técnicos. A prioridade agora é aguardar a subida para SMA 20 para realizar lucros parciais e recompor o caixa.",
-    "ultima_execucao": "2026-11-22T18:54:24.950671+00:00",
+    "licoes_aprendidas": "A carteira encontra-se em zona de máxima compressão técnica, com a maioria dos ativos (DOT, LTC, SAND, UNI) tocando ou operando muito próximos aos níveis de suporte Fibonacci 0.0 e com RSI em zonas de sobrevenda (< 40). Embora existam sinais claros de 'Nível 1' (Compra), a ausência de liquidez em BRL (R$ 8,00) impossibilita novas entradas. A estratégia permanece em 'Hold' preventivo, aguardando a recuperação dos preços acima das SMAs 10 e 20 para realizar lucros parciais e recompor a reserva de caixa.",
+    "ultima_execucao": "2026-11-22T20:51:44.605403+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
