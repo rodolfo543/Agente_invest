@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 10906.94,
+    "saldo_anterior": 10774.0,
     "saldos_virtuais": {
         "brl": 8.007742407401224,
         "btc": 0.0017823092262326196,
@@ -369,8 +369,8 @@
             "preco_estimado": 9825.6
         }
     ],
-    "licoes_aprendidas": "A carteira permanece em estado de 'paralisia técnica' devido à exaustão do caixa (BRL R$ 8,00). Diversos ativos (DOT, LTC, SAND) entraram em zonas de Nível 1 (sobrevenda e suporte Fibonacci 0.0), o que seria ideal para compra, mas a ausência de liquidez impede a operação. A estratégia atual deve focar rigorosamente em 'Hold' e monitorar a SMA 10; qualquer rompimento confirmado acima da SMA 20 em ativos como BTC ou ETH deve ser aproveitado para vendas parciais e recomposição do caixa reserva.",
-    "ultima_execucao": "2026-11-23T00:35:08.052219+00:00",
+    "licoes_aprendidas": "O mercado entrou em uma fase de correção generalizada, levando a maioria dos ativos (BTC, ETH, DOT, LTC, SAND) para níveis de suporte Fibonacci 0.0 e RSI de sobrevenda. Tecnicamente, é um cenário ideal de 'Compra/Acumulação' (Nível 1 e 2), porém a carteira continua em paralisia operacional devido ao saldo de BRL insuficiente (R$ 8,00). A lição principal é a necessidade crítica de liquidez para aproveitar reversões de tendência; a estratégia agora é estritamente Hold, aguardando que a recuperação dos preços permita vendas parciais acima das SMAs para recompor o caixa reserva.",
+    "ultima_execucao": "2026-11-23T23:01:22.536028+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
