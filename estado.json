@@ -1,5 +1,5 @@
 {
-    "saldo_anterior": 10890.06,
+    "saldo_anterior": 10780.3,
     "saldos_virtuais": {
         "brl": 8.007742407401224,
         "btc": 0.0017823092262326196,
@@ -369,8 +369,8 @@
             "preco_estimado": 9825.6
         }
     ],
-    "licoes_aprendidas": "A maioria dos ativos atingiu zonas de sobrevenda (RSI < 40) e suportes históricos de Fibonacci (0.0), configurando oportunidades técnicas de Nível 1 e 2. No entanto, a falta de liquidez em BRL (R$ 8,00) impossibilita a execução de compras. A estratégia permanece em 'Hold' defensivo. A prioridade continua sendo a recomposição do caixa via vendas parciais apenas quando os preços romperem a SMA 20 para cima.",
-    "ultima_execucao": "2026-11-24T01:48:26.339185+00:00",
+    "licoes_aprendidas": "O mercado entrou em uma fase de correção generalizada, levando quase todos os ativos para as zonas de suporte de Fibonacci 0.0 e RSI abaixo de 40. Tecnicamente, é um cenário de 'Compra' (Níveis 1 e 2), porém a ausência de liquidez em BRL (R$ 8,00) força a manutenção da carteira. A estratégia de preservação de capital impede a venda no fundo, mas a falta de caixa impede a capitalização da reversão. O foco permanece em aguardar a recuperação para realizar vendas parciais e recompor a reserva financeira.",
+    "ultima_execucao": "2026-11-24T04:31:21.101105+00:00",
     "precos_medios_reais": {
         "btc": 312000.0,
         "eth": 8200.0,
